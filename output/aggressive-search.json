@@ -16,7 +16,7 @@
     "priority": 2,
     "votes": 2083,
     "searchQuery": "1€ kebab wien",
-    "pubDate": "2026-02-13T21:20:01.232Z"
+    "pubDate": "2026-02-13T21:25:10.044Z"
   },
   {
     "id": "agg-ChIJUSgnds",
@@ -35,7 +35,7 @@
     "priority": 2,
     "votes": 1025,
     "searchQuery": "1€ kebab wien",
-    "pubDate": "2026-02-13T21:20:01.233Z"
+    "pubDate": "2026-02-13T21:25:10.045Z"
   },
   {
     "id": "agg-ChIJJ0dAqu",
@@ -54,7 +54,7 @@
     "priority": 2,
     "votes": 103,
     "searchQuery": "1€ kebab wien",
-    "pubDate": "2026-02-13T21:20:01.233Z"
+    "pubDate": "2026-02-13T21:25:10.045Z"
   },
   {
     "id": "agg-ChIJfdH22f",
@@ -73,34 +73,15 @@
     "priority": 2,
     "votes": 151,
     "searchQuery": "1€ kebab wien",
-    "pubDate": "2026-02-13T21:20:01.233Z"
-  },
-  {
-    "id": "agg-ChIJPYBulb",
-    "brand": "Ali's GemüseKebap",
-    "logo": "🏷️",
-    "title": "🏷️ Ali's GemüseKebap",
-    "description": "Gefunden bei Suche \"1€ kebab wien\". Währinger Str. 9, 1090 Wien, Österreich. ⭐ 4.8 (606 Bewertungen)",
-    "type": "super-günstig",
-    "category": "essen",
-    "source": "Aggressive Search",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJPYBulbQHbUcRxs1Lw8Kz6Ck",
-    "expires": "Prüfen",
-    "distance": "1090. Bezirk",
-    "hot": false,
-    "isNew": true,
-    "priority": 2,
-    "votes": 606,
-    "searchQuery": "1€ kebab wien",
-    "pubDate": "2026-02-13T21:20:01.233Z"
+    "pubDate": "2026-02-13T21:25:10.045Z"
   },
   {
     "id": "agg-ChIJn66GYt",
     "brand": "Miros Kebab & Pizza",
     "logo": "🥙",
     "title": "🏷️ Miros Kebab & Pizza",
-    "description": "Gefunden bei Suche \"2€ kebab wien\". Burggasse 20, 1070 Wien, Österreich. ⭐ 4.8 (803 Bewertungen)",
-    "type": "günstig",
+    "description": "Gefunden bei Suche \"1€ kebab wien\". Burggasse 20, 1070 Wien, Österreich. ⭐ 4.8 (803 Bewertungen)",
+    "type": "super-günstig",
     "category": "essen",
     "source": "Aggressive Search",
     "url": "https://www.google.com/maps/place/?q=place_id:ChIJn66GYtUHbUcRz-0DPL0AbP0",
@@ -110,8 +91,8 @@
     "isNew": true,
     "priority": 2,
     "votes": 803,
-    "searchQuery": "2€ kebab wien",
-    "pubDate": "2026-02-13T21:20:01.578Z"
+    "searchQuery": "1€ kebab wien",
+    "pubDate": "2026-02-13T21:25:10.045Z"
   },
   {
     "id": "agg-ChIJQYjLZ3",
@@ -130,7 +111,7 @@
     "priority": 2,
     "votes": 1300,
     "searchQuery": "2€ kebab wien",
-    "pubDate": "2026-02-13T21:20:01.578Z"
+    "pubDate": "2026-02-13T21:25:10.376Z"
   },
   {
     "id": "agg-ChIJT0lM12",
@@ -149,7 +130,7 @@
     "priority": 2,
     "votes": 40,
     "searchQuery": "1€ pizza wien",
-    "pubDate": "2026-02-13T21:20:01.870Z"
+    "pubDate": "2026-02-13T21:25:10.621Z"
   },
   {
     "id": "agg-ChIJaR9PIq",
@@ -168,7 +149,7 @@
     "priority": 2,
     "votes": 898,
     "searchQuery": "1€ pizza wien",
-    "pubDate": "2026-02-13T21:20:01.870Z"
+    "pubDate": "2026-02-13T21:25:10.621Z"
   },
   {
     "id": "agg-ChIJHzfP-9",
@@ -187,7 +168,7 @@
     "priority": 2,
     "votes": 1698,
     "searchQuery": "2€ pizza wien",
-    "pubDate": "2026-02-13T21:20:02.231Z"
+    "pubDate": "2026-02-13T21:25:10.955Z"
   },
   {
     "id": "agg-ChIJ_6eoQZ",
@@ -206,7 +187,7 @@
     "priority": 2,
     "votes": 3255,
     "searchQuery": "2€ pizza wien",
-    "pubDate": "2026-02-13T21:20:02.231Z"
+    "pubDate": "2026-02-13T21:25:10.955Z"
   },
   {
     "id": "agg-ChIJ07c_uJ",
@@ -225,7 +206,7 @@
     "priority": 2,
     "votes": 5695,
     "searchQuery": "2€ pizza wien",
-    "pubDate": "2026-02-13T21:20:02.231Z"
+    "pubDate": "2026-02-13T21:25:10.955Z"
   },
   {
     "id": "agg-ChIJYdnbw5",
@@ -244,7 +225,26 @@
     "priority": 2,
     "votes": 1580,
     "searchQuery": "2€ pizza wien",
-    "pubDate": "2026-02-13T21:20:02.231Z"
+    "pubDate": "2026-02-13T21:25:10.955Z"
+  },
+  {
+    "id": "agg-ChIJPYBulb",
+    "brand": "Ali's GemüseKebap",
+    "logo": "🏷️",
+    "title": "🏷️ Ali's GemüseKebap",
+    "description": "Gefunden bei Suche \"1€ döner wien\". Währinger Str. 9, 1090 Wien, Österreich. ⭐ 4.8 (606 Bewertungen)",
+    "type": "super-günstig",
+    "category": "essen",
+    "source": "Aggressive Search",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJPYBulbQHbUcRxs1Lw8Kz6Ck",
+    "expires": "Prüfen",
+    "distance": "1090. Bezirk",
+    "hot": false,
+    "isNew": true,
+    "priority": 2,
+    "votes": 606,
+    "searchQuery": "1€ döner wien",
+    "pubDate": "2026-02-13T21:25:11.221Z"
   },
   {
     "id": "agg-ChIJIYudCa",
@@ -263,14 +263,14 @@
     "priority": 2,
     "votes": 11116,
     "searchQuery": "1,50€ kebab wien",
-    "pubDate": "2026-02-13T21:20:02.921Z"
+    "pubDate": "2026-02-13T21:25:11.583Z"
   },
   {
     "id": "agg-ChIJsWaCXV",
     "brand": "Kebap Art",
     "logo": "🏷️",
     "title": "🏷️ Kebap Art",
-    "description": "Gefunden bei Suche \"1,90€ kebab wien\". Siebenbrunnenpl. 2, 1050 Wien, Österreich. ⭐ 4.9 (658 Bewertungen)",
+    "description": "Gefunden bei Suche \"1,50€ kebab wien\". Siebenbrunnenpl. 2, 1050 Wien, Österreich. ⭐ 4.9 (658 Bewertungen)",
     "type": "super-günstig",
     "category": "essen",
     "source": "Aggressive Search",
@@ -281,8 +281,8 @@
     "isNew": true,
     "priority": 2,
     "votes": 658,
-    "searchQuery": "1,90€ kebab wien",
-    "pubDate": "2026-02-13T21:20:03.254Z"
+    "searchQuery": "1,50€ kebab wien",
+    "pubDate": "2026-02-13T21:25:11.583Z"
   },
   {
     "id": "agg-ChIJ96W46o",
@@ -301,7 +301,7 @@
     "priority": 1,
     "votes": 280,
     "searchQuery": "gratis essen wien",
-    "pubDate": "2026-02-13T21:20:03.603Z"
+    "pubDate": "2026-02-13T21:25:12.220Z"
   },
   {
     "id": "agg-ChIJz-ofAM",
@@ -320,7 +320,7 @@
     "priority": 1,
     "votes": 6975,
     "searchQuery": "gratis essen wien",
-    "pubDate": "2026-02-13T21:20:03.603Z"
+    "pubDate": "2026-02-13T21:25:12.220Z"
   },
   {
     "id": "agg-ChIJJSuhv6",
@@ -339,7 +339,7 @@
     "priority": 1,
     "votes": 3574,
     "searchQuery": "gratis essen wien",
-    "pubDate": "2026-02-13T21:20:03.603Z"
+    "pubDate": "2026-02-13T21:25:12.220Z"
   },
   {
     "id": "agg-ChIJD-Af7N",
@@ -358,7 +358,7 @@
     "priority": 1,
     "votes": 1319,
     "searchQuery": "gratis essen wien",
-    "pubDate": "2026-02-13T21:20:03.603Z"
+    "pubDate": "2026-02-13T21:25:12.220Z"
   },
   {
     "id": "agg-ChIJPUFeN2",
@@ -377,7 +377,7 @@
     "priority": 1,
     "votes": 1380,
     "searchQuery": "gratis essen wien",
-    "pubDate": "2026-02-13T21:20:03.603Z"
+    "pubDate": "2026-02-13T21:25:12.220Z"
   },
   {
     "id": "agg-ChIJJ4dvR6",
@@ -396,7 +396,7 @@
     "priority": 1,
     "votes": 1279,
     "searchQuery": "gratis kebab wien",
-    "pubDate": "2026-02-13T21:20:03.916Z"
+    "pubDate": "2026-02-13T21:25:12.503Z"
   },
   {
     "id": "agg-ChIJxWa2hS",
@@ -415,7 +415,7 @@
     "priority": 1,
     "votes": 788,
     "searchQuery": "gratis kebab wien",
-    "pubDate": "2026-02-13T21:20:03.916Z"
+    "pubDate": "2026-02-13T21:25:12.503Z"
   },
   {
     "id": "agg-ChIJxUcnHk",
@@ -434,7 +434,7 @@
     "priority": 1,
     "votes": 66,
     "searchQuery": "gratis pizza wien",
-    "pubDate": "2026-02-13T21:20:04.235Z"
+    "pubDate": "2026-02-13T21:25:12.823Z"
   },
   {
     "id": "agg-ChIJ-bwsGZ",
@@ -453,7 +453,7 @@
     "priority": 1,
     "votes": 271,
     "searchQuery": "gratis pizza wien",
-    "pubDate": "2026-02-13T21:20:04.235Z"
+    "pubDate": "2026-02-13T21:25:12.823Z"
   },
   {
     "id": "agg-ChIJld_j7w",
@@ -472,7 +472,7 @@
     "priority": 1,
     "votes": 738,
     "searchQuery": "gratis pizza wien",
-    "pubDate": "2026-02-13T21:20:04.235Z"
+    "pubDate": "2026-02-13T21:25:12.823Z"
   },
   {
     "id": "agg-ChIJNXEQhZ",
@@ -491,7 +491,7 @@
     "priority": 1,
     "votes": 5239,
     "searchQuery": "gratis café wien",
-    "pubDate": "2026-02-13T21:20:04.686Z"
+    "pubDate": "2026-02-13T21:25:13.187Z"
   },
   {
     "id": "agg-ChIJ20JtAJ",
@@ -510,7 +510,7 @@
     "priority": 1,
     "votes": 2432,
     "searchQuery": "gratis café wien",
-    "pubDate": "2026-02-13T21:20:04.686Z"
+    "pubDate": "2026-02-13T21:25:13.187Z"
   },
   {
     "id": "agg-ChIJHSt-WZ",
@@ -529,7 +529,7 @@
     "priority": 1,
     "votes": 2460,
     "searchQuery": "gratis café wien",
-    "pubDate": "2026-02-13T21:20:04.686Z"
+    "pubDate": "2026-02-13T21:25:13.187Z"
   },
   {
     "id": "agg-ChIJh1-JAc",
@@ -548,26 +548,26 @@
     "priority": 1,
     "votes": 1581,
     "searchQuery": "gratis café wien",
-    "pubDate": "2026-02-13T21:20:04.686Z"
+    "pubDate": "2026-02-13T21:25:13.187Z"
   },
   {
-    "id": "agg-ChIJDaTAoo",
-    "brand": "Café Kafka",
+    "id": "agg-ChIJoanu9w",
+    "brand": "Kolibri Wien",
     "logo": "🏷️",
-    "title": "🎁 Café Kafka",
-    "description": "Gefunden bei Suche \"gratis café wien\". Capistrangasse 8, 1060 Wien, Österreich. ⭐ 4.3 (1428 Bewertungen)",
+    "title": "🎁 Kolibri Wien",
+    "description": "Gefunden bei Suche \"gratis café wien\". Lerchenfelder Str. 81, 1070 Wien, Österreich. ⭐ 4.8 (92 Bewertungen)",
     "type": "gratis",
     "category": "essen",
     "source": "Aggressive Search",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJDaTAoo8HbUcRGkJAm7eJqUs",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJoanu9wsHbUcRj1ZP3R_oaWs",
     "expires": "Prüfen",
-    "distance": "1060. Bezirk",
+    "distance": "1070. Bezirk",
     "hot": true,
     "isNew": true,
     "priority": 1,
-    "votes": 1428,
+    "votes": 92,
     "searchQuery": "gratis café wien",
-    "pubDate": "2026-02-13T21:20:04.686Z"
+    "pubDate": "2026-02-13T21:25:13.187Z"
   },
   {
     "id": "agg-ChIJ1Wa_RZ",
@@ -586,7 +586,7 @@
     "priority": 1,
     "votes": 3718,
     "searchQuery": "kostenlos essen wien",
-    "pubDate": "2026-02-13T21:20:04.990Z"
+    "pubDate": "2026-02-13T21:25:13.501Z"
   },
   {
     "id": "agg-ChIJDSdUk5",
@@ -605,7 +605,7 @@
     "priority": 1,
     "votes": 629,
     "searchQuery": "kostenlos essen wien",
-    "pubDate": "2026-02-13T21:20:04.990Z"
+    "pubDate": "2026-02-13T21:25:13.501Z"
   },
   {
     "id": "agg-ChIJyY3lHB",
@@ -624,7 +624,7 @@
     "priority": 1,
     "votes": 1476,
     "searchQuery": "kostenlos essen wien",
-    "pubDate": "2026-02-13T21:20:04.990Z"
+    "pubDate": "2026-02-13T21:25:13.501Z"
   },
   {
     "id": "agg-ChIJzaGqrq",
@@ -643,7 +643,7 @@
     "priority": 1,
     "votes": 1311,
     "searchQuery": "kostenlos essen wien",
-    "pubDate": "2026-02-13T21:20:04.990Z"
+    "pubDate": "2026-02-13T21:25:13.501Z"
   },
   {
     "id": "agg-ChIJn8Ffa8",
@@ -662,7 +662,7 @@
     "priority": 2,
     "votes": 709,
     "searchQuery": "eröffnung angebot wien restaurant",
-    "pubDate": "2026-02-13T21:20:05.314Z"
+    "pubDate": "2026-02-13T21:25:13.866Z"
   },
   {
     "id": "agg-ChIJgUm3K_",
@@ -681,7 +681,7 @@
     "priority": 2,
     "votes": 663,
     "searchQuery": "eröffnung angebot wien restaurant",
-    "pubDate": "2026-02-13T21:20:05.314Z"
+    "pubDate": "2026-02-13T21:25:13.866Z"
   },
   {
     "id": "agg-ChIJhdT7zo",
@@ -700,7 +700,7 @@
     "priority": 2,
     "votes": 76,
     "searchQuery": "eröffnung angebot wien restaurant",
-    "pubDate": "2026-02-13T21:20:05.314Z"
+    "pubDate": "2026-02-13T21:25:13.866Z"
   },
   {
     "id": "agg-ChIJz-QgDb",
@@ -719,7 +719,7 @@
     "priority": 2,
     "votes": 642,
     "searchQuery": "eröffnung angebot wien restaurant",
-    "pubDate": "2026-02-13T21:20:05.314Z"
+    "pubDate": "2026-02-13T21:25:13.866Z"
   },
   {
     "id": "agg-ChIJ1ZIsnA",
@@ -738,7 +738,7 @@
     "priority": 2,
     "votes": 352,
     "searchQuery": "eröffnung angebot wien restaurant",
-    "pubDate": "2026-02-13T21:20:05.314Z"
+    "pubDate": "2026-02-13T21:25:13.866Z"
   },
   {
     "id": "agg-ChIJnz3Gz7",
@@ -757,7 +757,7 @@
     "priority": 2,
     "votes": 127,
     "searchQuery": "neueröffnung restaurant wien",
-    "pubDate": "2026-02-13T21:20:05.631Z"
+    "pubDate": "2026-02-13T21:25:14.143Z"
   },
   {
     "id": "agg-ChIJLxE6VJ",
@@ -776,7 +776,7 @@
     "priority": 2,
     "votes": 581,
     "searchQuery": "neueröffnung restaurant wien",
-    "pubDate": "2026-02-13T21:20:05.631Z"
+    "pubDate": "2026-02-13T21:25:14.144Z"
   },
   {
     "id": "agg-ChIJFb7OfU",
@@ -795,7 +795,7 @@
     "priority": 2,
     "votes": 358,
     "searchQuery": "neueröffnung restaurant wien",
-    "pubDate": "2026-02-13T21:20:05.631Z"
+    "pubDate": "2026-02-13T21:25:14.144Z"
   },
   {
     "id": "agg-ChIJ-Uy7Yw",
@@ -814,7 +814,7 @@
     "priority": 2,
     "votes": 344,
     "searchQuery": "neueröffnung restaurant wien",
-    "pubDate": "2026-02-13T21:20:05.631Z"
+    "pubDate": "2026-02-13T21:25:14.144Z"
   },
   {
     "id": "agg-ChIJ7TE-7Q",
@@ -833,7 +833,7 @@
     "priority": 2,
     "votes": 38,
     "searchQuery": "opening deal wien",
-    "pubDate": "2026-02-13T21:20:06.134Z"
+    "pubDate": "2026-02-13T21:25:14.604Z"
   },
   {
     "id": "agg-ChIJX21l0D",
@@ -852,7 +852,7 @@
     "priority": 2,
     "votes": 173,
     "searchQuery": "opening deal wien",
-    "pubDate": "2026-02-13T21:20:06.134Z"
+    "pubDate": "2026-02-13T21:25:14.604Z"
   },
   {
     "id": "agg-ChIJa0o66k",
@@ -871,7 +871,7 @@
     "priority": 2,
     "votes": 0,
     "searchQuery": "opening deal wien",
-    "pubDate": "2026-02-13T21:20:06.134Z"
+    "pubDate": "2026-02-13T21:25:14.604Z"
   },
   {
     "id": "agg-ChIJZwomF6",
@@ -890,7 +890,7 @@
     "priority": 2,
     "votes": 16,
     "searchQuery": "opening deal wien",
-    "pubDate": "2026-02-13T21:20:06.134Z"
+    "pubDate": "2026-02-13T21:25:14.604Z"
   },
   {
     "id": "agg-ChIJKVrn9J",
@@ -909,7 +909,7 @@
     "priority": 2,
     "votes": 4034,
     "searchQuery": "opening deal wien",
-    "pubDate": "2026-02-13T21:20:06.134Z"
+    "pubDate": "2026-02-13T21:25:14.604Z"
   },
   {
     "id": "agg-ChIJL5nW7o",
@@ -928,7 +928,7 @@
     "priority": 2,
     "votes": 7587,
     "searchQuery": "günstig essen wien",
-    "pubDate": "2026-02-13T21:20:06.525Z"
+    "pubDate": "2026-02-13T21:25:14.900Z"
   },
   {
     "id": "agg-ChIJbU-Egp",
@@ -947,7 +947,7 @@
     "priority": 2,
     "votes": 30749,
     "searchQuery": "günstig essen wien",
-    "pubDate": "2026-02-13T21:20:06.525Z"
+    "pubDate": "2026-02-13T21:25:14.900Z"
   },
   {
     "id": "agg-ChIJ507s6J",
@@ -966,7 +966,7 @@
     "priority": 2,
     "votes": 4829,
     "searchQuery": "günstig essen wien",
-    "pubDate": "2026-02-13T21:20:06.525Z"
+    "pubDate": "2026-02-13T21:25:14.900Z"
   },
   {
     "id": "agg-ChIJfx1lJ5",
@@ -985,7 +985,7 @@
     "priority": 2,
     "votes": 8134,
     "searchQuery": "günstig essen wien",
-    "pubDate": "2026-02-13T21:20:06.525Z"
+    "pubDate": "2026-02-13T21:25:14.900Z"
   },
   {
     "id": "agg-ChIJM-0eeK",
@@ -1004,7 +1004,7 @@
     "priority": 2,
     "votes": 3728,
     "searchQuery": "günstig essen wien",
-    "pubDate": "2026-02-13T21:20:06.525Z"
+    "pubDate": "2026-02-13T21:25:14.900Z"
   },
   {
     "id": "agg-ChIJ_egr3q",
@@ -1023,7 +1023,7 @@
     "priority": 2,
     "votes": 9853,
     "searchQuery": "billig essen wien",
-    "pubDate": "2026-02-13T21:20:06.868Z"
+    "pubDate": "2026-02-13T21:25:15.195Z"
   },
   {
     "id": "agg-ChIJiwmk_Z",
@@ -1042,7 +1042,7 @@
     "priority": 2,
     "votes": 3567,
     "searchQuery": "billig essen wien",
-    "pubDate": "2026-02-13T21:20:06.868Z"
+    "pubDate": "2026-02-13T21:25:15.195Z"
   },
   {
     "id": "agg-ChIJPzzy6J",
@@ -1061,26 +1061,7 @@
     "priority": 2,
     "votes": 3544,
     "searchQuery": "5€ essen wien",
-    "pubDate": "2026-02-13T21:20:07.228Z"
-  },
-  {
-    "id": "agg-ChIJJVEXso",
-    "brand": "Yangguofu Malatang 杨国福 1010 Wien",
-    "logo": "🏷️",
-    "title": "🏷️ Yangguofu Malatang 杨国福 1010 Wien",
-    "description": "Gefunden bei Suche \"5€ essen wien\". Bäckerstraße 12, 1010 Wien, Österreich. ⭐ 4.8 (68 Bewertungen)",
-    "type": "rabatt",
-    "category": "essen",
-    "source": "Aggressive Search",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJJVEXsokHbUcRbfJEOZT3TuU",
-    "expires": "Prüfen",
-    "distance": "1010. Bezirk",
-    "hot": false,
-    "isNew": true,
-    "priority": 2,
-    "votes": 68,
-    "searchQuery": "5€ essen wien",
-    "pubDate": "2026-02-13T21:20:07.228Z"
+    "pubDate": "2026-02-13T21:25:15.520Z"
   },
   {
     "id": "agg-ChIJ8cy3YZ",
@@ -1099,6 +1080,25 @@
     "priority": 2,
     "votes": 3442,
     "searchQuery": "5€ essen wien",
-    "pubDate": "2026-02-13T21:20:07.228Z"
+    "pubDate": "2026-02-13T21:25:15.520Z"
+  },
+  {
+    "id": "agg-ChIJJVEXso",
+    "brand": "Yangguofu Malatang 杨国福 1010 Wien",
+    "logo": "🏷️",
+    "title": "🏷️ Yangguofu Malatang 杨国福 1010 Wien",
+    "description": "Gefunden bei Suche \"5€ essen wien\". Bäckerstraße 12, 1010 Wien, Österreich. ⭐ 4.8 (68 Bewertungen)",
+    "type": "rabatt",
+    "category": "essen",
+    "source": "Aggressive Search",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJJVEXsokHbUcRbfJEOZT3TuU",
+    "expires": "Prüfen",
+    "distance": "1010. Bezirk",
+    "hot": false,
+    "isNew": true,
+    "priority": 2,
+    "votes": 68,
+    "searchQuery": "5€ essen wien",
+    "pubDate": "2026-02-13T21:25:15.520Z"
   }
 ]
