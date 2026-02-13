@@ -15,7 +15,7 @@
     "isNew": false,
     "priority": 1,
     "votes": 500,
-    "pubDate": "2026-02-13T22:32:35.823Z"
+    "pubDate": "2026-02-13T22:44:42.742Z"
   },
   {
     "id": "event-film-festival",
@@ -33,7 +33,7 @@
     "isNew": false,
     "priority": 1,
     "votes": 500,
-    "pubDate": "2026-02-13T22:32:35.823Z"
+    "pubDate": "2026-02-13T22:44:42.743Z"
   },
   {
     "id": "event-wiener-eistraum",
@@ -51,7 +51,7 @@
     "isNew": false,
     "priority": 2,
     "votes": 200,
-    "pubDate": "2026-02-13T22:32:35.823Z"
+    "pubDate": "2026-02-13T22:44:42.743Z"
   },
   {
     "id": "event-lange-nacht-der-museen",
@@ -69,7 +69,7 @@
     "isNew": false,
     "priority": 2,
     "votes": 200,
-    "pubDate": "2026-02-13T22:32:35.823Z"
+    "pubDate": "2026-02-13T22:44:42.743Z"
   },
   {
     "id": "event-bundesmuseen",
@@ -87,7 +87,7 @@
     "isNew": false,
     "priority": 1,
     "votes": 500,
-    "pubDate": "2026-02-13T22:32:35.823Z"
+    "pubDate": "2026-02-13T22:44:42.743Z"
   },
   {
     "id": "event-wiener-rathaus",
@@ -105,7 +105,7 @@
     "isNew": false,
     "priority": 2,
     "votes": 200,
-    "pubDate": "2026-02-13T22:32:35.823Z"
+    "pubDate": "2026-02-13T22:44:42.743Z"
   },
   {
     "id": "event-wiener-staatsoper",
@@ -123,7 +123,7 @@
     "isNew": false,
     "priority": 1,
     "votes": 500,
-    "pubDate": "2026-02-13T22:32:35.823Z"
+    "pubDate": "2026-02-13T22:44:42.743Z"
   },
   {
     "id": "event-büchereien-wien",
@@ -141,7 +141,7 @@
     "isNew": false,
     "priority": 2,
     "votes": 200,
-    "pubDate": "2026-02-13T22:32:35.823Z"
+    "pubDate": "2026-02-13T22:44:42.743Z"
   },
   {
     "id": "event-wienmobil-rad",
@@ -159,7 +159,7 @@
     "isNew": false,
     "priority": 2,
     "votes": 200,
-    "pubDate": "2026-02-13T22:32:35.823Z"
+    "pubDate": "2026-02-13T22:44:42.743Z"
   },
   {
     "id": "event-wiener-linien",
@@ -177,6 +177,6 @@
     "isNew": false,
     "priority": 1,
     "votes": 500,
-    "pubDate": "2026-02-13T22:32:35.823Z"
+    "pubDate": "2026-02-13T22:44:42.743Z"
   }
 ]

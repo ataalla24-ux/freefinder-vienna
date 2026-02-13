@@ -1,64 +1,7 @@
 {
-  "lastUpdated": "2026-02-13T22:19:00.552Z",
-  "totalDeals": 150,
+  "lastUpdated": "2026-02-13T22:44:48.940Z",
+  "totalDeals": 117,
   "deals": [
-    {
-      "id": "price-ChIJO7cuEp",
-      "brand": "BILLA CORSO Herrnhuterhaus",
-      "logo": "🏷️",
-      "title": "💶 BILLA CORSO Herrnhuterhaus",
-      "description": "Gefunden bei Suche: \"\"1+1 gratis\" wien\". Herrnhuterhaus, Neuer Markt 17, 1010 Wien, Österreich. ⭐ 4.4",
-      "type": "gratis",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJO7cuEp8HbUcR1mvf_sQ5ONA",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Herrnhuterhaus",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 6749,
-      "searchQuery": "\"1+1 gratis\" wien",
-      "pubDate": "2026-02-13T22:18:55.988Z"
-    },
-    {
-      "id": "price-ChIJQ-DcB3",
-      "brand": "Wien Museum",
-      "logo": "🏷️",
-      "title": "💶 Wien Museum",
-      "description": "Gefunden bei Suche: \"\"eröffnung\" \"gratis\" wien\". Karlsplatz 8, 1040 Wien, Österreich. ⭐ 4.7",
-      "type": "gratis",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJQ-DcB3gHbUcRtahQce46Ytg",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Karlsplatz 8",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 3946,
-      "searchQuery": "\"eröffnung\" \"gratis\" wien",
-      "pubDate": "2026-02-13T22:18:55.349Z"
-    },
-    {
-      "id": "price-ChIJyY3lHB",
-      "brand": "Philly Vienna",
-      "logo": "🏷️",
-      "title": "💶 Philly Vienna",
-      "description": "Gefunden bei Suche: \"\"1+1 gratis\" wien\". Karlsplatz 3, 1010 Wien, Österreich. ⭐ 4.3",
-      "type": "gratis",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJyY3lHB0HbUcRpyRra7b0Wvs",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Karlsplatz 3",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 1476,
-      "searchQuery": "\"1+1 gratis\" wien",
-      "pubDate": "2026-02-13T22:18:55.988Z"
-    },
     {
       "id": "event-donauinselfest",
       "brand": "Donauinselfest",
@@ -75,7 +18,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:18:50.503Z"
+      "pubDate": "2026-02-13T22:44:42.742Z"
     },
     {
       "id": "event-film-festival",
@@ -93,7 +36,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:18:50.503Z"
+      "pubDate": "2026-02-13T22:44:42.743Z"
     },
     {
       "id": "event-bundesmuseen",
@@ -111,7 +54,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:18:50.503Z"
+      "pubDate": "2026-02-13T22:44:42.743Z"
     },
     {
       "id": "event-wiener-staatsoper",
@@ -129,7 +72,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:18:50.503Z"
+      "pubDate": "2026-02-13T22:44:42.743Z"
     },
     {
       "id": "event-wiener-linien",
@@ -147,7 +90,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:18:50.503Z"
+      "pubDate": "2026-02-13T22:44:42.743Z"
     },
     {
       "id": "wiener-tafel-main",
@@ -165,26 +108,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 300,
-      "pubDate": "2026-02-13T22:19:00.547Z"
-    },
-    {
-      "id": "price-ChIJoQWaop",
-      "brand": "SONNENTOR Wien Wollzeile",
-      "logo": "🏷️",
-      "title": "💶 SONNENTOR Wien Wollzeile",
-      "description": "Gefunden bei Suche: \"\"gratis\" \"probieren\" wien\". Wollzeile 14, 1010 Wien, Österreich. ⭐ 4.6",
-      "type": "gratis",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJoQWaop8HbUcReJ4PMNlnvf0",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Wollzeile 14",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 299,
-      "searchQuery": "\"gratis\" \"probieren\" wien",
-      "pubDate": "2026-02-13T22:18:55.637Z"
+      "pubDate": "2026-02-13T22:44:48.934Z"
     },
     {
       "id": "foodsharing-at-main",
@@ -202,7 +126,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 250,
-      "pubDate": "2026-02-13T22:19:00.548Z"
+      "pubDate": "2026-02-13T22:44:48.934Z"
     },
     {
       "id": "foodshare-foodsharing-wien",
@@ -212,7 +136,7 @@
       "description": "Fairteiler in ganz Wien! Lebensmittel gratis abholen oder abgeben. 100% kostenlos. Keine Anmeldung nötig!",
       "type": "gratis",
       "category": "essen",
-      "source": "Foodsharing Wien",
+      "source": "Foodsharing",
       "url": "https://foodsharing.at/",
       "expires": "Täglich",
       "distance": "Wien",
@@ -220,7 +144,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T22:18:50.539Z"
+      "pubDate": "2026-02-13T22:44:42.781Z"
     },
     {
       "id": "foodshare-foodsharing-wien",
@@ -230,7 +154,7 @@
       "description": "Gerettetes Brot und Backwaren von Bäckereien. Täglich frisch!",
       "type": "gratis",
       "category": "essen",
-      "source": "Foodsharing Wien",
+      "source": "Foodsharing",
       "url": "https://foodsharing.at/",
       "expires": "Täglich",
       "distance": "Wien",
@@ -238,7 +162,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T22:18:50.539Z"
+      "pubDate": "2026-02-13T22:44:42.782Z"
     },
     {
       "id": "foodshare-foodsharing-wien",
@@ -248,7 +172,7 @@
       "description": "Gerettetes Obst und Gemüse von Märkten und Supermärkten.",
       "type": "gratis",
       "category": "essen",
-      "source": "Foodsharing Wien",
+      "source": "Foodsharing",
       "url": "https://foodsharing.at/",
       "expires": "Täglich",
       "distance": "Wien",
@@ -256,80 +180,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T22:18:50.539Z"
-    },
-    {
-      "id": "foodshare-wiener-tafel",
-      "brand": "Wiener Tafel",
-      "logo": "🥫",
-      "title": "GRATIS Lebensmittel - Wiener Tafel",
-      "description": "Gerettete Lebensmittel kostenlos bei sozialen Ausgabestellen in Wien. Für Bedürftige.",
-      "type": "gratis",
-      "category": "essen",
-      "source": "Wiener Tafel",
-      "url": "https://www.wienertafel.at/",
-      "expires": "Täglich",
-      "distance": "Wien",
-      "hot": true,
-      "isNew": false,
-      "priority": 1,
-      "votes": 200,
-      "pubDate": "2026-02-13T22:18:50.539Z"
-    },
-    {
-      "id": "foodshare-wiener-tafel",
-      "brand": "Wiener Tafel",
-      "logo": "🍞",
-      "title": "Wiener Tafel - Ausgabestellen",
-      "description": "Multiple Ausgabestellen in ganz Wien. Täglich frische gerettete Lebensmittel.",
-      "type": "gratis",
-      "category": "essen",
-      "source": "Wiener Tafel",
-      "url": "https://www.wienertafel.at/",
-      "expires": "Täglich",
-      "distance": "Wien",
-      "hot": true,
-      "isNew": false,
-      "priority": 1,
-      "votes": 200,
-      "pubDate": "2026-02-13T22:18:50.539Z"
-    },
-    {
-      "id": "foodshare-tischlein-deck-dich",
-      "brand": "Tischlein deck dich",
-      "logo": "🍽️",
-      "title": "GRATIS Essen - Tischlein deck dich",
-      "description": "Lebensmittel für alle, die sie brauchen. Mehrere Standorte in Wien.",
-      "type": "gratis",
-      "category": "essen",
-      "source": "Tischlein deck dich",
-      "url": "https://www.tischlein.at/",
-      "expires": "Täglich",
-      "distance": "Wien",
-      "hot": true,
-      "isNew": false,
-      "priority": 1,
-      "votes": 200,
-      "pubDate": "2026-02-13T22:18:50.539Z"
-    },
-    {
-      "id": "price-ChIJZ78LZ5",
-      "brand": "Wien Ticket Pavillon bei der Staatsoper",
-      "logo": "🏷️",
-      "title": "💶 Wien Ticket Pavillon bei der Staatsoper",
-      "description": "Gefunden bei Suche: \"\"1+1 gratis\" wien\". Herbert-von-Karajan-Platz 1, Wien, 1010 Wien, Österreich. ⭐ 4.1",
-      "type": "gratis",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJZ78LZ5wHbUcR3DSCftkU2Wc",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Herbert-von-Karajan-Platz 1",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 160,
-      "searchQuery": "\"1+1 gratis\" wien",
-      "pubDate": "2026-02-13T22:18:55.988Z"
+      "pubDate": "2026-02-13T22:44:42.782Z"
     },
     {
       "id": "market-foodsharing-fairteiler",
@@ -347,7 +198,25 @@
       "isNew": false,
       "priority": 1,
       "votes": 150,
-      "pubDate": "2026-02-13T22:18:57.025Z"
+      "pubDate": "2026-02-13T22:44:44.800Z"
+    },
+    {
+      "id": "market-wiener-tafel",
+      "brand": "Wiener Tafel",
+      "logo": "🥫",
+      "title": "GRATIS Lebensmittel - Wiener Tafel",
+      "description": "Gerettete Lebensmittel kostenlos bei sozialen Ausgabestellen in Wien. Für Bedürftige.",
+      "type": "gratis",
+      "category": "essen",
+      "source": "Vienna Markets",
+      "url": "https://www.wienertafel.at/",
+      "expires": "Täglich",
+      "distance": "Wien",
+      "hot": true,
+      "isNew": false,
+      "priority": 1,
+      "votes": 150,
+      "pubDate": "2026-02-13T22:44:44.800Z"
     },
     {
       "id": "tischlein-main",
@@ -365,29 +234,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 150,
-      "pubDate": "2026-02-13T22:19:00.548Z"
+      "pubDate": "2026-02-13T22:44:48.935Z"
     },
     {
-      "id": "price-ChIJUWtY4n",
-      "brand": "Action Wien Europaplatz",
-      "logo": "🏷️",
-      "title": "💶 Action Wien Europaplatz",
-      "description": "Gefunden bei Suche: \"\"eröffnung\" \"gratis\" wien\". Europaplatz 1/3, 1150 Wien, Österreich. ⭐ 3.9",
-      "type": "gratis",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJUWtY4nsHbUcR7OtUeBJcqYM",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Europaplatz 1/3",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 143,
-      "searchQuery": "\"eröffnung\" \"gratis\" wien",
-      "pubDate": "2026-02-13T22:18:55.349Z"
-    },
-    {
-      "id": "pj-1771021131441-s53x9t",
+      "id": "pj-1771022683878-jhqx2o",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "Media Markt: 10% on top auf Produkte im Sale mit MyMediaMarkt z.B. GAR",
@@ -405,7 +255,7 @@
       "pubDate": "Fri, 13 Feb 2026 16:46:21 +0100"
     },
     {
-      "id": "pj-1771021131441-qyn3hu",
+      "id": "pj-1771022683878-rhfd66",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "AliExpress Gutscheine ab 15.2.: 2€ ab 15€, 4€ ab 29€, 6€ ab 49€, 10€ a",
@@ -423,7 +273,7 @@
       "pubDate": "Fri, 13 Feb 2026 16:00:15 +0100"
     },
     {
-      "id": "pj-1771021131442-b9z988",
+      "id": "pj-1771022683878-aidfxk",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "Pagro/Libro: 20% auf fast alles ab 30€ ab 13.2.",
@@ -441,7 +291,7 @@
       "pubDate": "Fri, 13 Feb 2026 10:44:00 +0100"
     },
     {
-      "id": "pj-1771021131785-gpvrxk",
+      "id": "pj-1771022684225-wqp7eo",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "Griechenland / Kamena Vourla: Mitsis Galini Wellness Spa & Resort 5* m",
@@ -459,7 +309,7 @@
       "pubDate": "Fri, 13 Feb 2026 15:10:45 +0100"
     },
     {
-      "id": "pj-1771021131785-eav3fy",
+      "id": "pj-1771022684225-ijfbzl",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "4* Lindner Hotel Prague Castle 2 Personen ab 1 Nacht im Deluxe Zimmer ",
@@ -477,7 +327,7 @@
       "pubDate": "Thu, 05 Feb 2026 17:04:00 +0100"
     },
     {
-      "id": "pj-1771021131785-gnl3gs",
+      "id": "pj-1771022684225-m6usrq",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "Jeep Duffle-Trolley | L (73 cm) versch. Farben (Größe XL 82cm für 99,9",
@@ -495,7 +345,7 @@
       "pubDate": "Wed, 04 Feb 2026 10:46:30 +0100"
     },
     {
-      "id": "pj-1771021131785-2xvrjo",
+      "id": "pj-1771022684225-hxquhb",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "Eurowings -5% bei 80€, -10% bei 150€",
@@ -513,7 +363,7 @@
       "pubDate": "Mon, 02 Feb 2026 21:25:46 +0100"
     },
     {
-      "id": "pj-1771021131785-jxnief",
+      "id": "pj-1771022684225-4wm340",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "Hofer Reisen: 50€ ab 899€ oder 100€ ab 1599€ für Reisen im Zeitraum 01",
@@ -531,7 +381,7 @@
       "pubDate": "Sun, 01 Feb 2026 14:50:25 +0100"
     },
     {
-      "id": "pj-1771021131785-eppkuo",
+      "id": "pj-1771022684225-uwfflv",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "Algarve: Domes Lake Algarve, Autograph Collection 5* Hotel mit Frühstü",
@@ -564,7 +414,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:19:00.548Z"
+      "pubDate": "2026-02-13T22:44:48.934Z"
     },
     {
       "id": "tafel-wiener-tafel-favoriten",
@@ -582,7 +432,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:19:00.548Z"
+      "pubDate": "2026-02-13T22:44:48.934Z"
     },
     {
       "id": "tafel-wiener-tafel-floridsdorf",
@@ -600,7 +450,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:19:00.548Z"
+      "pubDate": "2026-02-13T22:44:48.934Z"
     },
     {
       "id": "tafel-wiener-tafel-liesing",
@@ -618,7 +468,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:19:00.548Z"
+      "pubDate": "2026-02-13T22:44:48.934Z"
     },
     {
       "id": "tafel-wiener-tafel-döbling",
@@ -636,7 +486,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:19:00.548Z"
+      "pubDate": "2026-02-13T22:44:48.934Z"
     },
     {
       "id": "fairteiler-fairteiler-neubau",
@@ -654,7 +504,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 80,
-      "pubDate": "2026-02-13T22:19:00.548Z"
+      "pubDate": "2026-02-13T22:44:48.935Z"
     },
     {
       "id": "fairteiler-fairteiler-mariahilf",
@@ -672,7 +522,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 80,
-      "pubDate": "2026-02-13T22:19:00.548Z"
+      "pubDate": "2026-02-13T22:44:48.935Z"
     },
     {
       "id": "fairteiler-fairteiler-alsergrund",
@@ -690,7 +540,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 80,
-      "pubDate": "2026-02-13T22:19:00.548Z"
+      "pubDate": "2026-02-13T22:44:48.935Z"
     },
     {
       "id": "fairteiler-fairteiler-leopoldstadt",
@@ -708,7 +558,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 80,
-      "pubDate": "2026-02-13T22:19:00.548Z"
+      "pubDate": "2026-02-13T22:44:48.935Z"
     },
     {
       "id": "fairteiler-fairteiler-favoriten",
@@ -726,7 +576,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 80,
-      "pubDate": "2026-02-13T22:19:00.548Z"
+      "pubDate": "2026-02-13T22:44:48.935Z"
     },
     {
       "id": "alert-gratis-wien",
@@ -744,7 +594,7 @@
       "isNew": true,
       "priority": 1,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:57.092Z"
+      "pubDate": "2026-02-13T22:44:44.874Z"
     },
     {
       "id": "alert-1€-kebab-wien",
@@ -762,7 +612,7 @@
       "isNew": true,
       "priority": 1,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:57.092Z"
+      "pubDate": "2026-02-13T22:44:44.874Z"
     },
     {
       "id": "alert-kostenlos-essen-wien",
@@ -780,7 +630,7 @@
       "isNew": true,
       "priority": 1,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:57.092Z"
+      "pubDate": "2026-02-13T22:44:44.874Z"
     },
     {
       "id": "alert-eröffnung-angebot-wien",
@@ -798,216 +648,7 @@
       "isNew": true,
       "priority": 1,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:57.092Z"
-    },
-    {
-      "id": "price-ChIJ8SE1AV",
-      "brand": "Foodsharing Fairteiler",
-      "logo": "🏷️",
-      "title": "💶 Foodsharing Fairteiler",
-      "description": "Gefunden bei Suche: \"\"eröffnung\" \"gratis\" wien\". Sankt-Elisabeth-Platz 8, 1040 Wien, Österreich. ⭐ 4.8",
-      "type": "gratis",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ8SE1AV8HbUcRj0Mdw-Fq9DM",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Sankt-Elisabeth-Platz 8",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 12,
-      "searchQuery": "\"eröffnung\" \"gratis\" wien",
-      "pubDate": "2026-02-13T22:18:55.349Z"
-    },
-    {
-      "id": "price-ChIJL5nW7o",
-      "brand": "Centimeter beim Rathaus",
-      "logo": "🏷️",
-      "title": "💶 Centimeter beim Rathaus",
-      "description": "Gefunden bei Suche: \"\"billig\" essen wien\". Lenaugasse 11, 1080 Wien, Österreich. ⭐ 4.4",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJL5nW7oMHbUcRU1UlclP4m84",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Lenaugasse 11",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 7587,
-      "searchQuery": "\"billig\" essen wien",
-      "pubDate": "2026-02-13T22:18:56.990Z"
-    },
-    {
-      "id": "price-ChIJ2YVi1_",
-      "brand": "Berliner Döner Wien",
-      "logo": "🥙",
-      "title": "💶 Berliner Döner Wien",
-      "description": "Gefunden bei Suche: \"\"1 euro\" kebab wien\". Zieglergasse 33A, 1070 Wien, Österreich. ⭐ 4.4",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YVi1_IHbUcRfiQjw4jMRKk",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Zieglergasse 33A",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 6091,
-      "searchQuery": "\"1 euro\" kebab wien",
-      "pubDate": "2026-02-13T22:18:56.367Z"
-    },
-    {
-      "id": "price-ChIJJSuhv6",
-      "brand": "Hungry Guy",
-      "logo": "🏷️",
-      "title": "💶 Hungry Guy",
-      "description": "Gefunden bei Suche: \"\"billig\" essen wien\". Rabensteig 1, 1010 Wien, Österreich. ⭐ 4.3",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJJSuhv6EHbUcRSti3E6WUKJg",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Rabensteig 1",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 3574,
-      "searchQuery": "\"billig\" essen wien",
-      "pubDate": "2026-02-13T22:18:56.990Z"
-    },
-    {
-      "id": "price-ChIJ8cy3YZ",
-      "brand": "Leberkas-Pepi Wien Operngasse",
-      "logo": "🏷️",
-      "title": "💶 Leberkas-Pepi Wien Operngasse",
-      "description": "Gefunden bei Suche: \"\"billig\" essen wien\". Operngasse 12, 1010 Wien, Österreich. ⭐ 4.7",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ8cy3YZsHbUcRGijvDeWxeVk",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Operngasse 12",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 3442,
-      "searchQuery": "\"billig\" essen wien",
-      "pubDate": "2026-02-13T22:18:56.990Z"
-    },
-    {
-      "id": "price-ChIJ_6eoQZ",
-      "brand": "Regina Margherita",
-      "logo": "🏷️",
-      "title": "💶 Regina Margherita",
-      "description": "Gefunden bei Suche: \"\"1€ pizza\" wien\". Wallnerstraße 4, 1010 Wien, Österreich. ⭐ 4.3",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ_6eoQZgHbUcRHmk8X2OEVtU",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Wallnerstraße 4",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 3255,
-      "searchQuery": "\"1€ pizza\" wien",
-      "pubDate": "2026-02-13T22:18:53.277Z"
-    },
-    {
-      "id": "price-ChIJyQCoA6",
-      "brand": "THE DISTRICT KEBAB | PIDE | LAHMACUN | PIZZA",
-      "logo": "🥙",
-      "title": "💶 THE DISTRICT KEBAB | PIDE | LAHMACUN | PIZZA",
-      "description": "Gefunden bei Suche: \"\"1€ kebab\" wien\". Marc-Aurel-Straße 7, 1010 Wien, Österreich. ⭐ 4.7",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJyQCoA6MHbUcR12JIrirupKg",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Marc-Aurel-Straße 7",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 2084,
-      "searchQuery": "\"1€ kebab\" wien",
-      "pubDate": "2026-02-13T22:18:52.986Z"
-    },
-    {
-      "id": "price-ChIJ-8NFOZ",
-      "brand": "Gasthaus \"Zu den 3 Hacken\"",
-      "logo": "🏷️",
-      "title": "💶 Gasthaus \"Zu den 3 Hacken\"",
-      "description": "Gefunden bei Suche: \"\"3€\" wien essen\". Singerstraße 28, 1010 Wien, Österreich. ⭐ 4.4",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8NFOZ4HbUcR_vPhnU7Tmgk",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Singerstraße 28",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 1993,
-      "searchQuery": "\"3€\" wien essen",
-      "pubDate": "2026-02-13T22:18:55.116Z"
-    },
-    {
-      "id": "price-ChIJHzfP-9",
-      "brand": "Joe´s Pub & Pizza",
-      "logo": "🍕",
-      "title": "💶 Joe´s Pub & Pizza",
-      "description": "Gefunden bei Suche: \"\"2€ pizza\" wien\". Judengasse 9, 1010 Wien, Österreich. ⭐ 4.8",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJHzfP-9AHbUcRzPsWSAXHdNE",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Judengasse 9",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 1698,
-      "searchQuery": "\"2€ pizza\" wien",
-      "pubDate": "2026-02-13T22:18:54.081Z"
-    },
-    {
-      "id": "price-ChIJJ4dvR6",
-      "brand": "Dönermeister Alserstraße",
-      "logo": "🥙",
-      "title": "💶 Dönermeister Alserstraße",
-      "description": "Gefunden bei Suche: \"\"1 euro\" kebab wien\". Alser Str. 19, 1080 Wien, Österreich. ⭐ 4.5",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJJ4dvR6sHbUcR9sRBgcdnU-c",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Alser Str. 19",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 1279,
-      "searchQuery": "\"1 euro\" kebab wien",
-      "pubDate": "2026-02-13T22:18:56.367Z"
-    },
-    {
-      "id": "price-ChIJUSgnds",
-      "brand": "Dr. Döner",
-      "logo": "🥙",
-      "title": "💶 Dr. Döner",
-      "description": "Gefunden bei Suche: \"\"2€ kebab\" wien\". Landstraßer Hauptstraße 2A, 1030 Wien, Österreich. ⭐ 4.7",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJUSgnds4HbUcRjqpSa_jccFE",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Landstraßer Hauptstraße 2A",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 1025,
-      "searchQuery": "\"2€ kebab\" wien",
-      "pubDate": "2026-02-13T22:18:53.567Z"
+      "pubDate": "2026-02-13T22:44:44.874Z"
     },
     {
       "id": "tgtg-main",
@@ -1025,67 +666,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 1000,
-      "pubDate": "2026-02-13T22:18:50.575Z"
+      "pubDate": "2026-02-13T22:44:42.820Z"
     },
     {
-      "id": "price-ChIJaR9PIq",
-      "brand": "Pizzeria Del Popolo",
-      "logo": "🏷️",
-      "title": "💶 Pizzeria Del Popolo",
-      "description": "Gefunden bei Suche: \"\"2€ pizza\" wien\". Marc-Aurel-Straße 2A, 1010 Wien, Österreich. ⭐ 4.3",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJaR9PIqIHbUcR_NLtVnD9P-c",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Marc-Aurel-Straße 2A",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 898,
-      "searchQuery": "\"2€ pizza\" wien",
-      "pubDate": "2026-02-13T22:18:54.081Z"
-    },
-    {
-      "id": "price-ChIJyVoQ6d",
-      "brand": "SoulPizza",
-      "logo": "🍕",
-      "title": "💶 SoulPizza",
-      "description": "Gefunden bei Suche: \"\"2 euro\" pizza wien\". Gumpendorfer Str. 38, 1060 Wien, Österreich. ⭐ 4.8",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJyVoQ6d8HbUcRSj_p_EU3GKs",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Gumpendorfer Str. 38",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 676,
-      "searchQuery": "\"2 euro\" pizza wien",
-      "pubDate": "2026-02-13T22:18:56.697Z"
-    },
-    {
-      "id": "price-ChIJPYBulb",
-      "brand": "Ali's GemüseKebap",
-      "logo": "🏷️",
-      "title": "💶 Ali's GemüseKebap",
-      "description": "Gefunden bei Suche: \"\"1€ kebab\" wien\". Währinger Str. 9, 1090 Wien, Österreich. ⭐ 4.8",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJPYBulbQHbUcRxs1Lw8Kz6Ck",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Währinger Str. 9",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 606,
-      "searchQuery": "\"1€ kebab\" wien",
-      "pubDate": "2026-02-13T22:18:52.986Z"
-    },
-    {
-      "id": "tgtg-innere stadt-1771021130575",
+      "id": "tgtg-innere stadt-1771022682820",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Innere Stadt",
@@ -1100,10 +684,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:18:50.575Z"
+      "pubDate": "2026-02-13T22:44:42.820Z"
     },
     {
-      "id": "tgtg-leopoldstadt-1771021130575",
+      "id": "tgtg-leopoldstadt-1771022682820",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Leopoldstadt",
@@ -1118,10 +702,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:18:50.575Z"
+      "pubDate": "2026-02-13T22:44:42.820Z"
     },
     {
-      "id": "tgtg-mariahilf-1771021130575",
+      "id": "tgtg-mariahilf-1771022682820",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Mariahilf",
@@ -1136,10 +720,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:18:50.575Z"
+      "pubDate": "2026-02-13T22:44:42.820Z"
     },
     {
-      "id": "tgtg-wieden-1771021130575",
+      "id": "tgtg-wieden-1771022682820",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Wieden",
@@ -1154,10 +738,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:18:50.575Z"
+      "pubDate": "2026-02-13T22:44:42.820Z"
     },
     {
-      "id": "tgtg-alsergrund-1771021130575",
+      "id": "tgtg-alsergrund-1771022682820",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Alsergrund",
@@ -1172,10 +756,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:18:50.575Z"
+      "pubDate": "2026-02-13T22:44:42.820Z"
     },
     {
-      "id": "tgtg-favoriten-1771021130575",
+      "id": "tgtg-favoriten-1771022682820",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Favoriten",
@@ -1190,10 +774,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:18:50.575Z"
+      "pubDate": "2026-02-13T22:44:42.820Z"
     },
     {
-      "id": "tgtg-floridsdorf-1771021130575",
+      "id": "tgtg-floridsdorf-1771022682820",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Floridsdorf",
@@ -1208,10 +792,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:18:50.575Z"
+      "pubDate": "2026-02-13T22:44:42.820Z"
     },
     {
-      "id": "tgtg-donaustadt-1771021130575",
+      "id": "tgtg-donaustadt-1771022682820",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Donaustadt",
@@ -1226,45 +810,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:18:50.575Z"
-    },
-    {
-      "id": "price-ChIJ4eli2O",
-      "brand": "Casolaro Bros 2.0",
-      "logo": "🏷️",
-      "title": "💶 Casolaro Bros 2.0",
-      "description": "Gefunden bei Suche: \"\"2 euro\" pizza wien\". Erdbergstraße 53, 1030 Wien, Österreich. ⭐ 4.5",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ4eli2OUHbUcRw9eRRJIIy1A",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Erdbergstraße 53",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 369,
-      "searchQuery": "\"2 euro\" pizza wien",
-      "pubDate": "2026-02-13T22:18:56.697Z"
-    },
-    {
-      "id": "price-ChIJNVqCBr",
-      "brand": "Uni Alm - Die 3 Euro Bar",
-      "logo": "🏷️",
-      "title": "💶 Uni Alm - Die 3 Euro Bar",
-      "description": "Gefunden bei Suche: \"\"3€\" wien essen\". Hörlgasse 10, 1090 Wien, Österreich. ⭐ 4.2",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJNVqCBrwHbUcRscdfW98vq_Y",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Hörlgasse 10",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 310,
-      "searchQuery": "\"3€\" wien essen",
-      "pubDate": "2026-02-13T22:18:55.116Z"
+      "pubDate": "2026-02-13T22:44:42.820Z"
     },
     {
       "id": "uni-uni-mensen-wien",
@@ -1282,7 +828,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T22:18:57.060Z"
+      "pubDate": "2026-02-13T22:44:44.838Z"
     },
     {
       "id": "uni-mensa-göttweig",
@@ -1300,7 +846,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T22:18:57.060Z"
+      "pubDate": "2026-02-13T22:44:44.838Z"
     },
     {
       "id": "uni-mensa斜",
@@ -1318,7 +864,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T22:18:57.060Z"
+      "pubDate": "2026-02-13T22:44:44.838Z"
     },
     {
       "id": "uni-ak-wien",
@@ -1336,7 +882,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T22:18:57.060Z"
+      "pubDate": "2026-02-13T22:44:44.838Z"
     },
     {
       "id": "uni-ak-wien",
@@ -1354,7 +900,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T22:18:57.060Z"
+      "pubDate": "2026-02-13T22:44:44.838Z"
     },
     {
       "id": "event-wiener-eistraum",
@@ -1372,7 +918,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T22:18:50.503Z"
+      "pubDate": "2026-02-13T22:44:42.743Z"
     },
     {
       "id": "event-lange-nacht-der-museen",
@@ -1390,7 +936,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T22:18:50.503Z"
+      "pubDate": "2026-02-13T22:44:42.743Z"
     },
     {
       "id": "event-wiener-rathaus",
@@ -1408,7 +954,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T22:18:50.503Z"
+      "pubDate": "2026-02-13T22:44:42.743Z"
     },
     {
       "id": "event-büchereien-wien",
@@ -1426,7 +972,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T22:18:50.503Z"
+      "pubDate": "2026-02-13T22:44:42.743Z"
     },
     {
       "id": "event-wienmobil-rad",
@@ -1444,7 +990,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T22:18:50.503Z"
+      "pubDate": "2026-02-13T22:44:42.743Z"
     },
     {
       "id": "obb-sparschiene-main",
@@ -1462,26 +1008,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T22:19:00.513Z"
-    },
-    {
-      "id": "price-ChIJfdH22f",
-      "brand": "Dönermeister Opernring",
-      "logo": "🥙",
-      "title": "💶 Dönermeister Opernring",
-      "description": "Gefunden bei Suche: \"\"1€ kebab\" wien\". Opernring 1, 1010 Wien, Österreich. ⭐ 4.4",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJfdH22foHbUcRfoKpIonkayM",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Opernring 1",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 151,
-      "searchQuery": "\"1€ kebab\" wien",
-      "pubDate": "2026-02-13T22:18:52.986Z"
+      "pubDate": "2026-02-13T22:44:48.894Z"
     },
     {
       "id": "market-naschmarkt",
@@ -1499,7 +1026,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 150,
-      "pubDate": "2026-02-13T22:18:57.025Z"
+      "pubDate": "2026-02-13T22:44:44.800Z"
     },
     {
       "id": "market-karmelitermarkt",
@@ -1517,7 +1044,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 150,
-      "pubDate": "2026-02-13T22:18:57.025Z"
+      "pubDate": "2026-02-13T22:44:44.800Z"
     },
     {
       "id": "market-brunnenmarkt",
@@ -1535,67 +1062,10 @@
       "isNew": false,
       "priority": 2,
       "votes": 150,
-      "pubDate": "2026-02-13T22:18:57.025Z"
+      "pubDate": "2026-02-13T22:44:44.800Z"
     },
     {
-      "id": "price-ChIJd_EkLw",
-      "brand": "R.I. Gasgerätetechnik",
-      "logo": "🏷️",
-      "title": "💶 R.I. Gasgerätetechnik",
-      "description": "Gefunden bei Suche: \"\"1,90€\" wien\". Anschützgasse 21, 1150 Wien, Österreich. ⭐ 4.7",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJd_EkLwWobUcRgxgOd1KZvDA",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Anschützgasse 21",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 124,
-      "searchQuery": "\"1,90€\" wien",
-      "pubDate": "2026-02-13T22:18:54.635Z"
-    },
-    {
-      "id": "price-ChIJscnjA_",
-      "brand": "Mio am Stadtpark",
-      "logo": "🏷️",
-      "title": "💶 Mio am Stadtpark",
-      "description": "Gefunden bei Suche: \"\"1€ pizza\" wien\". Landstraßer Hauptstraße 2, 1030 Wien, Österreich. ⭐ 4.8",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJscnjA_wHbUcRBWeCjTHaU-M",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Landstraßer Hauptstraße 2",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 112,
-      "searchQuery": "\"1€ pizza\" wien",
-      "pubDate": "2026-02-13T22:18:53.277Z"
-    },
-    {
-      "id": "price-ChIJJ0dAqu",
-      "brand": "Am Kai",
-      "logo": "🏷️",
-      "title": "💶 Am Kai",
-      "description": "Gefunden bei Suche: \"\"2€ kebab\" wien\". Schwedenpl., 1010 Wien, Österreich. ⭐ 4.4",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJJ0dAqukHbUcRAEDs6Cqfo3Y",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Schwedenpl.",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 103,
-      "searchQuery": "\"2€ kebab\" wien",
-      "pubDate": "2026-02-13T22:18:53.567Z"
-    },
-    {
-      "id": "pj-1771021131441-33rpgb",
+      "id": "pj-1771022683878-5rh7r3",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "2x KOORUI E2411F FHD Office-Monitor 60,5 cm (23,8 Zoll) 1920 x 1080 Pi",
@@ -1613,7 +1083,7 @@
       "pubDate": "Fri, 13 Feb 2026 15:59:22 +0100"
     },
     {
-      "id": "pj-1771021131442-q78pz9",
+      "id": "pj-1771022683878-4qgdil",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "NEBULA Capsule 3 Laser GTV Beamer, 300 ANSI Lumen, Neueste Generation",
@@ -1631,7 +1101,7 @@
       "pubDate": "Fri, 13 Feb 2026 12:56:19 +0100"
     },
     {
-      "id": "pj-1771021131442-boiumw",
+      "id": "pj-1771022683878-5we1pi",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "INIU Power Bank, Ultra Klein 20000mAh 22.5W Schnellladefunktion mit ab",
@@ -1649,7 +1119,7 @@
       "pubDate": "Fri, 13 Feb 2026 10:19:09 +0100"
     },
     {
-      "id": "pj-1771021131442-y08v3s",
+      "id": "pj-1771022683878-lcbwoj",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "1 Jahr Bundle Deal: Perplexity AI + Picsart PRO + Freepik Premium",
@@ -1667,7 +1137,7 @@
       "pubDate": "Fri, 13 Feb 2026 09:18:18 +0100"
     },
     {
-      "id": "pj-1771021131442-bxn9th",
+      "id": "pj-1771022683878-dw2vr4",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "INIU USB C Kabel, 100W PD3.0 Schnellladekabel 2m Nylon Geflochten",
@@ -1685,7 +1155,7 @@
       "pubDate": "Thu, 12 Feb 2026 18:09:03 +0100"
     },
     {
-      "id": "pj-1771021131442-u1je7c",
+      "id": "pj-1771022683878-i9rw6g",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "TP-Link Archer BE3600 Dual-Band Wi-Fi 7 WLAN Router",
@@ -1703,7 +1173,7 @@
       "pubDate": "Thu, 12 Feb 2026 15:29:54 +0100"
     },
     {
-      "id": "pj-1771021131442-xsax6y",
+      "id": "pj-1771022683879-azg4rt",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "Annke C500D 3K PoE Überwachungskamera mit Farbnachtsicht",
@@ -1721,7 +1191,7 @@
       "pubDate": "Thu, 12 Feb 2026 13:28:58 +0100"
     },
     {
-      "id": "pj-1771021131442-j69tiz",
+      "id": "pj-1771022683879-p1b1kb",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "TP-Link Tapo RV20 Max Saugroboter mit Wischfunktion, 5300Pa, 83 mm Ult",
@@ -1739,7 +1209,7 @@
       "pubDate": "Wed, 11 Feb 2026 19:00:43 +0100"
     },
     {
-      "id": "pj-1771021131442-ha3rjt",
+      "id": "pj-1771022683879-9yogmy",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "Apple Watch Series 10 (GPS + Cellular) 46mm in verschiedenen Farben fü",
@@ -1757,7 +1227,7 @@
       "pubDate": "Wed, 11 Feb 2026 18:49:08 +0100"
     },
     {
-      "id": "pj-1771021131442-6bwtbi",
+      "id": "pj-1771022683879-e7irth",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "AliExpress: Sammeldeal für Gutscheine bis 55 € Rabatt, ab Montag 09.02",
@@ -1775,7 +1245,7 @@
       "pubDate": "Wed, 11 Feb 2026 18:37:25 +0100"
     },
     {
-      "id": "pj-1771021131442-7pbhfv",
+      "id": "pj-1771022683879-6kops5",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "DJI Osmo Action 5 Pro Standard Combo",
@@ -1793,7 +1263,7 @@
       "pubDate": "Wed, 11 Feb 2026 15:18:00 +0100"
     },
     {
-      "id": "pj-1771021131442-ywkxrb",
+      "id": "pj-1771022683879-kfj5bg",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "AOOSTAR WTR PRO N150 Mini-PC mit DDR4-3200 SODIMM (bis zu 32 GB) und 1",
@@ -1811,7 +1281,7 @@
       "pubDate": "Wed, 11 Feb 2026 15:12:08 +0100"
     },
     {
-      "id": "pj-1771021131785-c30k8u",
+      "id": "pj-1771022684225-tzecq0",
       "brand": "Preisjäger",
       "logo": "✈️",
       "title": "Kreta: Elèa Concept Hotel & Suites 4* mit Halbpension | ab 3 Nächten f",
@@ -1829,7 +1299,7 @@
       "pubDate": "Fri, 13 Feb 2026 12:15:03 +0100"
     },
     {
-      "id": "pj-1771021131785-l5c2en",
+      "id": "pj-1771022684225-5jkscj",
       "brand": "Preisjäger",
       "logo": "✈️",
       "title": "Therme Erding inkl. Übernachtung im Premium Hotel + Frühstück ab 89€ p",
@@ -1847,7 +1317,7 @@
       "pubDate": "Tue, 10 Feb 2026 15:28:08 +0100"
     },
     {
-      "id": "pj-1771021131785-9d0f4c",
+      "id": "pj-1771022684225-gh4qwi",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "Rhodos: Adults Only: Lindos Grand Resort & Spa 5* mit Halbpension und ",
@@ -1865,7 +1335,7 @@
       "pubDate": "Fri, 06 Feb 2026 20:58:40 +0100"
     },
     {
-      "id": "pj-1771021131785-eblesq",
+      "id": "pj-1771022684225-099hlt",
       "brand": "Preisjäger",
       "logo": "✈️",
       "title": "Boutique Hotel Die Alpbacherin ab 1 ÜN inkl. HP ab 125€ pro Person (Fe",
@@ -1883,7 +1353,7 @@
       "pubDate": "Thu, 05 Feb 2026 17:46:38 +0100"
     },
     {
-      "id": "pj-1771021131785-uf08dc",
+      "id": "pj-1771022684225-tr81i1",
       "brand": "Preisjäger",
       "logo": "✈️",
       "title": "Hotel Gasthof Jochele ab 2 ÜN inklusive Halbpension ab 159€ p.P. | Süd",
@@ -1901,7 +1371,7 @@
       "pubDate": "Wed, 04 Feb 2026 15:54:59 +0100"
     },
     {
-      "id": "pj-1771021131785-iaia0c",
+      "id": "pj-1771022684225-0fwrbk",
       "brand": "Preisjäger",
       "logo": "✈️",
       "title": "Hotel Burgaunerhof 1ÜN inkl. Frühstück ab 69€ pro Person | Martell, It",
@@ -1919,7 +1389,7 @@
       "pubDate": "Wed, 04 Feb 2026 13:23:50 +0100"
     },
     {
-      "id": "pj-1771021131785-x7wbyw",
+      "id": "pj-1771022684225-pgokx8",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "Eurowings bis zu -21%",
@@ -1937,7 +1407,7 @@
       "pubDate": "Fri, 30 Jan 2026 09:05:46 +0100"
     },
     {
-      "id": "pj-1771021131785-n1usko",
+      "id": "pj-1771022684225-71qbtd",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "Malta: Urban Valley Resort 4* mit Halbpension, Mietauto und Premium Zi",
@@ -1955,7 +1425,7 @@
       "pubDate": "Wed, 28 Jan 2026 13:52:39 +0100"
     },
     {
-      "id": "pj-1771021131785-0zsdyx",
+      "id": "pj-1771022684225-cwhhbo",
       "brand": "Preisjäger",
       "logo": "✈️",
       "title": "Zypern: Margadina Hotel 4* mit Halbpension - ab 3 ÜN - z.B. 7 Nächte f",
@@ -1988,7 +1458,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:19:00.513Z"
+      "pubDate": "2026-02-13T22:44:48.895Z"
     },
     {
       "id": "obb-innsbruck",
@@ -2006,7 +1476,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:19:00.513Z"
+      "pubDate": "2026-02-13T22:44:48.895Z"
     },
     {
       "id": "obb-graz",
@@ -2024,7 +1494,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:19:00.513Z"
+      "pubDate": "2026-02-13T22:44:48.895Z"
     },
     {
       "id": "obb-klagenfurt",
@@ -2042,7 +1512,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:19:00.513Z"
+      "pubDate": "2026-02-13T22:44:48.895Z"
     },
     {
       "id": "obb-linz",
@@ -2060,7 +1530,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:19:00.513Z"
+      "pubDate": "2026-02-13T22:44:48.895Z"
     },
     {
       "id": "obb-bregenz",
@@ -2078,7 +1548,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:19:00.513Z"
+      "pubDate": "2026-02-13T22:44:48.895Z"
     },
     {
       "id": "obb-st. pölten",
@@ -2096,45 +1566,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:19:00.513Z"
-    },
-    {
-      "id": "price-ChIJeehgsW",
-      "brand": "3Viertel3",
-      "logo": "🏷️",
-      "title": "💶 3Viertel3",
-      "description": "Gefunden bei Suche: \"\"3€\" wien essen\". Am Heumarkt 3/2, 1030 Wien, Österreich. ⭐ 5",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJeehgsWkHbUcRRJivk75n9-0",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Am Heumarkt 3/2",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 68,
-      "searchQuery": "\"3€\" wien essen",
-      "pubDate": "2026-02-13T22:18:55.116Z"
-    },
-    {
-      "id": "price-ChIJQ_ANiW",
-      "brand": "1€ Diskont Euro Shop",
-      "logo": "🏷️",
-      "title": "💶 1€ Diskont Euro Shop",
-      "description": "Gefunden bei Suche: \"\"1,90€\" wien\". Thaliastraße 65, 1160 Wien, Österreich. ⭐ 4.5",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJQ_ANiW0HbUcRreMI2pPPWBA",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Thaliastraße 65",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 66,
-      "searchQuery": "\"1,90€\" wien",
-      "pubDate": "2026-02-13T22:18:54.635Z"
+      "pubDate": "2026-02-13T22:44:48.895Z"
     },
     {
       "id": "chain-billa",
@@ -2152,7 +1584,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.565Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-spar",
@@ -2170,7 +1602,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-interspar",
@@ -2188,7 +1620,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-hofer",
@@ -2206,7 +1638,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-lidl",
@@ -2224,7 +1656,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-penny",
@@ -2242,7 +1674,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-unimarkt",
@@ -2260,7 +1692,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-mediamarkt",
@@ -2278,7 +1710,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-saturn",
@@ -2296,7 +1728,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-cyberport",
@@ -2314,7 +1746,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-conrad",
@@ -2332,7 +1764,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-dm",
@@ -2350,7 +1782,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-bipa",
@@ -2368,7 +1800,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-müller",
@@ -2386,7 +1818,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-h&m",
@@ -2404,7 +1836,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-zalando",
@@ -2422,7 +1854,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-about-you",
@@ -2440,7 +1872,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-c&a",
@@ -2458,7 +1890,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-ikea",
@@ -2476,7 +1908,7 @@
       "isNew": true,
       "priority": 1,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-möbelix",
@@ -2494,7 +1926,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-xxxlutz",
@@ -2512,7 +1944,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-mcdonald's",
@@ -2530,7 +1962,7 @@
       "isNew": true,
       "priority": 1,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-burger-king",
@@ -2548,7 +1980,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-kfc",
@@ -2566,7 +1998,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-dominos",
@@ -2584,7 +2016,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "chain-subway",
@@ -2602,7 +2034,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:18:52.566Z"
+      "pubDate": "2026-02-13T22:44:44.761Z"
     },
     {
       "id": "rail-westbahn",
@@ -2620,7 +2052,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:19:00.513Z"
+      "pubDate": "2026-02-13T22:44:48.895Z"
     },
     {
       "id": "rail-flixbus",
@@ -2638,7 +2070,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:19:00.513Z"
+      "pubDate": "2026-02-13T22:44:48.895Z"
     },
     {
       "id": "rail-regiojet",
@@ -2656,7 +2088,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:19:00.513Z"
+      "pubDate": "2026-02-13T22:44:48.895Z"
     },
     {
       "id": "rail-cd",
@@ -2674,64 +2106,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:19:00.513Z"
-    },
-    {
-      "id": "price-ChIJT0lM12",
-      "brand": "1 € Pizza",
-      "logo": "🍕",
-      "title": "💶 1 € Pizza",
-      "description": "Gefunden bei Suche: \"\"1€ pizza\" wien\". Ungargasse 64, 1030 Wien, Österreich. ⭐ 3.8",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJT0lM12QHbUcRjLlwAGiTxFQ",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Ungargasse 64",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 40,
-      "searchQuery": "\"1€ pizza\" wien",
-      "pubDate": "2026-02-13T22:18:53.277Z"
-    },
-    {
-      "id": "price-ChIJR9bBTj",
-      "brand": "1€ Spitze",
-      "logo": "🏷️",
-      "title": "💶 1€ Spitze",
-      "description": "Gefunden bei Suche: \"\"1,90€\" wien\". Brünner Str. 1, 1210 Wien, Österreich. ⭐ 3.8",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJR9bBTj4HbUcRhxmdeMORiOI",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "Brünner Str. 1",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 26,
-      "searchQuery": "\"1,90€\" wien",
-      "pubDate": "2026-02-13T22:18:54.635Z"
-    },
-    {
-      "id": "price-ChIJtZ0Rdy",
-      "brand": "1",
-      "logo": "🏷️",
-      "title": "💶 1",
-      "description": "Gefunden bei Suche: \"\"1,50€\" wien\". 1, Reizenpfenninggasse 1, 1140 Wien, Österreich. ⭐ N/A",
-      "type": "super-günstig",
-      "category": "essen",
-      "source": "Price Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJtZ0RdyQIbUcRSTetA4Q7ESg",
-      "expires": "Anrufen & Bestätigen",
-      "distance": "1",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 0,
-      "searchQuery": "\"1,50€\" wien",
-      "pubDate": "2026-02-13T22:18:54.322Z"
+      "pubDate": "2026-02-13T22:44:48.895Z"
     }
   ]
 }
