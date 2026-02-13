@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-13T22:28:10.918Z",
-  "totalDeals": 119,
+  "lastUpdated": "2026-02-13T22:31:50.057Z",
+  "totalDeals": 117,
   "deals": [
     {
       "id": "event-donauinselfest",
@@ -18,7 +18,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:28:05.721Z"
+      "pubDate": "2026-02-13T22:31:43.551Z"
     },
     {
       "id": "event-film-festival",
@@ -36,7 +36,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:28:05.721Z"
+      "pubDate": "2026-02-13T22:31:43.552Z"
     },
     {
       "id": "event-bundesmuseen",
@@ -54,7 +54,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:28:05.721Z"
+      "pubDate": "2026-02-13T22:31:43.552Z"
     },
     {
       "id": "event-wiener-staatsoper",
@@ -72,7 +72,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:28:05.721Z"
+      "pubDate": "2026-02-13T22:31:43.552Z"
     },
     {
       "id": "event-wiener-linien",
@@ -90,7 +90,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:28:05.721Z"
+      "pubDate": "2026-02-13T22:31:43.552Z"
     },
     {
       "id": "wiener-tafel-main",
@@ -108,7 +108,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 300,
-      "pubDate": "2026-02-13T22:28:10.911Z"
+      "pubDate": "2026-02-13T22:31:50.052Z"
     },
     {
       "id": "foodsharing-at-main",
@@ -126,7 +126,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 250,
-      "pubDate": "2026-02-13T22:28:10.912Z"
+      "pubDate": "2026-02-13T22:31:50.052Z"
     },
     {
       "id": "foodshare-foodsharing-wien",
@@ -144,7 +144,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T22:28:05.762Z"
+      "pubDate": "2026-02-13T22:31:43.591Z"
     },
     {
       "id": "foodshare-foodsharing-wien",
@@ -162,7 +162,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T22:28:05.762Z"
+      "pubDate": "2026-02-13T22:31:43.591Z"
     },
     {
       "id": "foodshare-foodsharing-wien",
@@ -180,61 +180,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T22:28:05.762Z"
-    },
-    {
-      "id": "foodshare-wiener-tafel",
-      "brand": "Wiener Tafel",
-      "logo": "🥫",
-      "title": "GRATIS Lebensmittel - Wiener Tafel",
-      "description": "Gerettete Lebensmittel kostenlos bei sozialen Ausgabestellen in Wien. Für Bedürftige.",
-      "type": "gratis",
-      "category": "essen",
-      "source": "Wiener Tafel",
-      "url": "https://www.wienertafel.at/",
-      "expires": "Täglich",
-      "distance": "Wien",
-      "hot": true,
-      "isNew": false,
-      "priority": 1,
-      "votes": 200,
-      "pubDate": "2026-02-13T22:28:05.762Z"
-    },
-    {
-      "id": "foodshare-wiener-tafel",
-      "brand": "Wiener Tafel",
-      "logo": "🍞",
-      "title": "Wiener Tafel - Ausgabestellen",
-      "description": "Multiple Ausgabestellen in ganz Wien. Täglich frische gerettete Lebensmittel.",
-      "type": "gratis",
-      "category": "essen",
-      "source": "Wiener Tafel",
-      "url": "https://www.wienertafel.at/",
-      "expires": "Täglich",
-      "distance": "Wien",
-      "hot": true,
-      "isNew": false,
-      "priority": 1,
-      "votes": 200,
-      "pubDate": "2026-02-13T22:28:05.762Z"
-    },
-    {
-      "id": "foodshare-tischlein-deck-dich",
-      "brand": "Tischlein deck dich",
-      "logo": "🍽️",
-      "title": "GRATIS Essen - Tischlein deck dich",
-      "description": "Lebensmittel für alle, die sie brauchen. Mehrere Standorte in Wien.",
-      "type": "gratis",
-      "category": "essen",
-      "source": "Tischlein deck dich",
-      "url": "https://www.tischlein.at/",
-      "expires": "Täglich",
-      "distance": "Wien",
-      "hot": true,
-      "isNew": false,
-      "priority": 1,
-      "votes": 200,
-      "pubDate": "2026-02-13T22:28:05.762Z"
+      "pubDate": "2026-02-13T22:31:43.591Z"
     },
     {
       "id": "market-foodsharing-fairteiler",
@@ -252,7 +198,25 @@
       "isNew": false,
       "priority": 1,
       "votes": 150,
-      "pubDate": "2026-02-13T22:28:07.314Z"
+      "pubDate": "2026-02-13T22:31:46.326Z"
+    },
+    {
+      "id": "market-wiener-tafel",
+      "brand": "Wiener Tafel",
+      "logo": "🥫",
+      "title": "GRATIS Lebensmittel - Wiener Tafel",
+      "description": "Gerettete Lebensmittel kostenlos bei sozialen Ausgabestellen in Wien. Für Bedürftige.",
+      "type": "gratis",
+      "category": "essen",
+      "source": "Vienna Markets",
+      "url": "https://www.wienertafel.at/",
+      "expires": "Täglich",
+      "distance": "Wien",
+      "hot": true,
+      "isNew": false,
+      "priority": 1,
+      "votes": 150,
+      "pubDate": "2026-02-13T22:31:46.326Z"
     },
     {
       "id": "tischlein-main",
@@ -270,10 +234,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 150,
-      "pubDate": "2026-02-13T22:28:10.912Z"
+      "pubDate": "2026-02-13T22:31:50.052Z"
     },
     {
-      "id": "pj-1771021686636-fqc37k",
+      "id": "pj-1771021905451-jt3jdh",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "Media Markt: 10% on top auf Produkte im Sale mit MyMediaMarkt z.B. GAR",
@@ -291,7 +255,7 @@
       "pubDate": "Fri, 13 Feb 2026 16:46:21 +0100"
     },
     {
-      "id": "pj-1771021686636-nkytu4",
+      "id": "pj-1771021905451-vpka37",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "AliExpress Gutscheine ab 15.2.: 2€ ab 15€, 4€ ab 29€, 6€ ab 49€, 10€ a",
@@ -309,7 +273,7 @@
       "pubDate": "Fri, 13 Feb 2026 16:00:15 +0100"
     },
     {
-      "id": "pj-1771021686636-bwf6xs",
+      "id": "pj-1771021905451-xauug7",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "Pagro/Libro: 20% auf fast alles ab 30€ ab 13.2.",
@@ -327,7 +291,7 @@
       "pubDate": "Fri, 13 Feb 2026 10:44:00 +0100"
     },
     {
-      "id": "pj-1771021686807-vnktn2",
+      "id": "pj-1771021905781-7cenhk",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "Griechenland / Kamena Vourla: Mitsis Galini Wellness Spa & Resort 5* m",
@@ -345,7 +309,7 @@
       "pubDate": "Fri, 13 Feb 2026 15:10:45 +0100"
     },
     {
-      "id": "pj-1771021686808-nxguff",
+      "id": "pj-1771021905781-0p731f",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "4* Lindner Hotel Prague Castle 2 Personen ab 1 Nacht im Deluxe Zimmer ",
@@ -363,7 +327,7 @@
       "pubDate": "Thu, 05 Feb 2026 17:04:00 +0100"
     },
     {
-      "id": "pj-1771021686808-g8oe3g",
+      "id": "pj-1771021905781-gt8l88",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "Jeep Duffle-Trolley | L (73 cm) versch. Farben (Größe XL 82cm für 99,9",
@@ -381,7 +345,7 @@
       "pubDate": "Wed, 04 Feb 2026 10:46:30 +0100"
     },
     {
-      "id": "pj-1771021686808-4zprl4",
+      "id": "pj-1771021905781-si9set",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "Eurowings -5% bei 80€, -10% bei 150€",
@@ -399,7 +363,7 @@
       "pubDate": "Mon, 02 Feb 2026 21:25:46 +0100"
     },
     {
-      "id": "pj-1771021686808-wdn977",
+      "id": "pj-1771021905781-qds6j2",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "Hofer Reisen: 50€ ab 899€ oder 100€ ab 1599€ für Reisen im Zeitraum 01",
@@ -417,7 +381,7 @@
       "pubDate": "Sun, 01 Feb 2026 14:50:25 +0100"
     },
     {
-      "id": "pj-1771021686808-msjnzl",
+      "id": "pj-1771021905781-f13nel",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "Algarve: Domes Lake Algarve, Autograph Collection 5* Hotel mit Frühstü",
@@ -450,7 +414,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:28:10.912Z"
+      "pubDate": "2026-02-13T22:31:50.052Z"
     },
     {
       "id": "tafel-wiener-tafel-favoriten",
@@ -468,7 +432,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:28:10.912Z"
+      "pubDate": "2026-02-13T22:31:50.052Z"
     },
     {
       "id": "tafel-wiener-tafel-floridsdorf",
@@ -486,7 +450,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:28:10.912Z"
+      "pubDate": "2026-02-13T22:31:50.052Z"
     },
     {
       "id": "tafel-wiener-tafel-liesing",
@@ -504,7 +468,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:28:10.912Z"
+      "pubDate": "2026-02-13T22:31:50.052Z"
     },
     {
       "id": "tafel-wiener-tafel-döbling",
@@ -522,7 +486,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:28:10.912Z"
+      "pubDate": "2026-02-13T22:31:50.052Z"
     },
     {
       "id": "fairteiler-fairteiler-neubau",
@@ -540,7 +504,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 80,
-      "pubDate": "2026-02-13T22:28:10.912Z"
+      "pubDate": "2026-02-13T22:31:50.052Z"
     },
     {
       "id": "fairteiler-fairteiler-mariahilf",
@@ -558,7 +522,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 80,
-      "pubDate": "2026-02-13T22:28:10.912Z"
+      "pubDate": "2026-02-13T22:31:50.052Z"
     },
     {
       "id": "fairteiler-fairteiler-alsergrund",
@@ -576,7 +540,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 80,
-      "pubDate": "2026-02-13T22:28:10.912Z"
+      "pubDate": "2026-02-13T22:31:50.052Z"
     },
     {
       "id": "fairteiler-fairteiler-leopoldstadt",
@@ -594,7 +558,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 80,
-      "pubDate": "2026-02-13T22:28:10.912Z"
+      "pubDate": "2026-02-13T22:31:50.052Z"
     },
     {
       "id": "fairteiler-fairteiler-favoriten",
@@ -612,7 +576,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 80,
-      "pubDate": "2026-02-13T22:28:10.912Z"
+      "pubDate": "2026-02-13T22:31:50.052Z"
     },
     {
       "id": "alert-gratis-wien",
@@ -630,7 +594,7 @@
       "isNew": true,
       "priority": 1,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.392Z"
+      "pubDate": "2026-02-13T22:31:46.402Z"
     },
     {
       "id": "alert-1€-kebab-wien",
@@ -648,7 +612,7 @@
       "isNew": true,
       "priority": 1,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.392Z"
+      "pubDate": "2026-02-13T22:31:46.402Z"
     },
     {
       "id": "alert-kostenlos-essen-wien",
@@ -666,7 +630,7 @@
       "isNew": true,
       "priority": 1,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.392Z"
+      "pubDate": "2026-02-13T22:31:46.402Z"
     },
     {
       "id": "alert-eröffnung-angebot-wien",
@@ -684,7 +648,7 @@
       "isNew": true,
       "priority": 1,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.392Z"
+      "pubDate": "2026-02-13T22:31:46.402Z"
     },
     {
       "id": "tgtg-main",
@@ -702,10 +666,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 1000,
-      "pubDate": "2026-02-13T22:28:05.805Z"
+      "pubDate": "2026-02-13T22:31:43.631Z"
     },
     {
-      "id": "tgtg-innere stadt-1771021685804",
+      "id": "tgtg-innere stadt-1771021903630",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Innere Stadt",
@@ -720,10 +684,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:28:05.804Z"
+      "pubDate": "2026-02-13T22:31:43.630Z"
     },
     {
-      "id": "tgtg-leopoldstadt-1771021685804",
+      "id": "tgtg-leopoldstadt-1771021903630",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Leopoldstadt",
@@ -738,10 +702,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:28:05.804Z"
+      "pubDate": "2026-02-13T22:31:43.630Z"
     },
     {
-      "id": "tgtg-mariahilf-1771021685804",
+      "id": "tgtg-mariahilf-1771021903630",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Mariahilf",
@@ -756,10 +720,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:28:05.804Z"
+      "pubDate": "2026-02-13T22:31:43.630Z"
     },
     {
-      "id": "tgtg-wieden-1771021685805",
+      "id": "tgtg-wieden-1771021903630",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Wieden",
@@ -774,10 +738,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:28:05.805Z"
+      "pubDate": "2026-02-13T22:31:43.630Z"
     },
     {
-      "id": "tgtg-alsergrund-1771021685805",
+      "id": "tgtg-alsergrund-1771021903630",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Alsergrund",
@@ -792,10 +756,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:28:05.805Z"
+      "pubDate": "2026-02-13T22:31:43.630Z"
     },
     {
-      "id": "tgtg-favoriten-1771021685805",
+      "id": "tgtg-favoriten-1771021903630",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Favoriten",
@@ -810,10 +774,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:28:05.805Z"
+      "pubDate": "2026-02-13T22:31:43.630Z"
     },
     {
-      "id": "tgtg-floridsdorf-1771021685805",
+      "id": "tgtg-floridsdorf-1771021903631",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Floridsdorf",
@@ -828,10 +792,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:28:05.805Z"
+      "pubDate": "2026-02-13T22:31:43.631Z"
     },
     {
-      "id": "tgtg-donaustadt-1771021685805",
+      "id": "tgtg-donaustadt-1771021903631",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Donaustadt",
@@ -846,7 +810,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T22:28:05.805Z"
+      "pubDate": "2026-02-13T22:31:43.631Z"
     },
     {
       "id": "uni-uni-mensen-wien",
@@ -864,7 +828,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T22:28:07.354Z"
+      "pubDate": "2026-02-13T22:31:46.366Z"
     },
     {
       "id": "uni-mensa-göttweig",
@@ -882,7 +846,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T22:28:07.355Z"
+      "pubDate": "2026-02-13T22:31:46.366Z"
     },
     {
       "id": "uni-mensa斜",
@@ -900,7 +864,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T22:28:07.355Z"
+      "pubDate": "2026-02-13T22:31:46.366Z"
     },
     {
       "id": "uni-ak-wien",
@@ -918,7 +882,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T22:28:07.355Z"
+      "pubDate": "2026-02-13T22:31:46.366Z"
     },
     {
       "id": "uni-ak-wien",
@@ -936,7 +900,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T22:28:07.355Z"
+      "pubDate": "2026-02-13T22:31:46.366Z"
     },
     {
       "id": "event-wiener-eistraum",
@@ -954,7 +918,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T22:28:05.721Z"
+      "pubDate": "2026-02-13T22:31:43.552Z"
     },
     {
       "id": "event-lange-nacht-der-museen",
@@ -972,7 +936,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T22:28:05.721Z"
+      "pubDate": "2026-02-13T22:31:43.552Z"
     },
     {
       "id": "event-wiener-rathaus",
@@ -990,7 +954,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T22:28:05.721Z"
+      "pubDate": "2026-02-13T22:31:43.552Z"
     },
     {
       "id": "event-büchereien-wien",
@@ -1008,7 +972,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T22:28:05.721Z"
+      "pubDate": "2026-02-13T22:31:43.552Z"
     },
     {
       "id": "event-wienmobil-rad",
@@ -1026,7 +990,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T22:28:05.721Z"
+      "pubDate": "2026-02-13T22:31:43.552Z"
     },
     {
       "id": "obb-sparschiene-main",
@@ -1044,7 +1008,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T22:28:10.870Z"
+      "pubDate": "2026-02-13T22:31:50.011Z"
     },
     {
       "id": "market-naschmarkt",
@@ -1062,7 +1026,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 150,
-      "pubDate": "2026-02-13T22:28:07.313Z"
+      "pubDate": "2026-02-13T22:31:46.326Z"
     },
     {
       "id": "market-karmelitermarkt",
@@ -1080,7 +1044,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 150,
-      "pubDate": "2026-02-13T22:28:07.314Z"
+      "pubDate": "2026-02-13T22:31:46.326Z"
     },
     {
       "id": "market-brunnenmarkt",
@@ -1098,10 +1062,10 @@
       "isNew": false,
       "priority": 2,
       "votes": 150,
-      "pubDate": "2026-02-13T22:28:07.314Z"
+      "pubDate": "2026-02-13T22:31:46.326Z"
     },
     {
-      "id": "pj-1771021686636-iqs27d",
+      "id": "pj-1771021905451-3q7va8",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "2x KOORUI E2411F FHD Office-Monitor 60,5 cm (23,8 Zoll) 1920 x 1080 Pi",
@@ -1119,7 +1083,7 @@
       "pubDate": "Fri, 13 Feb 2026 15:59:22 +0100"
     },
     {
-      "id": "pj-1771021686636-bpefnu",
+      "id": "pj-1771021905451-sfondy",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "NEBULA Capsule 3 Laser GTV Beamer, 300 ANSI Lumen, Neueste Generation",
@@ -1137,7 +1101,7 @@
       "pubDate": "Fri, 13 Feb 2026 12:56:19 +0100"
     },
     {
-      "id": "pj-1771021686636-0cfwe2",
+      "id": "pj-1771021905451-7yzhio",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "INIU Power Bank, Ultra Klein 20000mAh 22.5W Schnellladefunktion mit ab",
@@ -1155,7 +1119,7 @@
       "pubDate": "Fri, 13 Feb 2026 10:19:09 +0100"
     },
     {
-      "id": "pj-1771021686636-qgencd",
+      "id": "pj-1771021905451-vva396",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "1 Jahr Bundle Deal: Perplexity AI + Picsart PRO + Freepik Premium",
@@ -1173,7 +1137,7 @@
       "pubDate": "Fri, 13 Feb 2026 09:18:18 +0100"
     },
     {
-      "id": "pj-1771021686636-26o94z",
+      "id": "pj-1771021905451-zbwn7h",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "INIU USB C Kabel, 100W PD3.0 Schnellladekabel 2m Nylon Geflochten",
@@ -1191,7 +1155,7 @@
       "pubDate": "Thu, 12 Feb 2026 18:09:03 +0100"
     },
     {
-      "id": "pj-1771021686636-ty7gq6",
+      "id": "pj-1771021905451-eow9la",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "TP-Link Archer BE3600 Dual-Band Wi-Fi 7 WLAN Router",
@@ -1209,7 +1173,7 @@
       "pubDate": "Thu, 12 Feb 2026 15:29:54 +0100"
     },
     {
-      "id": "pj-1771021686636-4p63vi",
+      "id": "pj-1771021905451-dxmitt",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "Annke C500D 3K PoE Überwachungskamera mit Farbnachtsicht",
@@ -1227,7 +1191,7 @@
       "pubDate": "Thu, 12 Feb 2026 13:28:58 +0100"
     },
     {
-      "id": "pj-1771021686636-pptnr7",
+      "id": "pj-1771021905451-rkjczd",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "TP-Link Tapo RV20 Max Saugroboter mit Wischfunktion, 5300Pa, 83 mm Ult",
@@ -1245,7 +1209,7 @@
       "pubDate": "Wed, 11 Feb 2026 19:00:43 +0100"
     },
     {
-      "id": "pj-1771021686636-a81851",
+      "id": "pj-1771021905451-3lthwq",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "Apple Watch Series 10 (GPS + Cellular) 46mm in verschiedenen Farben fü",
@@ -1263,7 +1227,7 @@
       "pubDate": "Wed, 11 Feb 2026 18:49:08 +0100"
     },
     {
-      "id": "pj-1771021686636-zk1pa7",
+      "id": "pj-1771021905451-1jyjrk",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "AliExpress: Sammeldeal für Gutscheine bis 55 € Rabatt, ab Montag 09.02",
@@ -1281,7 +1245,7 @@
       "pubDate": "Wed, 11 Feb 2026 18:37:25 +0100"
     },
     {
-      "id": "pj-1771021686636-6emxg5",
+      "id": "pj-1771021905451-p943lq",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "DJI Osmo Action 5 Pro Standard Combo",
@@ -1299,7 +1263,7 @@
       "pubDate": "Wed, 11 Feb 2026 15:18:00 +0100"
     },
     {
-      "id": "pj-1771021686636-n087xn",
+      "id": "pj-1771021905451-hdp95o",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "AOOSTAR WTR PRO N150 Mini-PC mit DDR4-3200 SODIMM (bis zu 32 GB) und 1",
@@ -1317,7 +1281,7 @@
       "pubDate": "Wed, 11 Feb 2026 15:12:08 +0100"
     },
     {
-      "id": "pj-1771021686807-e85e1z",
+      "id": "pj-1771021905781-u95rrx",
       "brand": "Preisjäger",
       "logo": "✈️",
       "title": "Kreta: Elèa Concept Hotel & Suites 4* mit Halbpension | ab 3 Nächten f",
@@ -1335,7 +1299,7 @@
       "pubDate": "Fri, 13 Feb 2026 12:15:03 +0100"
     },
     {
-      "id": "pj-1771021686807-8e884i",
+      "id": "pj-1771021905781-4mycle",
       "brand": "Preisjäger",
       "logo": "✈️",
       "title": "Therme Erding inkl. Übernachtung im Premium Hotel + Frühstück ab 89€ p",
@@ -1353,7 +1317,7 @@
       "pubDate": "Tue, 10 Feb 2026 15:28:08 +0100"
     },
     {
-      "id": "pj-1771021686807-mn9nas",
+      "id": "pj-1771021905781-1ry6vg",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "Rhodos: Adults Only: Lindos Grand Resort & Spa 5* mit Halbpension und ",
@@ -1371,7 +1335,7 @@
       "pubDate": "Fri, 06 Feb 2026 20:58:40 +0100"
     },
     {
-      "id": "pj-1771021686807-xt28p4",
+      "id": "pj-1771021905781-0h3s1f",
       "brand": "Preisjäger",
       "logo": "✈️",
       "title": "Boutique Hotel Die Alpbacherin ab 1 ÜN inkl. HP ab 125€ pro Person (Fe",
@@ -1389,7 +1353,7 @@
       "pubDate": "Thu, 05 Feb 2026 17:46:38 +0100"
     },
     {
-      "id": "pj-1771021686808-2ire4k",
+      "id": "pj-1771021905781-08gpks",
       "brand": "Preisjäger",
       "logo": "✈️",
       "title": "Hotel Gasthof Jochele ab 2 ÜN inklusive Halbpension ab 159€ p.P. | Süd",
@@ -1407,7 +1371,7 @@
       "pubDate": "Wed, 04 Feb 2026 15:54:59 +0100"
     },
     {
-      "id": "pj-1771021686808-5891hv",
+      "id": "pj-1771021905781-uq0n9s",
       "brand": "Preisjäger",
       "logo": "✈️",
       "title": "Hotel Burgaunerhof 1ÜN inkl. Frühstück ab 69€ pro Person | Martell, It",
@@ -1425,7 +1389,7 @@
       "pubDate": "Wed, 04 Feb 2026 13:23:50 +0100"
     },
     {
-      "id": "pj-1771021686808-mxjlsv",
+      "id": "pj-1771021905781-80501d",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "Eurowings bis zu -21%",
@@ -1443,7 +1407,7 @@
       "pubDate": "Fri, 30 Jan 2026 09:05:46 +0100"
     },
     {
-      "id": "pj-1771021686808-ezwjfh",
+      "id": "pj-1771021905781-sogxnb",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "Malta: Urban Valley Resort 4* mit Halbpension, Mietauto und Premium Zi",
@@ -1461,7 +1425,7 @@
       "pubDate": "Wed, 28 Jan 2026 13:52:39 +0100"
     },
     {
-      "id": "pj-1771021686808-327rh6",
+      "id": "pj-1771021905781-xwfjca",
       "brand": "Preisjäger",
       "logo": "✈️",
       "title": "Zypern: Margadina Hotel 4* mit Halbpension - ab 3 ÜN - z.B. 7 Nächte f",
@@ -1494,7 +1458,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:28:10.870Z"
+      "pubDate": "2026-02-13T22:31:50.011Z"
     },
     {
       "id": "obb-innsbruck",
@@ -1512,7 +1476,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:28:10.870Z"
+      "pubDate": "2026-02-13T22:31:50.011Z"
     },
     {
       "id": "obb-graz",
@@ -1530,7 +1494,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:28:10.870Z"
+      "pubDate": "2026-02-13T22:31:50.012Z"
     },
     {
       "id": "obb-klagenfurt",
@@ -1548,7 +1512,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:28:10.870Z"
+      "pubDate": "2026-02-13T22:31:50.012Z"
     },
     {
       "id": "obb-linz",
@@ -1566,7 +1530,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:28:10.870Z"
+      "pubDate": "2026-02-13T22:31:50.012Z"
     },
     {
       "id": "obb-bregenz",
@@ -1584,7 +1548,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:28:10.870Z"
+      "pubDate": "2026-02-13T22:31:50.012Z"
     },
     {
       "id": "obb-st. pölten",
@@ -1602,7 +1566,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T22:28:10.870Z"
+      "pubDate": "2026-02-13T22:31:50.012Z"
     },
     {
       "id": "chain-billa",
@@ -1620,7 +1584,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-spar",
@@ -1638,7 +1602,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-interspar",
@@ -1656,7 +1620,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-hofer",
@@ -1674,7 +1638,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-lidl",
@@ -1692,7 +1656,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-penny",
@@ -1710,7 +1674,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-unimarkt",
@@ -1728,7 +1692,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-mediamarkt",
@@ -1746,7 +1710,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-saturn",
@@ -1764,7 +1728,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-cyberport",
@@ -1782,7 +1746,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-conrad",
@@ -1800,7 +1764,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-dm",
@@ -1818,7 +1782,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-bipa",
@@ -1836,7 +1800,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-müller",
@@ -1854,7 +1818,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-h&m",
@@ -1872,7 +1836,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-zalando",
@@ -1890,7 +1854,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-about-you",
@@ -1908,7 +1872,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-c&a",
@@ -1926,7 +1890,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-ikea",
@@ -1944,7 +1908,7 @@
       "isNew": true,
       "priority": 1,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-möbelix",
@@ -1962,7 +1926,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-xxxlutz",
@@ -1980,7 +1944,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-mcdonald's",
@@ -1998,7 +1962,7 @@
       "isNew": true,
       "priority": 1,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-burger-king",
@@ -2016,7 +1980,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-kfc",
@@ -2034,7 +1998,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-dominos",
@@ -2052,7 +2016,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "chain-subway",
@@ -2070,7 +2034,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:07.272Z"
+      "pubDate": "2026-02-13T22:31:46.287Z"
     },
     {
       "id": "rail-westbahn",
@@ -2088,7 +2052,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:10.870Z"
+      "pubDate": "2026-02-13T22:31:50.012Z"
     },
     {
       "id": "rail-flixbus",
@@ -2106,7 +2070,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:10.870Z"
+      "pubDate": "2026-02-13T22:31:50.012Z"
     },
     {
       "id": "rail-regiojet",
@@ -2124,7 +2088,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:10.870Z"
+      "pubDate": "2026-02-13T22:31:50.012Z"
     },
     {
       "id": "rail-cd",
@@ -2142,7 +2106,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T22:28:10.870Z"
+      "pubDate": "2026-02-13T22:31:50.012Z"
     }
   ]
 }
