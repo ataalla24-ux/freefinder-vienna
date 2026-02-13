@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-13T20:46:23.149Z",
+  "lastUpdated": "2026-02-13T20:52:49.757Z",
   "totalDeals": 42,
   "deals": [
     {
@@ -18,7 +18,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T20:46:23.145Z"
+      "pubDate": "2026-02-13T20:52:49.750Z"
     },
     {
       "id": "event-film-festival",
@@ -36,7 +36,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T20:46:23.146Z"
+      "pubDate": "2026-02-13T20:52:49.750Z"
     },
     {
       "id": "event-bundesmuseen",
@@ -54,7 +54,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T20:46:23.146Z"
+      "pubDate": "2026-02-13T20:52:49.751Z"
     },
     {
       "id": "event-wiener-staatsoper",
@@ -72,7 +72,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T20:46:23.146Z"
+      "pubDate": "2026-02-13T20:52:49.751Z"
     },
     {
       "id": "event-wiener-linien",
@@ -90,7 +90,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T20:46:23.146Z"
+      "pubDate": "2026-02-13T20:52:49.751Z"
     },
     {
       "id": "ig-instagram-deals",
@@ -108,7 +108,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T20:46:22.745Z"
+      "pubDate": "2026-02-13T20:52:49.508Z"
     },
     {
       "id": "ig-instagram-deals",
@@ -126,7 +126,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T20:46:22.746Z"
+      "pubDate": "2026-02-13T20:52:49.508Z"
     },
     {
       "id": "ig-instagram-deals",
@@ -144,7 +144,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T20:46:22.746Z"
+      "pubDate": "2026-02-13T20:52:49.508Z"
     },
     {
       "id": "foodshare-foodsharing-wien",
@@ -162,7 +162,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T20:46:23.077Z"
+      "pubDate": "2026-02-13T20:52:49.708Z"
     },
     {
       "id": "foodshare-foodsharing-wien",
@@ -180,7 +180,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T20:46:23.078Z"
+      "pubDate": "2026-02-13T20:52:49.708Z"
     },
     {
       "id": "foodshare-foodsharing-wien",
@@ -198,7 +198,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T20:46:23.078Z"
+      "pubDate": "2026-02-13T20:52:49.708Z"
     },
     {
       "id": "foodshare-wiener-tafel",
@@ -216,7 +216,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T20:46:23.078Z"
+      "pubDate": "2026-02-13T20:52:49.708Z"
     },
     {
       "id": "foodshare-tischlein-deck-dich",
@@ -234,7 +234,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T20:46:23.078Z"
+      "pubDate": "2026-02-13T20:52:49.708Z"
     },
     {
       "id": "market-foodsharing-fairteiler",
@@ -252,7 +252,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 150,
-      "pubDate": "2026-02-13T20:46:23.010Z"
+      "pubDate": "2026-02-13T20:52:49.667Z"
     },
     {
       "id": "market-wiener-tafel",
@@ -270,7 +270,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 150,
-      "pubDate": "2026-02-13T20:46:23.010Z"
+      "pubDate": "2026-02-13T20:52:49.667Z"
     },
     {
       "id": "fb-wien---nachbarn-helf",
@@ -288,7 +288,7 @@
       "isNew": true,
       "priority": 3,
       "votes": 50,
-      "pubDate": "2026-02-13T20:46:22.873Z"
+      "pubDate": "2026-02-13T20:52:49.585Z"
     },
     {
       "id": "fb-kreuzberg-nachbarn-(",
@@ -306,7 +306,7 @@
       "isNew": true,
       "priority": 3,
       "votes": 50,
-      "pubDate": "2026-02-13T20:46:22.874Z"
+      "pubDate": "2026-02-13T20:52:49.585Z"
     },
     {
       "id": "fb-studenten-wien---woh",
@@ -324,7 +324,7 @@
       "isNew": true,
       "priority": 3,
       "votes": 50,
-      "pubDate": "2026-02-13T20:46:22.874Z"
+      "pubDate": "2026-02-13T20:52:49.585Z"
     },
     {
       "id": "fb-freie-wähler-wien",
@@ -342,7 +342,7 @@
       "isNew": true,
       "priority": 3,
       "votes": 50,
-      "pubDate": "2026-02-13T20:46:22.874Z"
+      "pubDate": "2026-02-13T20:52:49.585Z"
     },
     {
       "id": "fb-mami-wien",
@@ -360,7 +360,7 @@
       "isNew": true,
       "priority": 3,
       "votes": 50,
-      "pubDate": "2026-02-13T20:46:22.874Z"
+      "pubDate": "2026-02-13T20:52:49.585Z"
     },
     {
       "id": "tgtg-main",
@@ -378,10 +378,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 1000,
-      "pubDate": "2026-02-13T20:46:22.677Z"
+      "pubDate": "2026-02-13T20:52:49.465Z"
     },
     {
-      "id": "tgtg-innere stadt-1771015582676",
+      "id": "tgtg-innere stadt-1771015969465",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Innere Stadt",
@@ -396,10 +396,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T20:46:22.676Z"
+      "pubDate": "2026-02-13T20:52:49.465Z"
     },
     {
-      "id": "tgtg-leopoldstadt-1771015582677",
+      "id": "tgtg-leopoldstadt-1771015969465",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Leopoldstadt",
@@ -414,10 +414,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T20:46:22.677Z"
+      "pubDate": "2026-02-13T20:52:49.465Z"
     },
     {
-      "id": "tgtg-mariahilf-1771015582677",
+      "id": "tgtg-mariahilf-1771015969465",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Mariahilf",
@@ -432,10 +432,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T20:46:22.677Z"
+      "pubDate": "2026-02-13T20:52:49.465Z"
     },
     {
-      "id": "tgtg-wieden-1771015582677",
+      "id": "tgtg-wieden-1771015969465",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Wieden",
@@ -450,10 +450,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T20:46:22.677Z"
+      "pubDate": "2026-02-13T20:52:49.465Z"
     },
     {
-      "id": "tgtg-alsergrund-1771015582677",
+      "id": "tgtg-alsergrund-1771015969465",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Alsergrund",
@@ -468,10 +468,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T20:46:22.677Z"
+      "pubDate": "2026-02-13T20:52:49.465Z"
     },
     {
-      "id": "tgtg-favoriten-1771015582677",
+      "id": "tgtg-favoriten-1771015969465",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Favoriten",
@@ -486,10 +486,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T20:46:22.677Z"
+      "pubDate": "2026-02-13T20:52:49.465Z"
     },
     {
-      "id": "tgtg-floridsdorf-1771015582677",
+      "id": "tgtg-floridsdorf-1771015969465",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Floridsdorf",
@@ -504,10 +504,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T20:46:22.677Z"
+      "pubDate": "2026-02-13T20:52:49.465Z"
     },
     {
-      "id": "tgtg-donaustadt-1771015582677",
+      "id": "tgtg-donaustadt-1771015969465",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Donaustadt",
@@ -522,7 +522,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T20:46:22.677Z"
+      "pubDate": "2026-02-13T20:52:49.465Z"
     },
     {
       "id": "uni-uni-mensen-wien",
@@ -540,7 +540,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T20:46:22.941Z"
+      "pubDate": "2026-02-13T20:52:49.625Z"
     },
     {
       "id": "uni-mensa-göttweig",
@@ -558,7 +558,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T20:46:22.942Z"
+      "pubDate": "2026-02-13T20:52:49.626Z"
     },
     {
       "id": "uni-mensa斜",
@@ -576,7 +576,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T20:46:22.942Z"
+      "pubDate": "2026-02-13T20:52:49.626Z"
     },
     {
       "id": "uni-ak-wien",
@@ -594,7 +594,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T20:46:22.942Z"
+      "pubDate": "2026-02-13T20:52:49.626Z"
     },
     {
       "id": "uni-ak-wien",
@@ -612,7 +612,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T20:46:22.942Z"
+      "pubDate": "2026-02-13T20:52:49.626Z"
     },
     {
       "id": "event-wiener-eistraum",
@@ -630,7 +630,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T20:46:23.146Z"
+      "pubDate": "2026-02-13T20:52:49.750Z"
     },
     {
       "id": "event-lange-nacht-der-museen",
@@ -648,7 +648,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T20:46:23.146Z"
+      "pubDate": "2026-02-13T20:52:49.751Z"
     },
     {
       "id": "event-wiener-rathaus",
@@ -666,7 +666,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T20:46:23.146Z"
+      "pubDate": "2026-02-13T20:52:49.751Z"
     },
     {
       "id": "event-büchereien-wien",
@@ -684,7 +684,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T20:46:23.146Z"
+      "pubDate": "2026-02-13T20:52:49.751Z"
     },
     {
       "id": "event-wienmobil-rad",
@@ -702,7 +702,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T20:46:23.146Z"
+      "pubDate": "2026-02-13T20:52:49.751Z"
     },
     {
       "id": "market-naschmarkt",
@@ -720,7 +720,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 150,
-      "pubDate": "2026-02-13T20:46:23.009Z"
+      "pubDate": "2026-02-13T20:52:49.667Z"
     },
     {
       "id": "market-karmelitermarkt",
@@ -738,7 +738,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 150,
-      "pubDate": "2026-02-13T20:46:23.010Z"
+      "pubDate": "2026-02-13T20:52:49.667Z"
     },
     {
       "id": "market-brunnenmarkt",
@@ -756,7 +756,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 150,
-      "pubDate": "2026-02-13T20:46:23.010Z"
+      "pubDate": "2026-02-13T20:52:49.667Z"
     }
   ]
 }
