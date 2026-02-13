@@ -34,7 +34,7 @@ async function main() {
   
   const deals = [];
   
-  // Foodsharing Fairteiler - real free food
+  // Foodsharing Fairteiler - real free food (KEINE DUPLIKATE - Wiener Tafel ist in scraper 23)
   const fairteilerDeals = [
     {
       brand: 'Foodsharing Wien',
@@ -56,33 +56,11 @@ async function main() {
       title: 'Foodsharing - Obst & Gemüse',
       description: 'Gerettetes Obst und Gemüse von Märkten und Supermärkten.',
       url: 'https://foodsharing.at/'
-    },
-    {
-      brand: 'Wiener Tafel',
-      logo: '🥫',
-      title: 'GRATIS Lebensmittel - Wiener Tafel',
-      description: 'Gerettete Lebensmittel kostenlos bei sozialen Ausgabestellen in Wien. Für Bedürftige.',
-      url: 'https://www.wienertafel.at/'
-    },
-    {
-      brand: 'Wiener Tafel',
-      logo: '🍞',
-      title: 'Wiener Tafel - Ausgabestellen',
-      description: 'Multiple Ausgabestellen in ganz Wien. Täglich frische gerettete Lebensmittel.',
-      url: 'https://www.wienertafel.at/'
     }
   ];
   
-  // Tischlein deck dich
-  const tischleinDeals = [
-    {
-      brand: 'Tischlein deck dich',
-      logo: '🍽️',
-      title: 'GRATIS Essen - Tischlein deck dich',
-      description: 'Lebensmittel für alle, die sie brauchen. Mehrere Standorte in Wien.',
-      url: 'https://www.tischlein.at/'
-    }
-  ];
+  // Tischlein deck dich - NICHT MEHR HIER (ist in scraper 23)
+  const tischleinDeals = [];
   
   for (const d of [...fairteilerDeals, ...tischleinDeals]) {
     deals.push({
