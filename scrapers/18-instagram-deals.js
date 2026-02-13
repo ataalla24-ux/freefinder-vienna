@@ -1,6 +1,6 @@
 // ============================================
-// INSTAGRAM DEAL FINDER - USING APIFY
-// Actually scrapes Instagram for real deal posts
+// INSTAGRAM HASHTAG SCRAPER - Using Apify
+// Scrapes TOP posts from Vienna deal hashtags
 // ============================================
 
 import https from 'https';
@@ -8,7 +8,7 @@ import fs from 'fs';
 
 const APIFY_API_TOKEN = process.env.APIFY_API_TOKEN || '';
 
-// Vienna deal hashtags
+// Top Vienna deal hashtags
 const HASHTAGS = [
   'gratiswien',
   'gratisessenwien',
@@ -16,65 +16,62 @@ const HASHTAGS = [
   'kostenloswien',
   'neueröffnungwien',
   'wienisst',
-  'wienfood',
   'kebabwien',
   'pizzawien',
-  'burgerwien'
+  'burgerwien',
+  'wienfood'
 ];
 
+// Keywords that indicate a REAL deal
 const DEAL_KEYWORDS = [
   'gratis', 'kostenlos', '0€', 'free',
-  '1€', '2€', '3€', 'aktion', 'rabatt', 'eröffnung'
+  '1€', '2€', '3€', '4€', '5€',
+  'aktion', 'rabatt', 'eröffnung', 'deal'
 ];
 
 const FOOD_KEYWORDS = [
   'kebab', 'pizza', 'burger', 'coffee', 'kaffee', 'essen',
-  'döner', 'sushi', 'eis', 'cafe', 'restaurant', 'food'
+  'döner', 'sushi', 'eis', 'cafe', 'restaurant', 'food',
+  'dürüm', 'wrap', 'falafel', 'salat', 'noodle'
 ];
 
-function apifyRequest(path, method = 'GET', body = null) {
+function apifyRequest(url, method = 'GET', body = null) {
   return new Promise((resolve, reject) => {
-    const options = {
-      hostname: 'api.apify.com',
-      port: 443,
-      path: path,
+    const req = https.request(url, {
       method: method,
       headers: {
         'Content-Type': 'application/json',
         'Authorization': `Bearer ${APIFY_API_TOKEN}`
-      }
-    };
-
-    if (body) {
-      options.headers['Content-Length'] = Buffer.byteLength(JSON.stringify(body));
-    }
-
-    const req = https.request(options, (res) => {
+      },
+      timeout: 60000
+    }, (res) => {
       let data = '';
       res.on('data', chunk => data += chunk);
       res.on('end', () => {
-        try { resolve(JSON.parse(data)); }
-        catch (e) { reject(e); }
+        try {
+          resolve(JSON.parse(data));
+        } catch (e) {
+          resolve({});
+        }
       });
     });
-
-    req.on('error', reject);
-    req.setTimeout(120000, () => { req.destroy(); reject(new Error('Timeout')); });
-
+    req.on('error', (e) => resolve({}));
+    req.setTimeout(60000, () => { req.destroy(); resolve({}); });
     if (body) req.write(JSON.stringify(body));
     req.end();
   });
 }
 
-function isRealDeal(caption) {
+function isDealPost(caption) {
   if (!caption) return false;
   const c = caption.toLowerCase();
-  return DEAL_KEYWORDS.some(k => c.includes(k)) && 
-         FOOD_KEYWORDS.some(f => c.includes(f));
+  const hasDeal = DEAL_KEYWORDS.some(k => c.includes(k));
+  const hasFood = FOOD_KEYWORDS.some(f => c.includes(f));
+  return hasDeal && hasFood;
 }
 
 function getLogo(caption) {
-  const c = caption.toLowerCase();
+  const c = caption?.toLowerCase() || '';
   if (c.includes('kebab') || c.includes('döner')) return '🥙';
   if (c.includes('pizza')) return '🍕';
   if (c.includes('burger')) return '🍔';
@@ -85,36 +82,39 @@ function getLogo(caption) {
 }
 
 async function scrapeHashtag(hashtag) {
-  console.log(`📸 Scraping #${hashtag}...`);
+  console.log(`🔍 #${hashtag}...`);
   
   try {
-    // Use Apify's Instagram Hashtag Scraper
-    const runResult = await apifyRequest(
-      `/v2/acts/apify~instagram-hashtag-scraper/runs?token=${APIFY_API_TOKEN}`,
-      'POST',
-      {
-        hashtags: [hashtag],
-        resultsPerHashtag: 20,
-        searchType: 'posts'
-      }
-    );
-
-    if (!runResult.data?.id) {
-      console.log(`   ❌ Could not start scraper`);
+    // Use Apify's generic Instagram scraper - different actor
+    const actorId = 'apify/instagram-scraper';
+    
+    // Start the actor
+    const startUrl = `https://api.apify.com/v2/acts/${actorId}/runs?token=${APIFY_API_TOKEN}`;
+    
+    const startResult = await apifyRequest(startUrl, 'POST', {
+      directUrls: [`https://www.instagram.com/explore/tags/${hashtag}/`],
+      resultsPerPage: 20
+    });
+    
+    if (!startResult.data?.id) {
+      console.log(`   ❌ Could not start`);
       return [];
     }
-
-    const runId = runResult.data.id;
     
-    // Wait for completion (max 2 minutes)
+    const runId = startResult.data.id;
+    
+    // Wait for completion (max 2 min)
     for (let i = 0; i < 12; i++) {
       await new Promise(r => setTimeout(r, 10000));
-      const status = await apifyRequest(`/v2/acts/apify~instagram-hashtag-scraper/runs/${runId}?token=${APIFY_API_TOKEN}`);
+      
+      const statusUrl = `https://api.apify.com/v2/acts/${actorId}/runs/${runId}?token=${APIFY_API_TOKEN}`;
+      const status = await apifyRequest(statusUrl);
       
       if (status.data?.status === 'SUCCEEDED') {
-        // Get results
+        // Get the data
         const datasetId = status.data.defaultDatasetId;
-        const results = await apifyRequest(`/v2/datasets/${datasetId}/items?token=${APIFY_API_TOKEN}&limit=50`);
+        const resultsUrl = `https://api.apify.com/v2/datasets/${datasetId}/items?token=${APIFY_API_TOKEN}&limit=30`;
+        const results = await apifyRequest(resultsUrl);
         
         return results || [];
       }
@@ -130,54 +130,70 @@ async function scrapeHashtag(hashtag) {
 }
 
 async function main() {
-  console.log('📸 INSTAGRAM DEAL FINDER (APIFY)');
-  console.log('====================================\n');
+  console.log('📸 INSTAGRAM HASHTAG SCRAPER (APIFY)');
+  console.log('======================================\n');
   
   if (!APIFY_API_TOKEN) {
     console.log('❌ APIFY_API_TOKEN not set!');
-    process.exit(0);
+    return;
   }
-
+  
+  console.log(`🎯 Scraping ${HASHTAGS.length} hashtags...\n`);
+  
   const allPosts = [];
   
-  // Scrape each hashtag
-  for (const hashtag of HASHTAGS.slice(0, 5)) {
-    const posts = await scrapeHashtag(hashtag);
-    allPosts.push(...posts);
-    await new Promise(r => setTimeout(r, 2000));
-  }
-
-  // Filter for real deals
-  const deals = [];
-  const seen = new Set();
-  
-  for (const post of allPosts) {
-    const caption = post.caption || '';
-    if (isRealDeal(caption) && !seen.has(post.shortCode)) {
-      seen.add(post.shortCode);
+  for (const tag of HASHTAGS) {
+    const posts = await scrapeHashtag(tag);
+    
+    for (const post of posts) {
+      const caption = post.caption || post.title || '';
       
-      deals.push({
-        id: `ig-${post.shortCode || Date.now()}`,
-        brand: post.ownerUsername || 'Instagram',
-        logo: getLogo(caption),
-        title: `${getLogo(caption)} @${post.ownerUsername}`,
-        description: caption.substring(0, 150),
-        type: 'gratis',
-        category: 'essen',
-        source: 'Instagram',
-        url: post.url || `https://instagram.com/p/${post.shortCode}`,
-        expires: 'Begrenzt',
-        distance: 'Wien',
-        hot: true,
-        isNew: true,
-        priority: 1,
-        votes: post.likesCount || 0,
-        pubDate: post.timestamp || new Date().toISOString()
-      });
+      if (isDealPost(caption)) {
+        allPosts.push({
+          id: post.id || Date.now(),
+          shortCode: post.shortCode,
+          caption: caption,
+          username: post.username,
+          likes: post.likesCount || 0,
+          url: post.url
+        });
+      }
+    }
+    
+    await new Promise(r => setTimeout(r, 3000));
+  }
+  
+  // Remove duplicates
+  const uniquePosts = [];
+  const seen = new Set();
+  for (const p of allPosts) {
+    if (!seen.has(p.shortCode)) {
+      seen.add(p.shortCode);
+      uniquePosts.push(p);
     }
   }
-
-  console.log(`\n📸 Found ${deals.length} real Instagram deals!`);
+  
+  // Convert to deals format
+  const deals = uniquePosts.slice(0, 20).map(p => ({
+    id: `ig-${p.shortCode || Date.now()}`,
+    brand: `@${p.username}`,
+    logo: getLogo(p.caption),
+    title: `${getLogo(p.caption)} @${p.username}`,
+    description: p.caption?.substring(0, 150) || 'Deal found on Instagram',
+    type: 'gratis',
+    category: 'essen',
+    source: 'Instagram',
+    url: p.url || `https://instagram.com/p/${p.shortCode}`,
+    expires: 'Begrenzt',
+    distance: 'Wien',
+    hot: true,
+    isNew: true,
+    priority: 1,
+    votes: p.likes || 0,
+    pubDate: new Date().toISOString()
+  }));
+  
+  console.log(`\n📸 Found ${deals.length} deals from Instagram!`);
   
   fs.mkdirSync('output', { recursive: true });
   fs.writeFileSync('output/instagram-real.json', JSON.stringify(deals, null, 2));
