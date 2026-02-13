@@ -1,6 +1,6 @@
 // ============================================
 // MASTER SCRAPER
-// Runs all 10 scrapers and merges deals
+// Runs all 13 scrapers and merges deals
 // ============================================
 
 import { execSync } from 'child_process';
@@ -16,7 +16,10 @@ const SCRAPERS = [
   { name: 'University & AK', file: '07-university-ak.js', key: 'university-ak' },
   { name: 'Markets', file: '08-markets.js', key: 'markets' },
   { name: 'Foodsharing', file: '09-foodsharing.js', key: 'foodsharing' },
-  { name: 'Events', file: '10-events.js', key: 'events' }
+  { name: 'Events', file: '10-events.js', key: 'events' },
+  { name: 'Aggressive Search', file: '11-aggressive-search.js', key: 'aggressive-search' },
+  { name: 'Preisjäger', file: '12-preisjaeger.js', key: 'preisjaeger' },
+  { name: 'Willhaben', file: '13-willhaben.js', key: 'willhaben' }
 ];
 
 async function main() {
