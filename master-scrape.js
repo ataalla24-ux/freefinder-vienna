@@ -19,7 +19,11 @@ const SCRAPERS = [
   { name: 'Events', file: '10-events.js', key: 'events' },
   { name: 'Aggressive Search', file: '11-aggressive-search.js', key: 'aggressive-search' },
   { name: 'Preisjäger', file: '12-preisjaeger.js', key: 'preisjaeger' },
-  { name: 'Willhaben', file: '13-willhaben.js', key: 'willhaben' }
+  { name: 'Willhaben', file: '13-willhaben.js', key: 'willhaben' },
+  { name: 'Telegram', file: '14-telegram.js', key: 'telegram' },
+  { name: 'Deal Sites', file: '15-deal-sites.js', key: 'deal-sites' },
+  { name: 'Shopping', file: '16-shopping.js', key: 'shopping' },
+  { name: 'Austrian Chains', file: '17-chains.js', key: 'chains' }
 ];
 
 async function main() {
