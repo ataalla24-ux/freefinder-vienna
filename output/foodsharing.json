@@ -7,7 +7,7 @@
     "description": "Fairteiler in ganz Wien! Lebensmittel gratis abholen oder abgeben. 100% kostenlos. Keine Anmeldung nötig!",
     "type": "gratis",
     "category": "essen",
-    "source": "Foodsharing Wien",
+    "source": "Foodsharing",
     "url": "https://foodsharing.at/",
     "expires": "Täglich",
     "distance": "Wien",
@@ -15,7 +15,7 @@
     "isNew": false,
     "priority": 1,
     "votes": 200,
-    "pubDate": "2026-02-13T22:31:43.591Z"
+    "pubDate": "2026-02-13T22:32:35.862Z"
   },
   {
     "id": "foodshare-foodsharing-wien",
@@ -25,7 +25,7 @@
     "description": "Gerettetes Brot und Backwaren von Bäckereien. Täglich frisch!",
     "type": "gratis",
     "category": "essen",
-    "source": "Foodsharing Wien",
+    "source": "Foodsharing",
     "url": "https://foodsharing.at/",
     "expires": "Täglich",
     "distance": "Wien",
@@ -33,7 +33,7 @@
     "isNew": false,
     "priority": 1,
     "votes": 200,
-    "pubDate": "2026-02-13T22:31:43.591Z"
+    "pubDate": "2026-02-13T22:32:35.862Z"
   },
   {
     "id": "foodshare-foodsharing-wien",
@@ -43,7 +43,7 @@
     "description": "Gerettetes Obst und Gemüse von Märkten und Supermärkten.",
     "type": "gratis",
     "category": "essen",
-    "source": "Foodsharing Wien",
+    "source": "Foodsharing",
     "url": "https://foodsharing.at/",
     "expires": "Täglich",
     "distance": "Wien",
@@ -51,6 +51,6 @@
     "isNew": false,
     "priority": 1,
     "votes": 200,
-    "pubDate": "2026-02-13T22:31:43.591Z"
+    "pubDate": "2026-02-13T22:32:35.862Z"
   }
 ]
