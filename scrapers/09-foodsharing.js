@@ -71,7 +71,7 @@ async function main() {
       description: d.description,
       type: 'gratis',
       category: 'essen',
-      source: d.brand,
+      source: 'Foodsharing',  // Consistent naming
       url: d.url,
       expires: 'Täglich',
       distance: 'Wien',
