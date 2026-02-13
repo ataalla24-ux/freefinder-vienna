@@ -17,19 +17,18 @@ const DEAL_SEARCH_TERMS = [
   'restaurant wien'
 ];
 
-// Keywords that indicate deals in reviews
-const REVIEW_DEAL_KEYWORDS = [
-  'gratis',
-  'kostenlos',
-  'eröffnung',
-  'aktion',
-  '1€',
-  '2€',
-  '3€',
-  '5€',
-  'rabatt',
-  'geschenk',
-  'umsonst'
+// STRICT: Keywords that indicate REAL deals (product + deal together)
+const REVIEW_DEAL_PATTERNS = [
+  /gratis\s+(kebab|pizza|burger|kaffee|coffee|essen|food|getränk|drink|brot|menü)/i,
+  /kostenlos\s+(kebab|pizza|burger|kaffee|coffee|essen|food|getränk|drink)/i,
+  /1\s*€\s*(kebab|pizza|burger|kaffee|coffee)/i,
+  /2\s*€\s*(kebab|pizza|burger|kaffee|coffee)/i,
+  /3\s*€\s*(kebab|pizza|burger|kaffee|coffee)/i,
+  /eröffnung.*(gratis|kostenlos|rabatt|aktion)/i,
+  /neu.*eröffnet.*(gratis|aktion|rabatt)/i,
+  /1\s*\+\s*1\s*gratis/i,
+  /gratis\s*probe/i,
+  /probetraining\s*gratis/i,
 ];
 
 function fetchJSON(url) {
@@ -60,17 +59,23 @@ async function searchPlaces(query) {
 function checkReviewsForDeals(reviews) {
   const deals = [];
   
-  for (const review of reviews.slice(0, 5)) {
-    const text = review.text.toLowerCase();
-    const hasKeyword = REVIEW_DEAL_KEYWORDS.some(k => text.includes(k));
+  for (const review of reviews.slice(0, 10)) { // Check more reviews
+    const text = review.text;
     
-    if (hasKeyword) {
-      // Extract the relevant sentence
-      const sentences = review.text.split(/[.!?]/);
-      for (const sent of sentences) {
-        if (REVIEW_DEAL_KEYWORDS.some(k => sent.toLowerCase().includes(k))) {
-          deals.push(sent.trim());
-          break;
+    // STRICT: Only accept if MATCHES a specific pattern (product + deal)
+    for (const pattern of REVIEW_DEAL_PATTERNS) {
+      const match = text.match(pattern);
+      if (match) {
+        // Extract the sentence containing the deal
+        const sentences = review.text.split(/[.!?]/);
+        for (const sent of sentences) {
+          if (sent.toLowerCase().includes(match[0].toLowerCase())) {
+            // Only add if it's a meaningful deal sentence
+            if (sent.trim().length > 15 && sent.trim().length < 150) {
+              deals.push(sent.trim());
+            }
+            break;
+          }
         }
       }
     }
