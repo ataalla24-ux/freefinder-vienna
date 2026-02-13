@@ -6,24 +6,19 @@
 import { execSync } from 'child_process';
 import fs from 'fs';
 
+// QUALITY ONLY - Only scrapers that find REAL deals
 const SCRAPERS = [
-  { name: 'New Openings', file: '01-new-openings.js', key: 'new-openings' },
-  { name: 'jö Club', file: '02-jo-club.js', key: 'jo-club' },
-  { name: 'Too Good To Go', file: '03-toogoodtogo.js', key: 'toogoodtogo' },
-  { name: 'Instagram', file: '04-instagram.js', key: 'instagram' },
-  { name: 'Google Reviews', file: '05-google-reviews.js', key: 'google-reviews' },
-  { name: 'Facebook Groups', file: '06-facebook.js', key: 'facebook-groups' },
-  { name: 'University & AK', file: '07-university-ak.js', key: 'university-ak' },
-  { name: 'Markets', file: '08-markets.js', key: 'markets' },
-  { name: 'Foodsharing', file: '09-foodsharing.js', key: 'foodsharing' },
   { name: 'Events', file: '10-events.js', key: 'events' },
-  { name: 'Aggressive Search', file: '11-aggressive-search.js', key: 'aggressive-search' },
+  { name: 'Foodsharing', file: '09-foodsharing.js', key: 'foodsharing' },
+  { name: 'Too Good To Go', file: '03-toogoodtogo.js', key: 'toogoodtogo' },
   { name: 'Preisjäger', file: '12-preisjaeger.js', key: 'preisjaeger' },
-  { name: 'Willhaben', file: '13-willhaben.js', key: 'willhaben' },
-  { name: 'Telegram', file: '14-telegram.js', key: 'telegram' },
-  { name: 'Deal Sites', file: '15-deal-sites.js', key: 'deal-sites' },
-  { name: 'Shopping', file: '16-shopping.js', key: 'shopping' },
-  { name: 'Austrian Chains', file: '17-chains.js', key: 'chains' }
+  { name: 'Austrian Chains', file: '17-chains.js', key: 'chains' },
+  { name: 'Instagram Deals', file: '18-instagram-deals.js', key: 'instagram-deals' },
+  { name: 'Markets', file: '08-markets.js', key: 'markets' },
+  { name: 'University & AK', file: '07-university-ak.js', key: 'university-ak' },
+  // DISABLED - Too much garbage:
+  // { name: 'Aggressive Search', file: '11-aggressive-search.js', key: 'aggressive-search' },
+  // { name: 'Google Reviews', file: '05-google-reviews.js', key: 'google-reviews' },
 ];
 
 async function main() {
