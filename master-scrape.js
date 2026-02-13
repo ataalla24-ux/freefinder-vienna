@@ -8,15 +8,24 @@ import fs from 'fs';
 
 // QUALITY ONLY - Only scrapers that find REAL deals
 const SCRAPERS = [
+  // Working scrapers
   { name: 'Events', file: '10-events.js', key: 'events' },
   { name: 'Foodsharing', file: '09-foodsharing.js', key: 'foodsharing' },
   { name: 'Too Good To Go', file: '03-toogoodtogo.js', key: 'toogoodtogo' },
   { name: 'Preisjäger', file: '12-preisjaeger.js', key: 'preisjaeger' },
   { name: 'Austrian Chains', file: '17-chains.js', key: 'chains' },
-  { name: 'Instagram Deals', file: '18-instagram-deals.js', key: 'instagram-deals' },
   { name: 'Price Search', file: '19-price-search.js', key: 'price-search' },
   { name: 'Markets', file: '08-markets.js', key: 'markets' },
   { name: 'University & AK', file: '07-university-ak.js', key: 'university-ak' },
+  
+  // NEW: Additional automated sources
+  { name: 'Google Alerts', file: '20-google-alerts.js', key: 'google-alerts' },
+  { name: 'Supermarkets', file: '21-supermarkets.js', key: 'supermarkets' },
+  { name: 'ÖBB & Rail', file: '22-obb.js', key: 'obb' },
+  { name: 'Wiener Tafel', file: '23-wiener-tafel.js', key: 'wiener-tafel' },
+  
+  // Experimental
+  // { name: 'Instagram Deals', file: '18-instagram-deals.js', key: 'instagram-deals' },
 ];
 
 async function main() {
