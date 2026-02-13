@@ -21,10 +21,18 @@ const OPENING_QUERIES = [
   'grand opening wien'
 ];
 
-// Must have deal-like keywords in name or reviews
+// MEDIUM: Must have deal-like keywords
 const DEAL_KEYWORDS = [
-  'gratis', 'kostenlos', 'free', '1€', '2€', '3€', '5€',
-  'eröffnung', 'opening', 'aktion', 'rabatt', 'sALE'
+  'gratis', 'kostenlos', '1€', '2€', '3€',
+  'eröffnung', 'aktion', 'sale', 'rabatt'
+];
+
+// MEDIUM: Patterns for REAL deals
+const DEAL_PATTERNS = [
+  /gratis\s+\w+/i,
+  /kostenlos\s+\w+/i,
+  /\d+\s*€.*\w+/i,
+  /eröffnung.*(gratis|aktion|rabatt|1€|2€)/i,
 ];
 
 async function fetchPlaces(query) {
@@ -96,18 +104,32 @@ async function main() {
   const deals = [];
   
   for (const [placeId, place] of allPlaces) {
-    const name = place.name.toLowerCase();
-    const hasDealKeyword = DEAL_KEYWORDS.some(k => name.includes(k.toLowerCase()));
+    const name = place.name;
+    const nameLower = name.toLowerCase();
     
-    // Check reviews for deal keywords
+    // MEDIUM: Check name against keywords AND patterns
+    const hasDealKeyword = DEAL_KEYWORDS.some(k => nameLower.includes(k.toLowerCase()));
+    const hasDealPattern = DEAL_PATTERNS.some(p => p.test(name));
+    
+    // Check reviews for deal patterns
     let hasReviewDeal = false;
-    if (!hasDealKeyword) {
+    let dealText = '';
+    if (!hasDealKeyword && !hasDealPattern) {
       const reviews = await getPlaceReviews(placeId);
-      const reviewText = reviews.map(r => r.text).join(' ').toLowerCase();
-      hasReviewDeal = DEAL_KEYWORDS.some(k => reviewText.includes(k.toLowerCase()));
+      for (const review of reviews.slice(0, 5)) {
+        for (const pattern of DEAL_PATTERNS) {
+          const match = review.text.match(pattern);
+          if (match) {
+            hasReviewDeal = true;
+            dealText = match[0];
+            break;
+          }
+        }
+        if (hasReviewDeal) break;
+      }
     }
     
-    if (hasDealKeyword || hasReviewDeal) {
+    if (hasDealKeyword || hasDealPattern || hasReviewDeal) {
       const address = place.vicinity || place.formatted_address || 'Wien';
       const district = address.match(/(\d{4})\s*Wien/)?.[1] || '';
       

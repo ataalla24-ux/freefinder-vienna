@@ -17,18 +17,21 @@ const DEAL_SEARCH_TERMS = [
   'restaurant wien'
 ];
 
-// STRICT: Keywords that indicate REAL deals (product + deal together)
+// MEDIUM: Keywords that indicate REAL deals (product + deal, but more flexible)
 const REVIEW_DEAL_PATTERNS = [
-  /gratis\s+(kebab|pizza|burger|kaffee|coffee|essen|food|getränk|drink|brot|menü)/i,
-  /kostenlos\s+(kebab|pizza|burger|kaffee|coffee|essen|food|getränk|drink)/i,
-  /1\s*€\s*(kebab|pizza|burger|kaffee|coffee)/i,
-  /2\s*€\s*(kebab|pizza|burger|kaffee|coffee)/i,
-  /3\s*€\s*(kebab|pizza|burger|kaffee|coffee)/i,
-  /eröffnung.*(gratis|kostenlos|rabatt|aktion)/i,
+  // Product + gratis/kostenlos together
+  /gratis\s+\w+/i,
+  /kostenlos\s+\w+/i,
+  // Specific prices
+  /\d+\s*€.*(kebab|pizza|burger|kaffee|coffee|essen|food)/i,
+  // Deal types
+  /eröffnung.*(gratis|rabatt|aktion|1€|2€|3€)/i,
   /neu.*eröffnet.*(gratis|aktion|rabatt)/i,
   /1\s*\+\s*1\s*gratis/i,
+  // Specific products mentioned with deals
+  /probetraining/i,
+  /gratis\s*testen/i,
   /gratis\s*probe/i,
-  /probetraining\s*gratis/i,
 ];
 
 function fetchJSON(url) {
