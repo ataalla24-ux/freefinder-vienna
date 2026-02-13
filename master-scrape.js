@@ -14,11 +14,9 @@ const SCRAPERS = [
   { name: 'Preisjäger', file: '12-preisjaeger.js', key: 'preisjaeger' },
   { name: 'Austrian Chains', file: '17-chains.js', key: 'chains' },
   { name: 'Instagram Deals', file: '18-instagram-deals.js', key: 'instagram-deals' },
+  { name: 'Price Search', file: '19-price-search.js', key: 'price-search' },
   { name: 'Markets', file: '08-markets.js', key: 'markets' },
   { name: 'University & AK', file: '07-university-ak.js', key: 'university-ak' },
-  // DISABLED - Too much garbage:
-  // { name: 'Aggressive Search', file: '11-aggressive-search.js', key: 'aggressive-search' },
-  // { name: 'Google Reviews', file: '05-google-reviews.js', key: 'google-reviews' },
 ];
 
 async function main() {
