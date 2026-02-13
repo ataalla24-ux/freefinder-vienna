@@ -1,0 +1,22 @@
+{
+  "name": "freefinder-vienna",
+  "version": "1.0.0",
+  "description": "Best Vienna Deals Finder - 10 specialized scrapers",
+  "main": "master-scrape.js",
+  "scripts": {
+    "scrape": "node master-scrape.js",
+    "scrape:new-openings": "node scrapers/01-new-openings.js",
+    "scrape:jo": "node scrapers/02-jo-club.js",
+    "scrape:tgtg": "node scrapers/03-toogoodtogo.js",
+    "scrape:instagram": "node scrapers/04-instagram.js",
+    "scrape:reviews": "node scrapers/05-google-reviews.js",
+    "scrape:facebook": "node scrapers/06-facebook.js",
+    "scrape:university": "node scrapers/07-university-ak.js",
+    "scrape:markets": "node scrapers/08-markets.js",
+    "scrape:foodsharing": "node scrapers/09-foodsharing.js",
+    "scrape:events": "node scrapers/10-events.js"
+  },
+  "keywords": ["vienna", "deals", "gratis", "wien", "free"],
+  "author": "",
+  "license": "MIT"
+}
