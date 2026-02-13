@@ -1,0 +1,38 @@
+[
+  {
+    "id": "wh-manual-willhaben",
+    "brand": "Willhaben",
+    "logo": "🎁",
+    "title": "Gratis Verschenke Wien",
+    "description": "Täglich neue kostenlose Dinge in Wien. Von Möbeln bis Elektronik!",
+    "type": "gratis",
+    "category": "gratis",
+    "source": "Willhaben",
+    "url": "https://www.willhaben.at/iad/verschenke-kaufen/verschenken/?keyword=&areaId=900",
+    "expires": "Täglich",
+    "distance": "Wien",
+    "hot": true,
+    "isNew": false,
+    "priority": 1,
+    "votes": 200,
+    "pubDate": "2026-02-13T21:20:11.201Z"
+  },
+  {
+    "id": "wh-manual-willhaben",
+    "brand": "Willhaben",
+    "logo": "🆓",
+    "title": "Gratis Kleinanzeigen Wien",
+    "description": "Gratis Inserate in Wien - von Food bis Möbel",
+    "type": "gratis",
+    "category": "gratis",
+    "source": "Willhaben",
+    "url": "https://www.willhaben.at/iad/default/?sort=RELEVANCE&keyword=gratis&areaId=900",
+    "expires": "Täglich",
+    "distance": "Wien",
+    "hot": true,
+    "isNew": false,
+    "priority": 1,
+    "votes": 200,
+    "pubDate": "2026-02-13T21:20:11.201Z"
+  }
+]
