@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-13T21:25:27.667Z",
+  "lastUpdated": "2026-02-13T21:28:52.874Z",
   "totalDeals": 176,
   "deals": [
     {
@@ -18,7 +18,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 6975,
-      "pubDate": "2026-02-13T21:25:09.110Z"
+      "pubDate": "2026-02-13T21:28:33.165Z"
     },
     {
       "id": "agg-ChIJNXEQhZ",
@@ -37,7 +37,7 @@
       "priority": 1,
       "votes": 5239,
       "searchQuery": "gratis café wien",
-      "pubDate": "2026-02-13T21:25:13.187Z"
+      "pubDate": "2026-02-13T21:28:39.627Z"
     },
     {
       "id": "agg-ChIJ1Wa_RZ",
@@ -56,7 +56,7 @@
       "priority": 1,
       "votes": 3718,
       "searchQuery": "kostenlos essen wien",
-      "pubDate": "2026-02-13T21:25:13.501Z"
+      "pubDate": "2026-02-13T21:28:40.353Z"
     },
     {
       "id": "agg-ChIJJSuhv6",
@@ -75,7 +75,7 @@
       "priority": 1,
       "votes": 3574,
       "searchQuery": "gratis essen wien",
-      "pubDate": "2026-02-13T21:25:12.220Z"
+      "pubDate": "2026-02-13T21:28:38.704Z"
     },
     {
       "id": "agg-ChIJHSt-WZ",
@@ -94,7 +94,7 @@
       "priority": 1,
       "votes": 2460,
       "searchQuery": "gratis café wien",
-      "pubDate": "2026-02-13T21:25:13.187Z"
+      "pubDate": "2026-02-13T21:28:39.627Z"
     },
     {
       "id": "agg-ChIJ20JtAJ",
@@ -113,7 +113,7 @@
       "priority": 1,
       "votes": 2432,
       "searchQuery": "gratis café wien",
-      "pubDate": "2026-02-13T21:25:13.187Z"
+      "pubDate": "2026-02-13T21:28:39.627Z"
     },
     {
       "id": "review-ChIJ9VIgcs",
@@ -131,7 +131,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 1672,
-      "pubDate": "2026-02-13T21:25:09.032Z"
+      "pubDate": "2026-02-13T21:28:31.833Z"
     },
     {
       "id": "agg-ChIJh1-JAc",
@@ -150,7 +150,7 @@
       "priority": 1,
       "votes": 1581,
       "searchQuery": "gratis café wien",
-      "pubDate": "2026-02-13T21:25:13.187Z"
+      "pubDate": "2026-02-13T21:28:39.627Z"
     },
     {
       "id": "agg-ChIJyY3lHB",
@@ -169,7 +169,26 @@
       "priority": 1,
       "votes": 1476,
       "searchQuery": "kostenlos essen wien",
-      "pubDate": "2026-02-13T21:25:13.501Z"
+      "pubDate": "2026-02-13T21:28:40.353Z"
+    },
+    {
+      "id": "agg-ChIJDaTAoo",
+      "brand": "Café Kafka",
+      "logo": "🏷️",
+      "title": "🎁 Café Kafka",
+      "description": "Gefunden bei Suche \"gratis café wien\". Capistrangasse 8, 1060 Wien, Österreich. ⭐ 4.3 (1428 Bewertungen)",
+      "type": "gratis",
+      "category": "essen",
+      "source": "Aggressive Search",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJDaTAoo8HbUcRGkJAm7eJqUs",
+      "expires": "Prüfen",
+      "distance": "1060. Bezirk",
+      "hot": true,
+      "isNew": true,
+      "priority": 1,
+      "votes": 1428,
+      "searchQuery": "gratis café wien",
+      "pubDate": "2026-02-13T21:28:39.627Z"
     },
     {
       "id": "agg-ChIJPUFeN2",
@@ -188,7 +207,7 @@
       "priority": 1,
       "votes": 1380,
       "searchQuery": "gratis essen wien",
-      "pubDate": "2026-02-13T21:25:12.220Z"
+      "pubDate": "2026-02-13T21:28:38.704Z"
     },
     {
       "id": "agg-ChIJD-Af7N",
@@ -207,7 +226,7 @@
       "priority": 1,
       "votes": 1319,
       "searchQuery": "gratis essen wien",
-      "pubDate": "2026-02-13T21:25:12.220Z"
+      "pubDate": "2026-02-13T21:28:38.704Z"
     },
     {
       "id": "agg-ChIJzaGqrq",
@@ -226,7 +245,7 @@
       "priority": 1,
       "votes": 1311,
       "searchQuery": "kostenlos essen wien",
-      "pubDate": "2026-02-13T21:25:13.501Z"
+      "pubDate": "2026-02-13T21:28:40.353Z"
     },
     {
       "id": "agg-ChIJJ4dvR6",
@@ -245,7 +264,7 @@
       "priority": 1,
       "votes": 1279,
       "searchQuery": "gratis kebab wien",
-      "pubDate": "2026-02-13T21:25:12.503Z"
+      "pubDate": "2026-02-13T21:28:38.957Z"
     },
     {
       "id": "agg-ChIJxWa2hS",
@@ -264,7 +283,7 @@
       "priority": 1,
       "votes": 788,
       "searchQuery": "gratis kebab wien",
-      "pubDate": "2026-02-13T21:25:12.503Z"
+      "pubDate": "2026-02-13T21:28:38.957Z"
     },
     {
       "id": "agg-ChIJld_j7w",
@@ -283,7 +302,7 @@
       "priority": 1,
       "votes": 738,
       "searchQuery": "gratis pizza wien",
-      "pubDate": "2026-02-13T21:25:12.823Z"
+      "pubDate": "2026-02-13T21:28:39.292Z"
     },
     {
       "id": "agg-ChIJDSdUk5",
@@ -302,7 +321,7 @@
       "priority": 1,
       "votes": 629,
       "searchQuery": "kostenlos essen wien",
-      "pubDate": "2026-02-13T21:25:13.501Z"
+      "pubDate": "2026-02-13T21:28:40.353Z"
     },
     {
       "id": "event-donauinselfest",
@@ -320,7 +339,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:25:09.486Z"
+      "pubDate": "2026-02-13T21:28:35.533Z"
     },
     {
       "id": "event-film-festival",
@@ -338,7 +357,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:25:09.486Z"
+      "pubDate": "2026-02-13T21:28:35.534Z"
     },
     {
       "id": "event-bundesmuseen",
@@ -356,7 +375,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:25:09.486Z"
+      "pubDate": "2026-02-13T21:28:35.534Z"
     },
     {
       "id": "event-wiener-staatsoper",
@@ -374,7 +393,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:25:09.486Z"
+      "pubDate": "2026-02-13T21:28:35.534Z"
     },
     {
       "id": "event-wiener-linien",
@@ -392,7 +411,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:25:09.486Z"
+      "pubDate": "2026-02-13T21:28:35.534Z"
     },
     {
       "id": "agg-ChIJ96W46o",
@@ -411,7 +430,7 @@
       "priority": 1,
       "votes": 280,
       "searchQuery": "gratis essen wien",
-      "pubDate": "2026-02-13T21:25:12.220Z"
+      "pubDate": "2026-02-13T21:28:38.704Z"
     },
     {
       "id": "agg-ChIJ-bwsGZ",
@@ -430,7 +449,7 @@
       "priority": 1,
       "votes": 271,
       "searchQuery": "gratis pizza wien",
-      "pubDate": "2026-02-13T21:25:12.823Z"
+      "pubDate": "2026-02-13T21:28:39.292Z"
     },
     {
       "id": "ig-instagram-deals",
@@ -448,7 +467,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T21:25:08.887Z"
+      "pubDate": "2026-02-13T21:28:30.869Z"
     },
     {
       "id": "ig-instagram-deals",
@@ -466,7 +485,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T21:25:08.887Z"
+      "pubDate": "2026-02-13T21:28:30.869Z"
     },
     {
       "id": "ig-instagram-deals",
@@ -484,7 +503,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T21:25:08.887Z"
+      "pubDate": "2026-02-13T21:28:30.869Z"
     },
     {
       "id": "foodshare-foodsharing-wien",
@@ -502,7 +521,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T21:25:09.445Z"
+      "pubDate": "2026-02-13T21:28:35.498Z"
     },
     {
       "id": "foodshare-foodsharing-wien",
@@ -520,7 +539,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T21:25:09.445Z"
+      "pubDate": "2026-02-13T21:28:35.498Z"
     },
     {
       "id": "foodshare-foodsharing-wien",
@@ -538,7 +557,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T21:25:09.445Z"
+      "pubDate": "2026-02-13T21:28:35.498Z"
     },
     {
       "id": "foodshare-wiener-tafel",
@@ -556,7 +575,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T21:25:09.445Z"
+      "pubDate": "2026-02-13T21:28:35.498Z"
     },
     {
       "id": "foodshare-tischlein-deck-dich",
@@ -574,7 +593,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T21:25:09.445Z"
+      "pubDate": "2026-02-13T21:28:35.498Z"
     },
     {
       "id": "wh-manual-willhaben",
@@ -592,7 +611,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T21:25:19.605Z"
+      "pubDate": "2026-02-13T21:28:46.725Z"
     },
     {
       "id": "wh-manual-willhaben",
@@ -610,7 +629,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T21:25:19.606Z"
+      "pubDate": "2026-02-13T21:28:46.725Z"
     },
     {
       "id": "review-ChIJvVyS7n",
@@ -628,7 +647,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 183,
-      "pubDate": "2026-02-13T21:25:09.009Z"
+      "pubDate": "2026-02-13T21:28:31.504Z"
     },
     {
       "id": "market-foodsharing-fairteiler",
@@ -646,7 +665,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 150,
-      "pubDate": "2026-02-13T21:25:09.403Z"
+      "pubDate": "2026-02-13T21:28:35.463Z"
     },
     {
       "id": "market-wiener-tafel",
@@ -664,10 +683,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 150,
-      "pubDate": "2026-02-13T21:25:09.403Z"
+      "pubDate": "2026-02-13T21:28:35.463Z"
     },
     {
-      "id": "pj-1771017916640-8fh4jd",
+      "id": "pj-1771018124045-0c769z",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "Media Markt: 10% on top auf Produkte im Sale mit MyMediaMarkt z.B. GAR",
@@ -685,7 +704,7 @@
       "pubDate": "Fri, 13 Feb 2026 16:46:21 +0100"
     },
     {
-      "id": "pj-1771017916640-9v7qej",
+      "id": "pj-1771018124045-0h19g7",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "AliExpress Gutscheine ab 15.2.: 2€ ab 15€, 4€ ab 29€, 6€ ab 49€, 10€ a",
@@ -703,7 +722,7 @@
       "pubDate": "Fri, 13 Feb 2026 16:00:15 +0100"
     },
     {
-      "id": "pj-1771017916640-vccqpm",
+      "id": "pj-1771018124045-101735",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "Pagro/Libro: 20% auf fast alles ab 30€ ab 13.2.",
@@ -721,7 +740,7 @@
       "pubDate": "Fri, 13 Feb 2026 10:44:00 +0100"
     },
     {
-      "id": "pj-1771017916983-5odm62",
+      "id": "pj-1771018124436-g2xkc4",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "Griechenland / Kamena Vourla: Mitsis Galini Wellness Spa & Resort 5* m",
@@ -739,7 +758,7 @@
       "pubDate": "Fri, 13 Feb 2026 15:10:45 +0100"
     },
     {
-      "id": "pj-1771017916983-u63cnj",
+      "id": "pj-1771018124436-chd4kj",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "4* Lindner Hotel Prague Castle 2 Personen ab 1 Nacht im Deluxe Zimmer ",
@@ -757,7 +776,7 @@
       "pubDate": "Thu, 05 Feb 2026 17:04:00 +0100"
     },
     {
-      "id": "pj-1771017916983-q1sdwl",
+      "id": "pj-1771018124436-bu3qoc",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "Jeep Duffle-Trolley | L (73 cm) versch. Farben (Größe XL 82cm für 99,9",
@@ -775,7 +794,7 @@
       "pubDate": "Wed, 04 Feb 2026 10:46:30 +0100"
     },
     {
-      "id": "pj-1771017916983-gp6uh7",
+      "id": "pj-1771018124436-nyka2f",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "Eurowings -5% bei 80€, -10% bei 150€",
@@ -793,7 +812,7 @@
       "pubDate": "Mon, 02 Feb 2026 21:25:46 +0100"
     },
     {
-      "id": "pj-1771017916983-jl3m4a",
+      "id": "pj-1771018124436-f83c2r",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "Hofer Reisen: 50€ ab 899€ oder 100€ ab 1599€ für Reisen im Zeitraum 01",
@@ -811,7 +830,7 @@
       "pubDate": "Sun, 01 Feb 2026 14:50:25 +0100"
     },
     {
-      "id": "pj-1771017916983-geikke",
+      "id": "pj-1771018124437-6mp74v",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "Algarve: Domes Lake Algarve, Autograph Collection 5* Hotel mit Frühstü",
@@ -844,7 +863,7 @@
       "isNew": true,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T21:25:19.643Z"
+      "pubDate": "2026-02-13T21:28:46.756Z"
     },
     {
       "id": "telegram-dealbunny_at",
@@ -862,7 +881,7 @@
       "isNew": true,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T21:25:19.643Z"
+      "pubDate": "2026-02-13T21:28:46.756Z"
     },
     {
       "id": "telegram--Schnäppchen",
@@ -880,7 +899,7 @@
       "isNew": true,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T21:25:19.643Z"
+      "pubDate": "2026-02-13T21:28:46.756Z"
     },
     {
       "id": "telegram-oesterreichdeals",
@@ -898,7 +917,7 @@
       "isNew": true,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T21:25:19.643Z"
+      "pubDate": "2026-02-13T21:28:46.756Z"
     },
     {
       "id": "telegram-gratis-um-sonst",
@@ -916,26 +935,7 @@
       "isNew": true,
       "priority": 1,
       "votes": 100,
-      "pubDate": "2026-02-13T21:25:19.643Z"
-    },
-    {
-      "id": "agg-ChIJoanu9w",
-      "brand": "Kolibri Wien",
-      "logo": "🏷️",
-      "title": "🎁 Kolibri Wien",
-      "description": "Gefunden bei Suche \"gratis café wien\". Lerchenfelder Str. 81, 1070 Wien, Österreich. ⭐ 4.8 (92 Bewertungen)",
-      "type": "gratis",
-      "category": "essen",
-      "source": "Aggressive Search",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJoanu9wsHbUcRj1ZP3R_oaWs",
-      "expires": "Prüfen",
-      "distance": "1070. Bezirk",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 92,
-      "searchQuery": "gratis café wien",
-      "pubDate": "2026-02-13T21:25:13.187Z"
+      "pubDate": "2026-02-13T21:28:46.756Z"
     },
     {
       "id": "agg-ChIJxUcnHk",
@@ -954,7 +954,7 @@
       "priority": 1,
       "votes": 66,
       "searchQuery": "gratis pizza wien",
-      "pubDate": "2026-02-13T21:25:12.823Z"
+      "pubDate": "2026-02-13T21:28:39.292Z"
     },
     {
       "id": "fb-wien---nachbarn-helf",
@@ -972,7 +972,7 @@
       "isNew": true,
       "priority": 3,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:09.293Z"
+      "pubDate": "2026-02-13T21:28:35.394Z"
     },
     {
       "id": "fb-kreuzberg-nachbarn-(",
@@ -990,7 +990,7 @@
       "isNew": true,
       "priority": 3,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:09.293Z"
+      "pubDate": "2026-02-13T21:28:35.394Z"
     },
     {
       "id": "fb-studenten-wien---woh",
@@ -1008,7 +1008,7 @@
       "isNew": true,
       "priority": 3,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:09.293Z"
+      "pubDate": "2026-02-13T21:28:35.394Z"
     },
     {
       "id": "fb-freie-wähler-wien",
@@ -1026,7 +1026,7 @@
       "isNew": true,
       "priority": 3,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:09.293Z"
+      "pubDate": "2026-02-13T21:28:35.394Z"
     },
     {
       "id": "fb-mami-wien",
@@ -1044,7 +1044,7 @@
       "isNew": true,
       "priority": 3,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:09.293Z"
+      "pubDate": "2026-02-13T21:28:35.394Z"
     },
     {
       "id": "agg-ChIJbU-Egp",
@@ -1063,7 +1063,7 @@
       "priority": 2,
       "votes": 30749,
       "searchQuery": "günstig essen wien",
-      "pubDate": "2026-02-13T21:25:14.900Z"
+      "pubDate": "2026-02-13T21:28:42.175Z"
     },
     {
       "id": "agg-ChIJIYudCa",
@@ -1082,7 +1082,7 @@
       "priority": 2,
       "votes": 11116,
       "searchQuery": "1,50€ kebab wien",
-      "pubDate": "2026-02-13T21:25:11.583Z"
+      "pubDate": "2026-02-13T21:28:37.562Z"
     },
     {
       "id": "agg-ChIJ_egr3q",
@@ -1101,7 +1101,7 @@
       "priority": 2,
       "votes": 9853,
       "searchQuery": "billig essen wien",
-      "pubDate": "2026-02-13T21:25:15.195Z"
+      "pubDate": "2026-02-13T21:28:42.507Z"
     },
     {
       "id": "agg-ChIJfx1lJ5",
@@ -1120,7 +1120,7 @@
       "priority": 2,
       "votes": 8134,
       "searchQuery": "günstig essen wien",
-      "pubDate": "2026-02-13T21:25:14.900Z"
+      "pubDate": "2026-02-13T21:28:42.175Z"
     },
     {
       "id": "agg-ChIJL5nW7o",
@@ -1139,7 +1139,7 @@
       "priority": 2,
       "votes": 7587,
       "searchQuery": "günstig essen wien",
-      "pubDate": "2026-02-13T21:25:14.900Z"
+      "pubDate": "2026-02-13T21:28:42.175Z"
     },
     {
       "id": "agg-ChIJ07c_uJ",
@@ -1158,7 +1158,7 @@
       "priority": 2,
       "votes": 5695,
       "searchQuery": "2€ pizza wien",
-      "pubDate": "2026-02-13T21:25:10.955Z"
+      "pubDate": "2026-02-13T21:28:36.900Z"
     },
     {
       "id": "agg-ChIJ507s6J",
@@ -1177,7 +1177,7 @@
       "priority": 2,
       "votes": 4829,
       "searchQuery": "günstig essen wien",
-      "pubDate": "2026-02-13T21:25:14.900Z"
+      "pubDate": "2026-02-13T21:28:42.175Z"
     },
     {
       "id": "agg-ChIJKVrn9J",
@@ -1196,7 +1196,7 @@
       "priority": 2,
       "votes": 4034,
       "searchQuery": "opening deal wien",
-      "pubDate": "2026-02-13T21:25:14.604Z"
+      "pubDate": "2026-02-13T21:28:41.523Z"
     },
     {
       "id": "agg-ChIJM-0eeK",
@@ -1215,7 +1215,7 @@
       "priority": 2,
       "votes": 3728,
       "searchQuery": "günstig essen wien",
-      "pubDate": "2026-02-13T21:25:14.900Z"
+      "pubDate": "2026-02-13T21:28:42.175Z"
     },
     {
       "id": "agg-ChIJiwmk_Z",
@@ -1234,7 +1234,7 @@
       "priority": 2,
       "votes": 3567,
       "searchQuery": "billig essen wien",
-      "pubDate": "2026-02-13T21:25:15.195Z"
+      "pubDate": "2026-02-13T21:28:42.507Z"
     },
     {
       "id": "agg-ChIJPzzy6J",
@@ -1253,7 +1253,7 @@
       "priority": 2,
       "votes": 3544,
       "searchQuery": "5€ essen wien",
-      "pubDate": "2026-02-13T21:25:15.520Z"
+      "pubDate": "2026-02-13T21:28:43.035Z"
     },
     {
       "id": "agg-ChIJ8cy3YZ",
@@ -1272,7 +1272,7 @@
       "priority": 2,
       "votes": 3442,
       "searchQuery": "5€ essen wien",
-      "pubDate": "2026-02-13T21:25:15.520Z"
+      "pubDate": "2026-02-13T21:28:43.035Z"
     },
     {
       "id": "agg-ChIJ_6eoQZ",
@@ -1291,7 +1291,7 @@
       "priority": 2,
       "votes": 3255,
       "searchQuery": "2€ pizza wien",
-      "pubDate": "2026-02-13T21:25:10.955Z"
+      "pubDate": "2026-02-13T21:28:36.900Z"
     },
     {
       "id": "agg-ChIJyQCoA6",
@@ -1310,7 +1310,7 @@
       "priority": 2,
       "votes": 2083,
       "searchQuery": "1€ kebab wien",
-      "pubDate": "2026-02-13T21:25:10.044Z"
+      "pubDate": "2026-02-13T21:28:35.962Z"
     },
     {
       "id": "agg-ChIJHzfP-9",
@@ -1329,7 +1329,7 @@
       "priority": 2,
       "votes": 1698,
       "searchQuery": "2€ pizza wien",
-      "pubDate": "2026-02-13T21:25:10.955Z"
+      "pubDate": "2026-02-13T21:28:36.900Z"
     },
     {
       "id": "agg-ChIJYdnbw5",
@@ -1348,7 +1348,7 @@
       "priority": 2,
       "votes": 1580,
       "searchQuery": "2€ pizza wien",
-      "pubDate": "2026-02-13T21:25:10.955Z"
+      "pubDate": "2026-02-13T21:28:36.900Z"
     },
     {
       "id": "agg-ChIJQYjLZ3",
@@ -1367,7 +1367,7 @@
       "priority": 2,
       "votes": 1300,
       "searchQuery": "2€ kebab wien",
-      "pubDate": "2026-02-13T21:25:10.376Z"
+      "pubDate": "2026-02-13T21:28:36.280Z"
     },
     {
       "id": "agg-ChIJUSgnds",
@@ -1386,7 +1386,7 @@
       "priority": 2,
       "votes": 1025,
       "searchQuery": "1€ kebab wien",
-      "pubDate": "2026-02-13T21:25:10.045Z"
+      "pubDate": "2026-02-13T21:28:35.962Z"
     },
     {
       "id": "tgtg-main",
@@ -1404,7 +1404,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 1000,
-      "pubDate": "2026-02-13T21:25:08.846Z"
+      "pubDate": "2026-02-13T21:28:30.833Z"
     },
     {
       "id": "agg-ChIJaR9PIq",
@@ -1423,7 +1423,7 @@
       "priority": 2,
       "votes": 898,
       "searchQuery": "1€ pizza wien",
-      "pubDate": "2026-02-13T21:25:10.621Z"
+      "pubDate": "2026-02-13T21:28:36.542Z"
     },
     {
       "id": "agg-ChIJn66GYt",
@@ -1442,7 +1442,7 @@
       "priority": 2,
       "votes": 803,
       "searchQuery": "1€ kebab wien",
-      "pubDate": "2026-02-13T21:25:10.045Z"
+      "pubDate": "2026-02-13T21:28:35.962Z"
     },
     {
       "id": "agg-ChIJn8Ffa8",
@@ -1461,7 +1461,7 @@
       "priority": 2,
       "votes": 709,
       "searchQuery": "eröffnung angebot wien restaurant",
-      "pubDate": "2026-02-13T21:25:13.866Z"
+      "pubDate": "2026-02-13T21:28:40.784Z"
     },
     {
       "id": "agg-ChIJgUm3K_",
@@ -1480,14 +1480,14 @@
       "priority": 2,
       "votes": 663,
       "searchQuery": "eröffnung angebot wien restaurant",
-      "pubDate": "2026-02-13T21:25:13.866Z"
+      "pubDate": "2026-02-13T21:28:40.784Z"
     },
     {
       "id": "agg-ChIJsWaCXV",
       "brand": "Kebap Art",
       "logo": "🏷️",
       "title": "🏷️ Kebap Art",
-      "description": "Gefunden bei Suche \"1,50€ kebab wien\". Siebenbrunnenpl. 2, 1050 Wien, Österreich. ⭐ 4.9 (658 Bewertungen)",
+      "description": "Gefunden bei Suche \"1,90€ kebab wien\". Siebenbrunnenpl. 2, 1050 Wien, Österreich. ⭐ 4.9 (658 Bewertungen)",
       "type": "super-günstig",
       "category": "essen",
       "source": "Aggressive Search",
@@ -1498,8 +1498,8 @@
       "isNew": true,
       "priority": 2,
       "votes": 658,
-      "searchQuery": "1,50€ kebab wien",
-      "pubDate": "2026-02-13T21:25:11.583Z"
+      "searchQuery": "1,90€ kebab wien",
+      "pubDate": "2026-02-13T21:28:38.349Z"
     },
     {
       "id": "agg-ChIJz-QgDb",
@@ -1518,7 +1518,7 @@
       "priority": 2,
       "votes": 642,
       "searchQuery": "eröffnung angebot wien restaurant",
-      "pubDate": "2026-02-13T21:25:13.866Z"
+      "pubDate": "2026-02-13T21:28:40.784Z"
     },
     {
       "id": "agg-ChIJPYBulb",
@@ -1537,7 +1537,7 @@
       "priority": 2,
       "votes": 606,
       "searchQuery": "1€ döner wien",
-      "pubDate": "2026-02-13T21:25:11.221Z"
+      "pubDate": "2026-02-13T21:28:37.232Z"
     },
     {
       "id": "agg-ChIJLxE6VJ",
@@ -1556,10 +1556,10 @@
       "priority": 2,
       "votes": 581,
       "searchQuery": "neueröffnung restaurant wien",
-      "pubDate": "2026-02-13T21:25:14.144Z"
+      "pubDate": "2026-02-13T21:28:41.083Z"
     },
     {
-      "id": "tgtg-innere stadt-1771017908845",
+      "id": "tgtg-innere stadt-1771018110833",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Innere Stadt",
@@ -1574,10 +1574,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:25:08.845Z"
+      "pubDate": "2026-02-13T21:28:30.833Z"
     },
     {
-      "id": "tgtg-leopoldstadt-1771017908845",
+      "id": "tgtg-leopoldstadt-1771018110833",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Leopoldstadt",
@@ -1592,10 +1592,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:25:08.845Z"
+      "pubDate": "2026-02-13T21:28:30.833Z"
     },
     {
-      "id": "tgtg-mariahilf-1771017908845",
+      "id": "tgtg-mariahilf-1771018110833",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Mariahilf",
@@ -1610,10 +1610,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:25:08.845Z"
+      "pubDate": "2026-02-13T21:28:30.833Z"
     },
     {
-      "id": "tgtg-wieden-1771017908845",
+      "id": "tgtg-wieden-1771018110833",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Wieden",
@@ -1628,10 +1628,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:25:08.845Z"
+      "pubDate": "2026-02-13T21:28:30.833Z"
     },
     {
-      "id": "tgtg-alsergrund-1771017908845",
+      "id": "tgtg-alsergrund-1771018110833",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Alsergrund",
@@ -1646,10 +1646,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:25:08.845Z"
+      "pubDate": "2026-02-13T21:28:30.833Z"
     },
     {
-      "id": "tgtg-favoriten-1771017908845",
+      "id": "tgtg-favoriten-1771018110833",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Favoriten",
@@ -1664,10 +1664,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:25:08.845Z"
+      "pubDate": "2026-02-13T21:28:30.833Z"
     },
     {
-      "id": "tgtg-floridsdorf-1771017908845",
+      "id": "tgtg-floridsdorf-1771018110833",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Floridsdorf",
@@ -1682,10 +1682,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:25:08.845Z"
+      "pubDate": "2026-02-13T21:28:30.833Z"
     },
     {
-      "id": "tgtg-donaustadt-1771017908846",
+      "id": "tgtg-donaustadt-1771018110833",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Donaustadt",
@@ -1700,7 +1700,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:25:08.846Z"
+      "pubDate": "2026-02-13T21:28:30.833Z"
     },
     {
       "id": "agg-ChIJFb7OfU",
@@ -1719,7 +1719,7 @@
       "priority": 2,
       "votes": 358,
       "searchQuery": "neueröffnung restaurant wien",
-      "pubDate": "2026-02-13T21:25:14.144Z"
+      "pubDate": "2026-02-13T21:28:41.083Z"
     },
     {
       "id": "agg-ChIJ1ZIsnA",
@@ -1738,7 +1738,7 @@
       "priority": 2,
       "votes": 352,
       "searchQuery": "eröffnung angebot wien restaurant",
-      "pubDate": "2026-02-13T21:25:13.866Z"
+      "pubDate": "2026-02-13T21:28:40.784Z"
     },
     {
       "id": "agg-ChIJ-Uy7Yw",
@@ -1757,7 +1757,7 @@
       "priority": 2,
       "votes": 344,
       "searchQuery": "neueröffnung restaurant wien",
-      "pubDate": "2026-02-13T21:25:14.144Z"
+      "pubDate": "2026-02-13T21:28:41.083Z"
     },
     {
       "id": "uni-uni-mensen-wien",
@@ -1775,7 +1775,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T21:25:09.334Z"
+      "pubDate": "2026-02-13T21:28:35.428Z"
     },
     {
       "id": "uni-mensa-göttweig",
@@ -1793,7 +1793,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T21:25:09.334Z"
+      "pubDate": "2026-02-13T21:28:35.428Z"
     },
     {
       "id": "uni-mensa斜",
@@ -1811,7 +1811,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T21:25:09.335Z"
+      "pubDate": "2026-02-13T21:28:35.428Z"
     },
     {
       "id": "uni-ak-wien",
@@ -1829,7 +1829,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T21:25:09.335Z"
+      "pubDate": "2026-02-13T21:28:35.428Z"
     },
     {
       "id": "uni-ak-wien",
@@ -1847,7 +1847,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T21:25:09.335Z"
+      "pubDate": "2026-02-13T21:28:35.428Z"
     },
     {
       "id": "event-wiener-eistraum",
@@ -1865,7 +1865,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T21:25:09.486Z"
+      "pubDate": "2026-02-13T21:28:35.534Z"
     },
     {
       "id": "event-lange-nacht-der-museen",
@@ -1883,7 +1883,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T21:25:09.486Z"
+      "pubDate": "2026-02-13T21:28:35.534Z"
     },
     {
       "id": "event-wiener-rathaus",
@@ -1901,7 +1901,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T21:25:09.486Z"
+      "pubDate": "2026-02-13T21:28:35.534Z"
     },
     {
       "id": "event-büchereien-wien",
@@ -1919,7 +1919,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T21:25:09.486Z"
+      "pubDate": "2026-02-13T21:28:35.534Z"
     },
     {
       "id": "event-wienmobil-rad",
@@ -1937,7 +1937,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T21:25:09.486Z"
+      "pubDate": "2026-02-13T21:28:35.534Z"
     },
     {
       "id": "agg-ChIJX21l0D",
@@ -1956,7 +1956,7 @@
       "priority": 2,
       "votes": 173,
       "searchQuery": "opening deal wien",
-      "pubDate": "2026-02-13T21:25:14.604Z"
+      "pubDate": "2026-02-13T21:28:41.523Z"
     },
     {
       "id": "agg-ChIJfdH22f",
@@ -1975,7 +1975,7 @@
       "priority": 2,
       "votes": 151,
       "searchQuery": "1€ kebab wien",
-      "pubDate": "2026-02-13T21:25:10.045Z"
+      "pubDate": "2026-02-13T21:28:35.962Z"
     },
     {
       "id": "market-naschmarkt",
@@ -1993,7 +1993,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 150,
-      "pubDate": "2026-02-13T21:25:09.401Z"
+      "pubDate": "2026-02-13T21:28:35.463Z"
     },
     {
       "id": "market-karmelitermarkt",
@@ -2011,7 +2011,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 150,
-      "pubDate": "2026-02-13T21:25:09.403Z"
+      "pubDate": "2026-02-13T21:28:35.463Z"
     },
     {
       "id": "market-brunnenmarkt",
@@ -2029,7 +2029,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 150,
-      "pubDate": "2026-02-13T21:25:09.403Z"
+      "pubDate": "2026-02-13T21:28:35.463Z"
     },
     {
       "id": "agg-ChIJnz3Gz7",
@@ -2048,7 +2048,7 @@
       "priority": 2,
       "votes": 127,
       "searchQuery": "neueröffnung restaurant wien",
-      "pubDate": "2026-02-13T21:25:14.143Z"
+      "pubDate": "2026-02-13T21:28:41.083Z"
     },
     {
       "id": "agg-ChIJJ0dAqu",
@@ -2067,10 +2067,10 @@
       "priority": 2,
       "votes": 103,
       "searchQuery": "1€ kebab wien",
-      "pubDate": "2026-02-13T21:25:10.045Z"
+      "pubDate": "2026-02-13T21:28:35.962Z"
     },
     {
-      "id": "pj-1771017916640-ufvalc",
+      "id": "pj-1771018124045-b9s9es",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "2x KOORUI E2411F FHD Office-Monitor 60,5 cm (23,8 Zoll) 1920 x 1080 Pi",
@@ -2088,7 +2088,7 @@
       "pubDate": "Fri, 13 Feb 2026 15:59:22 +0100"
     },
     {
-      "id": "pj-1771017916640-u38uo4",
+      "id": "pj-1771018124045-9czteq",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "NEBULA Capsule 3 Laser GTV Beamer, 300 ANSI Lumen, Neueste Generation",
@@ -2106,7 +2106,7 @@
       "pubDate": "Fri, 13 Feb 2026 12:56:19 +0100"
     },
     {
-      "id": "pj-1771017916640-5h9tsm",
+      "id": "pj-1771018124045-4ow9cx",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "INIU Power Bank, Ultra Klein 20000mAh 22.5W Schnellladefunktion mit ab",
@@ -2124,7 +2124,7 @@
       "pubDate": "Fri, 13 Feb 2026 10:19:09 +0100"
     },
     {
-      "id": "pj-1771017916640-0hxwme",
+      "id": "pj-1771018124045-r39v5z",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "1 Jahr Bundle Deal: Perplexity AI + Picsart PRO + Freepik Premium",
@@ -2142,7 +2142,7 @@
       "pubDate": "Fri, 13 Feb 2026 09:18:18 +0100"
     },
     {
-      "id": "pj-1771017916640-xvc4wm",
+      "id": "pj-1771018124045-wa48i5",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "INIU USB C Kabel, 100W PD3.0 Schnellladekabel 2m Nylon Geflochten",
@@ -2160,7 +2160,7 @@
       "pubDate": "Thu, 12 Feb 2026 18:09:03 +0100"
     },
     {
-      "id": "pj-1771017916640-cvqj6t",
+      "id": "pj-1771018124045-vab8rb",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "TP-Link Archer BE3600 Dual-Band Wi-Fi 7 WLAN Router",
@@ -2178,7 +2178,7 @@
       "pubDate": "Thu, 12 Feb 2026 15:29:54 +0100"
     },
     {
-      "id": "pj-1771017916640-v22973",
+      "id": "pj-1771018124045-5homds",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "Annke C500D 3K PoE Überwachungskamera mit Farbnachtsicht",
@@ -2196,7 +2196,7 @@
       "pubDate": "Thu, 12 Feb 2026 13:28:58 +0100"
     },
     {
-      "id": "pj-1771017916640-gg46wj",
+      "id": "pj-1771018124045-t8iyr1",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "TP-Link Tapo RV20 Max Saugroboter mit Wischfunktion, 5300Pa, 83 mm Ult",
@@ -2214,7 +2214,7 @@
       "pubDate": "Wed, 11 Feb 2026 19:00:43 +0100"
     },
     {
-      "id": "pj-1771017916640-5r17xe",
+      "id": "pj-1771018124045-xhyne7",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "Apple Watch Series 10 (GPS + Cellular) 46mm in verschiedenen Farben fü",
@@ -2232,7 +2232,7 @@
       "pubDate": "Wed, 11 Feb 2026 18:49:08 +0100"
     },
     {
-      "id": "pj-1771017916640-7tm1bo",
+      "id": "pj-1771018124045-kl7zel",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "AliExpress: Sammeldeal für Gutscheine bis 55 € Rabatt, ab Montag 09.02",
@@ -2250,7 +2250,7 @@
       "pubDate": "Wed, 11 Feb 2026 18:37:25 +0100"
     },
     {
-      "id": "pj-1771017916640-jao24t",
+      "id": "pj-1771018124045-ckehin",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "DJI Osmo Action 5 Pro Standard Combo",
@@ -2268,7 +2268,7 @@
       "pubDate": "Wed, 11 Feb 2026 15:18:00 +0100"
     },
     {
-      "id": "pj-1771017916640-qkk5mr",
+      "id": "pj-1771018124045-bl68ww",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "AOOSTAR WTR PRO N150 Mini-PC mit DDR4-3200 SODIMM (bis zu 32 GB) und 1",
@@ -2286,7 +2286,7 @@
       "pubDate": "Wed, 11 Feb 2026 15:12:08 +0100"
     },
     {
-      "id": "pj-1771017916983-s0khpw",
+      "id": "pj-1771018124436-34k7dj",
       "brand": "Preisjäger",
       "logo": "✈️",
       "title": "Kreta: Elèa Concept Hotel & Suites 4* mit Halbpension | ab 3 Nächten f",
@@ -2304,7 +2304,7 @@
       "pubDate": "Fri, 13 Feb 2026 12:15:03 +0100"
     },
     {
-      "id": "pj-1771017916983-iv7n3t",
+      "id": "pj-1771018124436-9hl5c6",
       "brand": "Preisjäger",
       "logo": "✈️",
       "title": "Therme Erding inkl. Übernachtung im Premium Hotel + Frühstück ab 89€ p",
@@ -2322,7 +2322,7 @@
       "pubDate": "Tue, 10 Feb 2026 15:28:08 +0100"
     },
     {
-      "id": "pj-1771017916983-gima0f",
+      "id": "pj-1771018124436-1c0ngm",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "Rhodos: Adults Only: Lindos Grand Resort & Spa 5* mit Halbpension und ",
@@ -2340,7 +2340,7 @@
       "pubDate": "Fri, 06 Feb 2026 20:58:40 +0100"
     },
     {
-      "id": "pj-1771017916983-ro3iv8",
+      "id": "pj-1771018124436-simh59",
       "brand": "Preisjäger",
       "logo": "✈️",
       "title": "Boutique Hotel Die Alpbacherin ab 1 ÜN inkl. HP ab 125€ pro Person (Fe",
@@ -2358,7 +2358,7 @@
       "pubDate": "Thu, 05 Feb 2026 17:46:38 +0100"
     },
     {
-      "id": "pj-1771017916983-ed6mh1",
+      "id": "pj-1771018124436-mthgtq",
       "brand": "Preisjäger",
       "logo": "✈️",
       "title": "Hotel Gasthof Jochele ab 2 ÜN inklusive Halbpension ab 159€ p.P. | Süd",
@@ -2376,7 +2376,7 @@
       "pubDate": "Wed, 04 Feb 2026 15:54:59 +0100"
     },
     {
-      "id": "pj-1771017916983-b1p14c",
+      "id": "pj-1771018124436-tlgv99",
       "brand": "Preisjäger",
       "logo": "✈️",
       "title": "Hotel Burgaunerhof 1ÜN inkl. Frühstück ab 69€ pro Person | Martell, It",
@@ -2394,7 +2394,7 @@
       "pubDate": "Wed, 04 Feb 2026 13:23:50 +0100"
     },
     {
-      "id": "pj-1771017916983-iz00no",
+      "id": "pj-1771018124436-yzlvnj",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "Eurowings bis zu -21%",
@@ -2412,7 +2412,7 @@
       "pubDate": "Fri, 30 Jan 2026 09:05:46 +0100"
     },
     {
-      "id": "pj-1771017916983-egzetj",
+      "id": "pj-1771018124436-n9w90i",
       "brand": "Preisjäger",
       "logo": "🏷️",
       "title": "Malta: Urban Valley Resort 4* mit Halbpension, Mietauto und Premium Zi",
@@ -2430,7 +2430,7 @@
       "pubDate": "Wed, 28 Jan 2026 13:52:39 +0100"
     },
     {
-      "id": "pj-1771017916983-w6w2dx",
+      "id": "pj-1771018124437-kd0q8j",
       "brand": "Preisjäger",
       "logo": "✈️",
       "title": "Zypern: Margadina Hotel 4* mit Halbpension - ab 3 ÜN - z.B. 7 Nächte f",
@@ -2464,7 +2464,7 @@
       "priority": 2,
       "votes": 76,
       "searchQuery": "eröffnung angebot wien restaurant",
-      "pubDate": "2026-02-13T21:25:13.866Z"
+      "pubDate": "2026-02-13T21:28:40.784Z"
     },
     {
       "id": "agg-ChIJJVEXso",
@@ -2483,7 +2483,7 @@
       "priority": 2,
       "votes": 68,
       "searchQuery": "5€ essen wien",
-      "pubDate": "2026-02-13T21:25:15.520Z"
+      "pubDate": "2026-02-13T21:28:43.035Z"
     },
     {
       "id": "dealsite-gutscheine.at",
@@ -2501,7 +2501,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:21.918Z"
+      "pubDate": "2026-02-13T21:28:48.408Z"
     },
     {
       "id": "dealsite-coupons.at",
@@ -2519,7 +2519,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:22.750Z"
+      "pubDate": "2026-02-13T21:28:49.100Z"
     },
     {
       "id": "dealsite-sparalarm",
@@ -2537,7 +2537,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:22.933Z"
+      "pubDate": "2026-02-13T21:28:49.156Z"
     },
     {
       "id": "dealsite-meinprospekt",
@@ -2555,7 +2555,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:23.471Z"
+      "pubDate": "2026-02-13T21:28:49.570Z"
     },
     {
       "id": "dealsite-marktplatz",
@@ -2573,7 +2573,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.583Z"
+      "pubDate": "2026-02-13T21:28:52.803Z"
     },
     {
       "id": "shopping-amazon-de",
@@ -2591,7 +2591,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.623Z"
+      "pubDate": "2026-02-13T21:28:52.838Z"
     },
     {
       "id": "shopping-amazon-at",
@@ -2609,7 +2609,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.623Z"
+      "pubDate": "2026-02-13T21:28:52.838Z"
     },
     {
       "id": "shopping-google-shopping",
@@ -2627,7 +2627,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.623Z"
+      "pubDate": "2026-02-13T21:28:52.839Z"
     },
     {
       "id": "shopping-geizhals",
@@ -2645,7 +2645,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.623Z"
+      "pubDate": "2026-02-13T21:28:52.839Z"
     },
     {
       "id": "shopping-billiger.at",
@@ -2663,7 +2663,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.623Z"
+      "pubDate": "2026-02-13T21:28:52.839Z"
     },
     {
       "id": "shopping-idealo",
@@ -2681,7 +2681,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.623Z"
+      "pubDate": "2026-02-13T21:28:52.839Z"
     },
     {
       "id": "chain-billa",
@@ -2699,7 +2699,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.660Z"
+      "pubDate": "2026-02-13T21:28:52.869Z"
     },
     {
       "id": "chain-spar",
@@ -2717,7 +2717,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.660Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-interspar",
@@ -2735,7 +2735,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.660Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-hofer",
@@ -2753,7 +2753,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.660Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-lidl",
@@ -2771,7 +2771,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.660Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-penny",
@@ -2789,7 +2789,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.660Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-unimarkt",
@@ -2807,7 +2807,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.660Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-mediamarkt",
@@ -2825,7 +2825,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.660Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-saturn",
@@ -2843,7 +2843,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.660Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-cyberport",
@@ -2861,7 +2861,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.660Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-conrad",
@@ -2879,7 +2879,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.660Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-dm",
@@ -2897,7 +2897,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.660Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-bipa",
@@ -2915,7 +2915,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.660Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-müller",
@@ -2933,7 +2933,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.660Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-h&m",
@@ -2951,7 +2951,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.660Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-zalando",
@@ -2969,7 +2969,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.660Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-about-you",
@@ -2987,7 +2987,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.660Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-c&a",
@@ -3005,7 +3005,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.660Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-ikea",
@@ -3023,7 +3023,7 @@
       "isNew": true,
       "priority": 1,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.660Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-möbelix",
@@ -3041,7 +3041,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.660Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-xxxlutz",
@@ -3059,7 +3059,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.660Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-mcdonald's",
@@ -3077,7 +3077,7 @@
       "isNew": true,
       "priority": 1,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.660Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-burger-king",
@@ -3095,7 +3095,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.661Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-kfc",
@@ -3113,7 +3113,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.661Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-dominos",
@@ -3131,7 +3131,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.661Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "chain-subway",
@@ -3149,7 +3149,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-13T21:25:27.661Z"
+      "pubDate": "2026-02-13T21:28:52.870Z"
     },
     {
       "id": "agg-ChIJT0lM12",
@@ -3168,7 +3168,7 @@
       "priority": 2,
       "votes": 40,
       "searchQuery": "1€ pizza wien",
-      "pubDate": "2026-02-13T21:25:10.621Z"
+      "pubDate": "2026-02-13T21:28:36.542Z"
     },
     {
       "id": "agg-ChIJ7TE-7Q",
@@ -3187,7 +3187,7 @@
       "priority": 2,
       "votes": 38,
       "searchQuery": "opening deal wien",
-      "pubDate": "2026-02-13T21:25:14.604Z"
+      "pubDate": "2026-02-13T21:28:41.523Z"
     },
     {
       "id": "agg-ChIJZwomF6",
@@ -3206,7 +3206,7 @@
       "priority": 2,
       "votes": 16,
       "searchQuery": "opening deal wien",
-      "pubDate": "2026-02-13T21:25:14.604Z"
+      "pubDate": "2026-02-13T21:28:41.523Z"
     },
     {
       "id": "agg-ChIJa0o66k",
@@ -3225,7 +3225,7 @@
       "priority": 2,
       "votes": 0,
       "searchQuery": "opening deal wien",
-      "pubDate": "2026-02-13T21:25:14.604Z"
+      "pubDate": "2026-02-13T21:28:41.523Z"
     }
   ]
 }
