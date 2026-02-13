@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "id": "review-ChIJvVyS7n",
+    "brand": "NOBEL KEBAP",
+    "logo": "⭐",
+    "title": "⭐ NOBEL KEBAP",
+    "description": "Deal gefunden in Reviews: Das Essen ist richtig geil und der Döbermann ist richtig korrekt und hat mit und meinen Freunden gra",
+    "type": "gratis",
+    "category": "essen",
+    "source": "Google Reviews",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJvVyS7nwHbUcRhEX32RAXJMQ",
+    "expires": "Prüfen",
+    "distance": "Währinger Str. 9",
+    "hot": true,
+    "isNew": true,
+    "priority": 2,
+    "votes": 183,
+    "pubDate": "2026-02-13T21:16:01.535Z"
+  },
+  {
+    "id": "review-ChIJ9VIgcs",
+    "brand": "Vamos Kebap Pizza",
+    "logo": "⭐",
+    "title": "⭐ Vamos Kebap Pizza",
+    "description": "Deal gefunden in Reviews: Wenn man für 7,90 € einen riesigen Salat-Dürüm essen möchte, ist man hier genau richtig",
+    "type": "gratis",
+    "category": "essen",
+    "source": "Google Reviews",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ9VIgcsAHbUcRsRC_n3n21Wo",
+    "expires": "Prüfen",
+    "distance": "Sebastian-Kneipp-Gasse 1/3",
+    "hot": true,
+    "isNew": true,
+    "priority": 2,
+    "votes": 1672,
+    "pubDate": "2026-02-13T21:16:01.835Z"
+  },
+  {
+    "id": "review-ChIJz-ofAM",
+    "brand": "Le Burger Rotenturmstraße",
+    "logo": "⭐",
+    "title": "⭐ Le Burger Rotenturmstraße",
+    "description": "Deal gefunden in Reviews: Aber heute war’s schwach: Chicken Burger selbst zusammengestellt, Coleslaw für +2 € dazu – und dann ",
+    "type": "gratis",
+    "category": "essen",
+    "source": "Google Reviews",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJz-ofAMMHbUcR-zv1UW9k4Lg",
+    "expires": "Prüfen",
+    "distance": "Rotenturmstraße 15",
+    "hot": true,
+    "isNew": true,
+    "priority": 2,
+    "votes": 6975,
+    "pubDate": "2026-02-13T21:16:02.956Z"
+  }
+]

@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-02-13T21:13:38.202Z",
-  "totalDeals": 43,
+  "lastUpdated": "2026-02-13T21:16:05.075Z",
+  "totalDeals": 45,
   "deals": [
+    {
+      "id": "review-ChIJz-ofAM",
+      "brand": "Le Burger Rotenturmstraße",
+      "logo": "⭐",
+      "title": "⭐ Le Burger Rotenturmstraße",
+      "description": "Deal gefunden in Reviews: Aber heute war’s schwach: Chicken Burger selbst zusammengestellt, Coleslaw für +2 € dazu – und dann ",
+      "type": "gratis",
+      "category": "essen",
+      "source": "Google Reviews",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJz-ofAMMHbUcR-zv1UW9k4Lg",
+      "expires": "Prüfen",
+      "distance": "Rotenturmstraße 15",
+      "hot": true,
+      "isNew": true,
+      "priority": 2,
+      "votes": 6975,
+      "pubDate": "2026-02-13T21:16:02.956Z"
+    },
+    {
+      "id": "review-ChIJ9VIgcs",
+      "brand": "Vamos Kebap Pizza",
+      "logo": "⭐",
+      "title": "⭐ Vamos Kebap Pizza",
+      "description": "Deal gefunden in Reviews: Wenn man für 7,90 € einen riesigen Salat-Dürüm essen möchte, ist man hier genau richtig",
+      "type": "gratis",
+      "category": "essen",
+      "source": "Google Reviews",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJ9VIgcsAHbUcRsRC_n3n21Wo",
+      "expires": "Prüfen",
+      "distance": "Sebastian-Kneipp-Gasse 1/3",
+      "hot": true,
+      "isNew": true,
+      "priority": 2,
+      "votes": 1672,
+      "pubDate": "2026-02-13T21:16:01.835Z"
+    },
     {
       "id": "event-donauinselfest",
       "brand": "Donauinselfest",
@@ -18,7 +54,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:13:38.194Z"
+      "pubDate": "2026-02-13T21:16:05.069Z"
     },
     {
       "id": "event-film-festival",
@@ -36,7 +72,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:13:38.194Z"
+      "pubDate": "2026-02-13T21:16:05.070Z"
     },
     {
       "id": "event-bundesmuseen",
@@ -54,7 +90,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:13:38.194Z"
+      "pubDate": "2026-02-13T21:16:05.070Z"
     },
     {
       "id": "event-wiener-staatsoper",
@@ -72,7 +108,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:13:38.194Z"
+      "pubDate": "2026-02-13T21:16:05.070Z"
     },
     {
       "id": "event-wiener-linien",
@@ -90,7 +126,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:13:38.194Z"
+      "pubDate": "2026-02-13T21:16:05.070Z"
     },
     {
       "id": "ig-instagram-deals",
@@ -108,7 +144,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T21:13:37.711Z"
+      "pubDate": "2026-02-13T21:16:00.926Z"
     },
     {
       "id": "ig-instagram-deals",
@@ -126,7 +162,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T21:13:37.711Z"
+      "pubDate": "2026-02-13T21:16:00.927Z"
     },
     {
       "id": "ig-instagram-deals",
@@ -144,7 +180,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T21:13:37.711Z"
+      "pubDate": "2026-02-13T21:16:00.927Z"
     },
     {
       "id": "foodshare-foodsharing-wien",
@@ -162,7 +198,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T21:13:38.153Z"
+      "pubDate": "2026-02-13T21:16:05.032Z"
     },
     {
       "id": "foodshare-foodsharing-wien",
@@ -180,7 +216,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T21:13:38.154Z"
+      "pubDate": "2026-02-13T21:16:05.032Z"
     },
     {
       "id": "foodshare-foodsharing-wien",
@@ -198,7 +234,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T21:13:38.154Z"
+      "pubDate": "2026-02-13T21:16:05.032Z"
     },
     {
       "id": "foodshare-wiener-tafel",
@@ -216,7 +252,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T21:13:38.154Z"
+      "pubDate": "2026-02-13T21:16:05.032Z"
     },
     {
       "id": "foodshare-tischlein-deck-dich",
@@ -234,7 +270,25 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-13T21:13:38.154Z"
+      "pubDate": "2026-02-13T21:16:05.032Z"
+    },
+    {
+      "id": "review-ChIJvVyS7n",
+      "brand": "NOBEL KEBAP",
+      "logo": "⭐",
+      "title": "⭐ NOBEL KEBAP",
+      "description": "Deal gefunden in Reviews: Das Essen ist richtig geil und der Döbermann ist richtig korrekt und hat mit und meinen Freunden gra",
+      "type": "gratis",
+      "category": "essen",
+      "source": "Google Reviews",
+      "url": "https://www.google.com/maps/place/?q=place_id:ChIJvVyS7nwHbUcRhEX32RAXJMQ",
+      "expires": "Prüfen",
+      "distance": "Währinger Str. 9",
+      "hot": true,
+      "isNew": true,
+      "priority": 2,
+      "votes": 183,
+      "pubDate": "2026-02-13T21:16:01.535Z"
     },
     {
       "id": "market-foodsharing-fairteiler",
@@ -252,7 +306,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 150,
-      "pubDate": "2026-02-13T21:13:38.114Z"
+      "pubDate": "2026-02-13T21:16:04.996Z"
     },
     {
       "id": "market-wiener-tafel",
@@ -270,7 +324,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 150,
-      "pubDate": "2026-02-13T21:13:38.114Z"
+      "pubDate": "2026-02-13T21:16:04.996Z"
     },
     {
       "id": "fb-wien---nachbarn-helf",
@@ -288,7 +342,7 @@
       "isNew": true,
       "priority": 3,
       "votes": 50,
-      "pubDate": "2026-02-13T21:13:38.035Z"
+      "pubDate": "2026-02-13T21:16:04.920Z"
     },
     {
       "id": "fb-kreuzberg-nachbarn-(",
@@ -306,7 +360,7 @@
       "isNew": true,
       "priority": 3,
       "votes": 50,
-      "pubDate": "2026-02-13T21:13:38.035Z"
+      "pubDate": "2026-02-13T21:16:04.921Z"
     },
     {
       "id": "fb-studenten-wien---woh",
@@ -324,7 +378,7 @@
       "isNew": true,
       "priority": 3,
       "votes": 50,
-      "pubDate": "2026-02-13T21:13:38.035Z"
+      "pubDate": "2026-02-13T21:16:04.921Z"
     },
     {
       "id": "fb-freie-wähler-wien",
@@ -342,7 +396,7 @@
       "isNew": true,
       "priority": 3,
       "votes": 50,
-      "pubDate": "2026-02-13T21:13:38.035Z"
+      "pubDate": "2026-02-13T21:16:04.921Z"
     },
     {
       "id": "fb-mami-wien",
@@ -360,25 +414,7 @@
       "isNew": true,
       "priority": 3,
       "votes": 50,
-      "pubDate": "2026-02-13T21:13:38.035Z"
-    },
-    {
-      "id": "opening-ChIJP3rimQ",
-      "brand": "Landlocked - Coffee & Surf Co. Vienna",
-      "logo": "🆕",
-      "title": "🆕 NEU: Landlocked - Coffee & Surf Co. Vienna",
-      "description": "Rüdigergasse 14/3, 1050 Wien, Österreich. Deal in Reviews gefunden!",
-      "type": "gratis",
-      "category": "essen",
-      "source": "New Openings Radar",
-      "url": "https://www.google.com/maps/place/?q=place_id:ChIJP3rimQUHbUcRbRWQJ3TsIpU",
-      "expires": "Eröffnungswochen",
-      "distance": "1050. Bezirk",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 47,
-      "pubDate": "2026-02-13T21:13:37.336Z"
+      "pubDate": "2026-02-13T21:16:04.921Z"
     },
     {
       "id": "tgtg-main",
@@ -396,10 +432,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 1000,
-      "pubDate": "2026-02-13T21:13:37.670Z"
+      "pubDate": "2026-02-13T21:16:00.889Z"
     },
     {
-      "id": "tgtg-innere stadt-1771017217669",
+      "id": "tgtg-innere stadt-1771017360888",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Innere Stadt",
@@ -414,10 +450,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:13:37.669Z"
+      "pubDate": "2026-02-13T21:16:00.888Z"
     },
     {
-      "id": "tgtg-leopoldstadt-1771017217669",
+      "id": "tgtg-leopoldstadt-1771017360889",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Leopoldstadt",
@@ -432,10 +468,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:13:37.669Z"
+      "pubDate": "2026-02-13T21:16:00.889Z"
     },
     {
-      "id": "tgtg-mariahilf-1771017217669",
+      "id": "tgtg-mariahilf-1771017360889",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Mariahilf",
@@ -450,10 +486,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:13:37.669Z"
+      "pubDate": "2026-02-13T21:16:00.889Z"
     },
     {
-      "id": "tgtg-wieden-1771017217670",
+      "id": "tgtg-wieden-1771017360889",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Wieden",
@@ -468,10 +504,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:13:37.670Z"
+      "pubDate": "2026-02-13T21:16:00.889Z"
     },
     {
-      "id": "tgtg-alsergrund-1771017217670",
+      "id": "tgtg-alsergrund-1771017360889",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Alsergrund",
@@ -486,10 +522,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:13:37.670Z"
+      "pubDate": "2026-02-13T21:16:00.889Z"
     },
     {
-      "id": "tgtg-favoriten-1771017217670",
+      "id": "tgtg-favoriten-1771017360889",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Favoriten",
@@ -504,10 +540,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:13:37.670Z"
+      "pubDate": "2026-02-13T21:16:00.889Z"
     },
     {
-      "id": "tgtg-floridsdorf-1771017217670",
+      "id": "tgtg-floridsdorf-1771017360889",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Floridsdorf",
@@ -522,10 +558,10 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:13:37.670Z"
+      "pubDate": "2026-02-13T21:16:00.889Z"
     },
     {
-      "id": "tgtg-donaustadt-1771017217670",
+      "id": "tgtg-donaustadt-1771017360889",
       "brand": "Too Good To Go",
       "logo": "🥡",
       "title": "TGTG Donaustadt",
@@ -540,7 +576,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-13T21:13:37.670Z"
+      "pubDate": "2026-02-13T21:16:00.889Z"
     },
     {
       "id": "uni-uni-mensen-wien",
@@ -558,7 +594,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T21:13:38.074Z"
+      "pubDate": "2026-02-13T21:16:04.958Z"
     },
     {
       "id": "uni-mensa-göttweig",
@@ -576,7 +612,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T21:13:38.074Z"
+      "pubDate": "2026-02-13T21:16:04.958Z"
     },
     {
       "id": "uni-mensa斜",
@@ -594,7 +630,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T21:13:38.074Z"
+      "pubDate": "2026-02-13T21:16:04.958Z"
     },
     {
       "id": "uni-ak-wien",
@@ -612,7 +648,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T21:13:38.074Z"
+      "pubDate": "2026-02-13T21:16:04.958Z"
     },
     {
       "id": "uni-ak-wien",
@@ -630,7 +666,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-13T21:13:38.074Z"
+      "pubDate": "2026-02-13T21:16:04.958Z"
     },
     {
       "id": "event-wiener-eistraum",
@@ -648,7 +684,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T21:13:38.194Z"
+      "pubDate": "2026-02-13T21:16:05.070Z"
     },
     {
       "id": "event-lange-nacht-der-museen",
@@ -666,7 +702,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T21:13:38.194Z"
+      "pubDate": "2026-02-13T21:16:05.070Z"
     },
     {
       "id": "event-wiener-rathaus",
@@ -684,7 +720,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T21:13:38.194Z"
+      "pubDate": "2026-02-13T21:16:05.070Z"
     },
     {
       "id": "event-büchereien-wien",
@@ -702,7 +738,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T21:13:38.194Z"
+      "pubDate": "2026-02-13T21:16:05.070Z"
     },
     {
       "id": "event-wienmobil-rad",
@@ -720,7 +756,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-13T21:13:38.194Z"
+      "pubDate": "2026-02-13T21:16:05.070Z"
     },
     {
       "id": "market-naschmarkt",
@@ -738,7 +774,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 150,
-      "pubDate": "2026-02-13T21:13:38.114Z"
+      "pubDate": "2026-02-13T21:16:04.996Z"
     },
     {
       "id": "market-karmelitermarkt",
@@ -756,7 +792,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 150,
-      "pubDate": "2026-02-13T21:13:38.114Z"
+      "pubDate": "2026-02-13T21:16:04.996Z"
     },
     {
       "id": "market-brunnenmarkt",
@@ -774,7 +810,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 150,
-      "pubDate": "2026-02-13T21:13:38.114Z"
+      "pubDate": "2026-02-13T21:16:04.996Z"
     }
   ]
 }
