@@ -16,7 +16,7 @@
     "priority": 1,
     "votes": 2084,
     "searchQuery": "\"1€ kebab\" wien",
-    "pubDate": "2026-02-13T22:02:39.252Z"
+    "pubDate": "2026-02-13T22:09:02.381Z"
   },
   {
     "id": "price-ChIJfdH22f",
@@ -35,7 +35,7 @@
     "priority": 1,
     "votes": 151,
     "searchQuery": "\"1€ kebab\" wien",
-    "pubDate": "2026-02-13T22:02:39.252Z"
+    "pubDate": "2026-02-13T22:09:02.382Z"
   },
   {
     "id": "price-ChIJPYBulb",
@@ -54,7 +54,7 @@
     "priority": 1,
     "votes": 606,
     "searchQuery": "\"1€ kebab\" wien",
-    "pubDate": "2026-02-13T22:02:39.252Z"
+    "pubDate": "2026-02-13T22:09:02.382Z"
   },
   {
     "id": "price-ChIJscnjA_",
@@ -73,7 +73,7 @@
     "priority": 1,
     "votes": 112,
     "searchQuery": "\"1€ pizza\" wien",
-    "pubDate": "2026-02-13T22:02:39.528Z"
+    "pubDate": "2026-02-13T22:09:02.607Z"
   },
   {
     "id": "price-ChIJT0lM12",
@@ -92,7 +92,7 @@
     "priority": 1,
     "votes": 40,
     "searchQuery": "\"1€ pizza\" wien",
-    "pubDate": "2026-02-13T22:02:39.528Z"
+    "pubDate": "2026-02-13T22:09:02.608Z"
   },
   {
     "id": "price-ChIJ_6eoQZ",
@@ -111,7 +111,7 @@
     "priority": 1,
     "votes": 3255,
     "searchQuery": "\"1€ pizza\" wien",
-    "pubDate": "2026-02-13T22:02:39.528Z"
+    "pubDate": "2026-02-13T22:09:02.608Z"
   },
   {
     "id": "price-ChIJUSgnds",
@@ -130,7 +130,7 @@
     "priority": 1,
     "votes": 1025,
     "searchQuery": "\"2€ kebab\" wien",
-    "pubDate": "2026-02-13T22:02:39.930Z"
+    "pubDate": "2026-02-13T22:09:02.931Z"
   },
   {
     "id": "price-ChIJJ0dAqu",
@@ -149,7 +149,7 @@
     "priority": 1,
     "votes": 103,
     "searchQuery": "\"2€ kebab\" wien",
-    "pubDate": "2026-02-13T22:02:39.930Z"
+    "pubDate": "2026-02-13T22:09:02.931Z"
   },
   {
     "id": "price-ChIJaR9PIq",
@@ -168,7 +168,7 @@
     "priority": 1,
     "votes": 898,
     "searchQuery": "\"2€ pizza\" wien",
-    "pubDate": "2026-02-13T22:02:40.439Z"
+    "pubDate": "2026-02-13T22:09:03.420Z"
   },
   {
     "id": "price-ChIJHzfP-9",
@@ -187,7 +187,7 @@
     "priority": 1,
     "votes": 1698,
     "searchQuery": "\"2€ pizza\" wien",
-    "pubDate": "2026-02-13T22:02:40.439Z"
+    "pubDate": "2026-02-13T22:09:03.420Z"
   },
   {
     "id": "price-ChIJtZ0Rdy",
@@ -206,64 +206,7 @@
     "priority": 1,
     "votes": 0,
     "searchQuery": "\"1,50€\" wien",
-    "pubDate": "2026-02-13T22:02:40.708Z"
-  },
-  {
-    "id": "price-ChIJR9bBTj",
-    "brand": "1€ Spitze",
-    "logo": "🏷️",
-    "title": "💶 1€ Spitze",
-    "description": "Gefunden bei Suche: \"\"1,90€\" wien\". Brünner Str. 1, 1210 Wien, Österreich. ⭐ 3.8",
-    "type": "super-günstig",
-    "category": "essen",
-    "source": "Price Search",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJR9bBTj4HbUcRhxmdeMORiOI",
-    "expires": "Anrufen & Bestätigen",
-    "distance": "Brünner Str. 1",
-    "hot": true,
-    "isNew": true,
-    "priority": 1,
-    "votes": 26,
-    "searchQuery": "\"1,90€\" wien",
-    "pubDate": "2026-02-13T22:02:40.974Z"
-  },
-  {
-    "id": "price-ChIJQ_ANiW",
-    "brand": "1€ Diskont Euro Shop",
-    "logo": "🏷️",
-    "title": "💶 1€ Diskont Euro Shop",
-    "description": "Gefunden bei Suche: \"\"1,90€\" wien\". Thaliastraße 65, 1160 Wien, Österreich. ⭐ 4.5",
-    "type": "super-günstig",
-    "category": "essen",
-    "source": "Price Search",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJQ_ANiW0HbUcRreMI2pPPWBA",
-    "expires": "Anrufen & Bestätigen",
-    "distance": "Thaliastraße 65",
-    "hot": true,
-    "isNew": true,
-    "priority": 1,
-    "votes": 66,
-    "searchQuery": "\"1,90€\" wien",
-    "pubDate": "2026-02-13T22:02:40.974Z"
-  },
-  {
-    "id": "price-ChIJhZEd3_",
-    "brand": "1a-Installateur Marketingberatung GmbH",
-    "logo": "🏷️",
-    "title": "💶 1a-Installateur Marketingberatung GmbH",
-    "description": "Gefunden bei Suche: \"\"1,90€\" wien\". Oberlaaer Str. 250, 1230 Wien, Österreich. ⭐ 4.1",
-    "type": "super-günstig",
-    "category": "essen",
-    "source": "Price Search",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJhZEd3_QHbUcR0LUQflrQxsk",
-    "expires": "Anrufen & Bestätigen",
-    "distance": "Oberlaaer Str. 250",
-    "hot": true,
-    "isNew": true,
-    "priority": 1,
-    "votes": 19,
-    "searchQuery": "\"1,90€\" wien",
-    "pubDate": "2026-02-13T22:02:40.974Z"
+    "pubDate": "2026-02-13T22:09:03.610Z"
   },
   {
     "id": "price-ChIJeehgsW",
@@ -282,26 +225,7 @@
     "priority": 1,
     "votes": 68,
     "searchQuery": "\"3€\" wien essen",
-    "pubDate": "2026-02-13T22:02:41.496Z"
-  },
-  {
-    "id": "price-ChIJ-8NFOZ",
-    "brand": "Gasthaus \"Zu den 3 Hacken\"",
-    "logo": "🏷️",
-    "title": "💶 Gasthaus \"Zu den 3 Hacken\"",
-    "description": "Gefunden bei Suche: \"\"3€\" wien essen\". Singerstraße 28, 1010 Wien, Österreich. ⭐ 4.4",
-    "type": "super-günstig",
-    "category": "essen",
-    "source": "Price Search",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8NFOZ4HbUcR_vPhnU7Tmgk",
-    "expires": "Anrufen & Bestätigen",
-    "distance": "Singerstraße 28",
-    "hot": true,
-    "isNew": true,
-    "priority": 1,
-    "votes": 1993,
-    "searchQuery": "\"3€\" wien essen",
-    "pubDate": "2026-02-13T22:02:41.496Z"
+    "pubDate": "2026-02-13T22:09:04.276Z"
   },
   {
     "id": "price-ChIJNVqCBr",
@@ -320,7 +244,26 @@
     "priority": 1,
     "votes": 310,
     "searchQuery": "\"3€\" wien essen",
-    "pubDate": "2026-02-13T22:02:41.496Z"
+    "pubDate": "2026-02-13T22:09:04.276Z"
+  },
+  {
+    "id": "price-ChIJ98LQYG",
+    "brand": "BONEMA BURGER & COCTAIL BAR",
+    "logo": "🍔",
+    "title": "💶 BONEMA BURGER & COCTAIL BAR",
+    "description": "Gefunden bei Suche: \"\"3€\" wien essen\". Liechtensteinstraße 8B, 1090 Wien, Österreich. ⭐ 4.9",
+    "type": "super-günstig",
+    "category": "essen",
+    "source": "Price Search",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ98LQYGQHbUcRRb-tZGFB2SE",
+    "expires": "Anrufen & Bestätigen",
+    "distance": "Liechtensteinstraße 8B",
+    "hot": true,
+    "isNew": true,
+    "priority": 1,
+    "votes": 44,
+    "searchQuery": "\"3€\" wien essen",
+    "pubDate": "2026-02-13T22:09:04.276Z"
   },
   {
     "id": "price-ChIJQ-DcB3",
@@ -339,26 +282,7 @@
     "priority": 1,
     "votes": 3946,
     "searchQuery": "\"eröffnung\" \"gratis\" wien",
-    "pubDate": "2026-02-13T22:02:41.728Z"
-  },
-  {
-    "id": "price-ChIJ8SE1AV",
-    "brand": "Foodsharing Fairteiler",
-    "logo": "🏷️",
-    "title": "💶 Foodsharing Fairteiler",
-    "description": "Gefunden bei Suche: \"\"eröffnung\" \"gratis\" wien\". Sankt-Elisabeth-Platz 8, 1040 Wien, Österreich. ⭐ 4.8",
-    "type": "gratis",
-    "category": "essen",
-    "source": "Price Search",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ8SE1AV8HbUcRj0Mdw-Fq9DM",
-    "expires": "Anrufen & Bestätigen",
-    "distance": "Sankt-Elisabeth-Platz 8",
-    "hot": true,
-    "isNew": true,
-    "priority": 1,
-    "votes": 12,
-    "searchQuery": "\"eröffnung\" \"gratis\" wien",
-    "pubDate": "2026-02-13T22:02:41.728Z"
+    "pubDate": "2026-02-13T22:09:04.545Z"
   },
   {
     "id": "price-ChIJUWtY4n",
@@ -377,7 +301,7 @@
     "priority": 1,
     "votes": 143,
     "searchQuery": "\"eröffnung\" \"gratis\" wien",
-    "pubDate": "2026-02-13T22:02:41.728Z"
+    "pubDate": "2026-02-13T22:09:04.545Z"
   },
   {
     "id": "price-ChIJoQWaop",
@@ -396,26 +320,7 @@
     "priority": 1,
     "votes": 299,
     "searchQuery": "\"gratis\" \"probieren\" wien",
-    "pubDate": "2026-02-13T22:02:41.943Z"
-  },
-  {
-    "id": "price-ChIJO7cuEp",
-    "brand": "BILLA CORSO Herrnhuterhaus",
-    "logo": "🏷️",
-    "title": "💶 BILLA CORSO Herrnhuterhaus",
-    "description": "Gefunden bei Suche: \"\"1+1 gratis\" wien\". Herrnhuterhaus, Neuer Markt 17, 1010 Wien, Österreich. ⭐ 4.4",
-    "type": "gratis",
-    "category": "essen",
-    "source": "Price Search",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJO7cuEp8HbUcR1mvf_sQ5ONA",
-    "expires": "Anrufen & Bestätigen",
-    "distance": "Herrnhuterhaus",
-    "hot": true,
-    "isNew": true,
-    "priority": 1,
-    "votes": 6748,
-    "searchQuery": "\"1+1 gratis\" wien",
-    "pubDate": "2026-02-13T22:02:42.265Z"
+    "pubDate": "2026-02-13T22:09:04.787Z"
   },
   {
     "id": "price-ChIJyY3lHB",
@@ -434,7 +339,7 @@
     "priority": 1,
     "votes": 1476,
     "searchQuery": "\"1+1 gratis\" wien",
-    "pubDate": "2026-02-13T22:02:42.265Z"
+    "pubDate": "2026-02-13T22:09:05.198Z"
   },
   {
     "id": "price-ChIJZ78LZ5",
@@ -453,7 +358,26 @@
     "priority": 1,
     "votes": 160,
     "searchQuery": "\"1+1 gratis\" wien",
-    "pubDate": "2026-02-13T22:02:42.265Z"
+    "pubDate": "2026-02-13T22:09:05.198Z"
+  },
+  {
+    "id": "price-ChIJQW_2f3",
+    "brand": "VILLAGE CINEMA WIEN MITTE",
+    "logo": "🏷️",
+    "title": "💶 VILLAGE CINEMA WIEN MITTE",
+    "description": "Gefunden bei Suche: \"\"1+1 gratis\" wien\". Landstraßer Hauptstraße 2a Wien Mitte, 1030 Wien, Österreich. ⭐ 4.4",
+    "type": "gratis",
+    "category": "essen",
+    "source": "Price Search",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJQW_2f3MHbUcRnsZ5GE7twR8",
+    "expires": "Anrufen & Bestätigen",
+    "distance": "Landstraßer Hauptstraße 2a Wien Mitte",
+    "hot": true,
+    "isNew": true,
+    "priority": 1,
+    "votes": 2564,
+    "searchQuery": "\"1+1 gratis\" wien",
+    "pubDate": "2026-02-13T22:09:05.198Z"
   },
   {
     "id": "price-ChIJJ4dvR6",
@@ -472,7 +396,7 @@
     "priority": 1,
     "votes": 1279,
     "searchQuery": "\"1 euro\" kebab wien",
-    "pubDate": "2026-02-13T22:02:42.659Z"
+    "pubDate": "2026-02-13T22:09:05.590Z"
   },
   {
     "id": "price-ChIJ2YVi1_",
@@ -491,7 +415,7 @@
     "priority": 1,
     "votes": 6091,
     "searchQuery": "\"1 euro\" kebab wien",
-    "pubDate": "2026-02-13T22:02:42.659Z"
+    "pubDate": "2026-02-13T22:09:05.590Z"
   },
   {
     "id": "price-ChIJ4eli2O",
@@ -510,26 +434,26 @@
     "priority": 1,
     "votes": 369,
     "searchQuery": "\"2 euro\" pizza wien",
-    "pubDate": "2026-02-13T22:02:42.965Z"
+    "pubDate": "2026-02-13T22:09:05.841Z"
   },
   {
-    "id": "price-ChIJyVoQ6d",
-    "brand": "SoulPizza",
-    "logo": "🍕",
-    "title": "💶 SoulPizza",
-    "description": "Gefunden bei Suche: \"\"2 euro\" pizza wien\". Gumpendorfer Str. 38, 1060 Wien, Österreich. ⭐ 4.8",
+    "id": "price-ChIJdVPsWQ",
+    "brand": "Il Forno Pizzeria 1040",
+    "logo": "🏷️",
+    "title": "💶 Il Forno Pizzeria 1040",
+    "description": "Gefunden bei Suche: \"\"2 euro\" pizza wien\". Rainergasse 14, 1040 Wien, Österreich. ⭐ 4.9",
     "type": "super-günstig",
     "category": "essen",
     "source": "Price Search",
-    "url": "https://www.google.com/maps/place/?q=place_id:ChIJyVoQ6d8HbUcRSj_p_EU3GKs",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJdVPsWQepbUcRC-hn3Kr5hdY",
     "expires": "Anrufen & Bestätigen",
-    "distance": "Gumpendorfer Str. 38",
+    "distance": "Rainergasse 14",
     "hot": true,
     "isNew": true,
     "priority": 1,
-    "votes": 676,
+    "votes": 670,
     "searchQuery": "\"2 euro\" pizza wien",
-    "pubDate": "2026-02-13T22:02:42.965Z"
+    "pubDate": "2026-02-13T22:09:05.841Z"
   },
   {
     "id": "price-ChIJ8cy3YZ",
@@ -548,7 +472,7 @@
     "priority": 1,
     "votes": 3442,
     "searchQuery": "\"billig\" essen wien",
-    "pubDate": "2026-02-13T22:02:43.334Z"
+    "pubDate": "2026-02-13T22:09:06.162Z"
   },
   {
     "id": "price-ChIJJSuhv6",
@@ -567,7 +491,7 @@
     "priority": 1,
     "votes": 3574,
     "searchQuery": "\"billig\" essen wien",
-    "pubDate": "2026-02-13T22:02:43.334Z"
+    "pubDate": "2026-02-13T22:09:06.162Z"
   },
   {
     "id": "price-ChIJL5nW7o",
@@ -586,6 +510,6 @@
     "priority": 1,
     "votes": 7587,
     "searchQuery": "\"billig\" essen wien",
-    "pubDate": "2026-02-13T22:02:43.334Z"
+    "pubDate": "2026-02-13T22:09:06.162Z"
   }
 ]
