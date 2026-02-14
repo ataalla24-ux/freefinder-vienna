@@ -1,16 +1,6 @@
 {
-  "totalDeals": 125,
+  "totalDeals": 124,
   "deals": [
-    {
-      "id": "alert-1",
-      "key": "gratisWien",
-      "query": "gratis wien",
-      "googleAlertsUrl": "https://www.google.com/alerts?search=gratis%20wien&hl=de&gl=AT",
-      "category": "gratis",
-      "description": "Alle Gratis-Angebote in Wien",
-      "status": "einrichten",
-      "createdAt": "2026-02-14T10:23:33.434Z"
-    },
     {
       "id": "uni-ak-wien",
       "brand": "AK Wien",
