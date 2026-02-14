@@ -1,6 +1,16 @@
 {
-  "totalDeals": 101,
+  "totalDeals": 125,
   "deals": [
+    {
+      "id": "alert-1",
+      "key": "gratisWien",
+      "query": "gratis wien",
+      "googleAlertsUrl": "https://www.google.com/alerts?search=gratis%20wien&hl=de&gl=AT",
+      "category": "gratis",
+      "description": "Alle Gratis-Angebote in Wien",
+      "status": "einrichten",
+      "createdAt": "2026-02-14T09:50:35.166Z"
+    },
     {
       "id": "uni-ak-wien",
       "brand": "AK Wien",
@@ -17,7 +27,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-14T08:58:06.210Z"
+      "pubDate": "2026-02-14T09:50:35.101Z"
     },
     {
       "id": "chain-about-you",
@@ -35,7 +45,27 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:06.134Z"
+      "pubDate": "2026-02-14T09:50:34.965Z"
+    },
+    {
+      "id": "museum-0368",
+      "brand": "Albertina",
+      "logo": "🏛️",
+      "title": "GRATIS unter 19",
+      "description": "Freier Eintritt für Kinder und Jugendliche unter 19!",
+      "price": "Gratis",
+      "originalPrice": "€15-25",
+      "type": "gratis",
+      "category": "event",
+      "source": "Albertina",
+      "url": "https://www.khm.at",
+      "expires": "Unbefristet",
+      "location": "Wien",
+      "hot": true,
+      "isNew": false,
+      "priority": 4,
+      "votes": 395,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
       "id": "chain-billa",
@@ -53,7 +83,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:06.133Z"
+      "pubDate": "2026-02-14T09:50:34.964Z"
     },
     {
       "id": "chain-bipa",
@@ -71,26 +101,86 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:06.134Z"
+      "pubDate": "2026-02-14T09:50:34.965Z"
     },
     {
-      "id": "supermarket-0524",
-      "brand": "Billa",
-      "logo": "🛒",
-      "title": "Billa Aktion -50%",
-      "description": "Wöchentliche Angebote bei Billa!",
-      "price": "-30% bis -60%",
-      "originalPrice": "Voller Preis",
+      "id": "student-0254",
+      "brand": "BOKU Mensa",
+      "logo": "🎓",
+      "title": "Studentenmenü €2.0",
+      "description": "Günstiges Mittagessen für Studierende!",
+      "price": "€2.0",
+      "originalPrice": "€8",
       "type": "rabatt",
-      "category": "shopping",
-      "source": "Billa",
-      "url": "https://example.at",
-      "expires": "Wöchentlich",
-      "location": "21. Bezirk",
+      "category": "essen",
+      "source": "ÖH",
+      "url": "https://www.stw.at",
+      "expires": "Werktags",
+      "location": "Wien",
       "hot": false,
       "isNew": false,
       "priority": 7,
-      "votes": 250,
+      "votes": 171,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
+    },
+    {
+      "id": "happyhour-0864",
+      "brand": "Babylon",
+      "logo": "🍸",
+      "title": "Happy Hour -50%",
+      "description": "Günstige Getränke während der Happy Hour!",
+      "price": "-50%",
+      "originalPrice": "Vollpreis",
+      "type": "rabatt",
+      "category": "trinken",
+      "source": "Wiener Nightlife",
+      "url": "https://example.at",
+      "expires": "Täglich 17-19h",
+      "location": "23. Bezirk",
+      "hot": false,
+      "isNew": false,
+      "priority": 6,
+      "votes": 114,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
+    },
+    {
+      "id": "museum-0369",
+      "brand": "Belvedere",
+      "logo": "🏛️",
+      "title": "GRATIS unter 19",
+      "description": "Freier Eintritt für Kinder und Jugendliche unter 19!",
+      "price": "Gratis",
+      "originalPrice": "€15-25",
+      "type": "gratis",
+      "category": "event",
+      "source": "Belvedere",
+      "url": "https://www.khm.at",
+      "expires": "Unbefristet",
+      "location": "1. Bezirk",
+      "hot": true,
+      "isNew": false,
+      "priority": 6,
+      "votes": 382,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
+    },
+    {
+      "id": "tgtg-0165",
+      "brand": "Billa",
+      "logo": "🥡",
+      "title": "Too Good To Go - €4.50 Bag",
+      "description": "Überraschungstüte mit geretteten Lebensmitteln!",
+      "price": "€4.50",
+      "originalPrice": "€10+",
+      "type": "rabatt",
+      "category": "essen",
+      "source": "Too Good To Go",
+      "url": "https://www.toogoodtogo.at",
+      "expires": "Täglich",
+      "location": "15. Bezirk",
+      "hot": true,
+      "isNew": false,
+      "priority": 10,
+      "votes": 356,
       "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
@@ -129,7 +219,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 150,
-      "pubDate": "2026-02-14T08:58:06.172Z"
+      "pubDate": "2026-02-14T09:50:35.033Z"
     },
     {
       "id": "event-bundesmuseen",
@@ -147,7 +237,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-14T08:58:04.109Z"
+      "pubDate": "2026-02-14T09:50:33.768Z"
     },
     {
       "id": "fastfood-0417",
@@ -225,7 +315,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-14T08:58:04.109Z"
+      "pubDate": "2026-02-14T09:50:33.768Z"
     },
     {
       "id": "shopping-0938",
@@ -263,7 +353,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:09.550Z"
+      "pubDate": "2026-02-14T09:50:36.706Z"
     },
     {
       "id": "cafe-0754",
@@ -306,6 +396,26 @@
       "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
+      "id": "happyhour-0837",
+      "brand": "City Hall",
+      "logo": "🍸",
+      "title": "Happy Hour -50%",
+      "description": "Günstige Getränke während der Happy Hour!",
+      "price": "-50%",
+      "originalPrice": "Vollpreis",
+      "type": "rabatt",
+      "category": "trinken",
+      "source": "Wiener Nightlife",
+      "url": "https://example.at",
+      "expires": "Täglich 17-19h",
+      "location": "8. Bezirk",
+      "hot": false,
+      "isNew": false,
+      "priority": 6,
+      "votes": 135,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
+    },
+    {
       "id": "citybike-0798",
       "brand": "Citybike Wien",
       "logo": "🚲",
@@ -341,7 +451,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:06.134Z"
+      "pubDate": "2026-02-14T09:50:34.965Z"
     },
     {
       "id": "chain-cyberport",
@@ -359,7 +469,27 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:06.134Z"
+      "pubDate": "2026-02-14T09:50:34.965Z"
+    },
+    {
+      "id": "fitness-0811",
+      "brand": "DailyFit",
+      "logo": "💪",
+      "title": "Fitness Deal -30%",
+      "description": "Günstige Fitnessangebote in Wien!",
+      "price": "-30%",
+      "originalPrice": "Vollpreis",
+      "type": "rabatt",
+      "category": "shopping",
+      "source": "Fitness Wien",
+      "url": "https://example.at",
+      "expires": "Unbefristet",
+      "location": "1. Bezirk",
+      "hot": false,
+      "isNew": false,
+      "priority": 5,
+      "votes": 59,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
       "id": "cafe-0760",
@@ -417,7 +547,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:06.134Z"
+      "pubDate": "2026-02-14T09:50:34.965Z"
     },
     {
       "id": "event-donauinselfest",
@@ -435,7 +565,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-14T08:58:04.108Z"
+      "pubDate": "2026-02-14T09:50:33.766Z"
     },
     {
       "id": "event-film-festival",
@@ -453,7 +583,47 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-14T08:58:04.109Z"
+      "pubDate": "2026-02-14T09:50:33.768Z"
+    },
+    {
+      "id": "fitness-0830",
+      "brand": "FitIn",
+      "logo": "💪",
+      "title": "Fitness Deal -30%",
+      "description": "Günstige Fitnessangebote in Wien!",
+      "price": "-30%",
+      "originalPrice": "Vollpreis",
+      "type": "rabatt",
+      "category": "shopping",
+      "source": "Fitness Wien",
+      "url": "https://example.at",
+      "expires": "Unbefristet",
+      "location": "19. Bezirk",
+      "hot": false,
+      "isNew": false,
+      "priority": 7,
+      "votes": 87,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
+    },
+    {
+      "id": "happyhour-0833",
+      "brand": "Flex",
+      "logo": "🍸",
+      "title": "Happy Hour -50%",
+      "description": "Günstige Getränke während der Happy Hour!",
+      "price": "-50%",
+      "originalPrice": "Vollpreis",
+      "type": "rabatt",
+      "category": "trinken",
+      "source": "Wiener Nightlife",
+      "url": "https://example.at",
+      "expires": "Täglich 17-19h",
+      "location": "11. Bezirk",
+      "hot": false,
+      "isNew": false,
+      "priority": 7,
+      "votes": 128,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
       "id": "rail-flixbus",
@@ -471,7 +641,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:09.550Z"
+      "pubDate": "2026-02-14T09:50:36.706Z"
     },
     {
       "id": "happyhour-0838",
@@ -494,22 +664,22 @@
       "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
-      "id": "fairteiler-fairteiler-favoriten",
+      "id": "fairteiler-fairteiler-neubau",
       "brand": "Foodsharing",
       "logo": "🍏",
-      "title": "🍏 Fairteiler 10. Bezirk",
-      "description": "Foodsharing Fairteiler: Kostenlose Lebensmittel abholen. 1100 Wien",
+      "title": "🍏 Fairteiler 7. Bezirk",
+      "description": "Foodsharing Fairteiler: Kostenlose Lebensmittel abholen. 1070 Wien",
       "type": "gratis",
       "category": "essen",
       "source": "Foodsharing",
       "url": "https://foodsharing.at/",
       "expires": "24/7",
-      "distance": "10. Bezirk",
+      "distance": "7. Bezirk",
       "hot": true,
       "isNew": false,
       "priority": 1,
       "votes": 80,
-      "pubDate": "2026-02-14T08:58:09.590Z"
+      "pubDate": "2026-02-14T09:50:36.774Z"
     },
     {
       "id": "market-foodsharing-fairteiler",
@@ -527,7 +697,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 150,
-      "pubDate": "2026-02-14T08:58:06.172Z"
+      "pubDate": "2026-02-14T09:50:35.033Z"
     },
     {
       "id": "foodshare-foodsharing-wien",
@@ -545,7 +715,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-14T08:58:04.148Z"
+      "pubDate": "2026-02-14T09:50:33.835Z"
     },
     {
       "id": "foodsharing-at-main",
@@ -563,25 +733,27 @@
       "isNew": false,
       "priority": 1,
       "votes": 250,
-      "pubDate": "2026-02-14T08:58:09.590Z"
+      "pubDate": "2026-02-14T09:50:36.774Z"
     },
     {
-      "id": "alert-1€-kebab-wien",
-      "brand": "Google Alert",
-      "logo": "🔔",
-      "title": "🔔 Google Alert: 1€ Kebab Wien",
-      "description": "Automatischer Alert für \"1€ kebab wien\". Richtest du ein unter google.com/alerts",
-      "type": "gratis",
-      "category": "deals",
-      "source": "Google Alerts",
-      "url": "https://www.google.com/alerts?search=1%E2%82%AC%20kebab%20wien",
-      "expires": "Automatisch",
-      "distance": "Wien",
-      "hot": true,
-      "isNew": true,
-      "priority": 1,
-      "votes": 50,
-      "pubDate": "2026-02-14T08:58:06.246Z"
+      "id": "biergarten-0748",
+      "brand": "Fünfhaus",
+      "logo": "🍺",
+      "title": "Wiener Biergarten Deal",
+      "description": "Traditioneller Wiener Biergarten mit günstigen Getränken!",
+      "price": "ab €3",
+      "originalPrice": "€8",
+      "type": "rabatt",
+      "category": "trinken",
+      "source": "Wiener Biergärten",
+      "url": "https://example.at",
+      "expires": "Täglich",
+      "location": "22. Bezirk",
+      "hot": false,
+      "isNew": false,
+      "priority": 6,
+      "votes": 126,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
       "id": "shopping-0971",
@@ -619,26 +791,26 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:06.134Z"
+      "pubDate": "2026-02-14T09:50:34.965Z"
     },
     {
-      "id": "supermarket-0521",
+      "id": "tgtg-0111",
       "brand": "Hofer",
-      "logo": "💚",
-      "title": "Hofer Aktion -20%",
-      "description": "Wöchentliche Angebote bei Hofer!",
-      "price": "-30% bis -60%",
-      "originalPrice": "Voller Preis",
+      "logo": "🥡",
+      "title": "Too Good To Go - €2.50 Bag",
+      "description": "Überraschungstüte mit geretteten Lebensmitteln!",
+      "price": "€2.50",
+      "originalPrice": "€10+",
       "type": "rabatt",
-      "category": "shopping",
-      "source": "Hofer",
-      "url": "https://example.at",
-      "expires": "Wöchentlich",
-      "location": "10. Bezirk",
-      "hot": false,
+      "category": "essen",
+      "source": "Too Good To Go",
+      "url": "https://www.toogoodtogo.at",
+      "expires": "Täglich",
+      "location": "5. Bezirk",
+      "hot": true,
       "isNew": false,
-      "priority": 4,
-      "votes": 244,
+      "priority": 6,
+      "votes": 351,
       "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
@@ -657,7 +829,7 @@
       "isNew": true,
       "priority": 1,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:06.134Z"
+      "pubDate": "2026-02-14T09:50:34.965Z"
     },
     {
       "id": "chain-interspar",
@@ -675,7 +847,27 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:06.134Z"
+      "pubDate": "2026-02-14T09:50:34.965Z"
+    },
+    {
+      "id": "fitness-0813",
+      "brand": "John Reed",
+      "logo": "💪",
+      "title": "Fitness Deal -30%",
+      "description": "Günstige Fitnessangebote in Wien!",
+      "price": "-30%",
+      "originalPrice": "Vollpreis",
+      "type": "rabatt",
+      "category": "shopping",
+      "source": "Fitness Wien",
+      "url": "https://example.at",
+      "expires": "Unbefristet",
+      "location": "7. Bezirk",
+      "hot": false,
+      "isNew": false,
+      "priority": 7,
+      "votes": 85,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
       "id": "jooo-0648",
@@ -695,6 +887,26 @@
       "isNew": true,
       "priority": 8,
       "votes": 199,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
+    },
+    {
+      "id": "museum-0390",
+      "brand": "Jüdisches Museum",
+      "logo": "🏛️",
+      "title": "GRATIS unter 19",
+      "description": "Freier Eintritt für Kinder und Jugendliche unter 19!",
+      "price": "Gratis",
+      "originalPrice": "€15-25",
+      "type": "gratis",
+      "category": "event",
+      "source": "Jüdisches Museum",
+      "url": "https://www.khm.at",
+      "expires": "Unbefristet",
+      "location": "Wien",
+      "hot": true,
+      "isNew": false,
+      "priority": 2,
+      "votes": 360,
       "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
@@ -773,7 +985,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 150,
-      "pubDate": "2026-02-14T08:58:06.172Z"
+      "pubDate": "2026-02-14T09:50:35.033Z"
     },
     {
       "id": "fitness-0816",
@@ -796,6 +1008,26 @@
       "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
+      "id": "museum-0351",
+      "brand": "Kunsthistorisches Museum",
+      "logo": "🏛️",
+      "title": "GRATIS unter 19",
+      "description": "Freier Eintritt für Kinder und Jugendliche unter 19!",
+      "price": "Gratis",
+      "originalPrice": "€15-25",
+      "type": "gratis",
+      "category": "event",
+      "source": "Kunsthistorisches Museum",
+      "url": "https://www.khm.at",
+      "expires": "Unbefristet",
+      "location": "1. Bezirk",
+      "hot": true,
+      "isNew": false,
+      "priority": 3,
+      "votes": 398,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
+    },
+    {
       "id": "chain-lidl",
       "brand": "LIDL",
       "logo": "🛒",
@@ -811,7 +1043,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:06.134Z"
+      "pubDate": "2026-02-14T09:50:34.965Z"
     },
     {
       "id": "event-lange-nacht-der-museen",
@@ -829,7 +1061,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-14T08:58:04.109Z"
+      "pubDate": "2026-02-14T09:50:33.768Z"
     },
     {
       "id": "food-extra-0901",
@@ -889,6 +1121,26 @@
       "isNew": false,
       "priority": 4,
       "votes": 398,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
+    },
+    {
+      "id": "museum-0357",
+      "brand": "MUMOK",
+      "logo": "🏛️",
+      "title": "GRATIS unter 19",
+      "description": "Freier Eintritt für Kinder und Jugendliche unter 19!",
+      "price": "Gratis",
+      "originalPrice": "€15-25",
+      "type": "gratis",
+      "category": "event",
+      "source": "MUMOK",
+      "url": "https://www.khm.at",
+      "expires": "Unbefristet",
+      "location": "1. Bezirk",
+      "hot": true,
+      "isNew": false,
+      "priority": 6,
+      "votes": 375,
       "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
@@ -1027,7 +1279,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:06.134Z"
+      "pubDate": "2026-02-14T09:50:34.965Z"
     },
     {
       "id": "uni-mensa-göttweig",
@@ -1045,7 +1297,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-14T08:58:06.210Z"
+      "pubDate": "2026-02-14T09:50:35.101Z"
     },
     {
       "id": "uni-mensa斜",
@@ -1063,7 +1315,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-14T08:58:06.210Z"
+      "pubDate": "2026-02-14T09:50:35.101Z"
     },
     {
       "id": "chain-möbelix",
@@ -1081,25 +1333,47 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:06.134Z"
+      "pubDate": "2026-02-14T09:50:34.965Z"
     },
     {
-      "id": "chain-müller",
-      "brand": "Müller",
-      "logo": "🧴",
-      "title": "🧴 Müller - Aktuelle Angebote",
-      "description": "Die neuesten Deals und Aktionen bei Müller!",
+      "id": "biergarten-0739",
+      "brand": "Mühlgraben",
+      "logo": "🍺",
+      "title": "Wiener Biergarten Deal",
+      "description": "Traditioneller Wiener Biergarten mit günstigen Getränken!",
+      "price": "ab €3",
+      "originalPrice": "€8",
       "type": "rabatt",
-      "category": "beauty",
-      "source": "Müller",
-      "url": "https://www.mueller.at/angebote/",
-      "expires": "Wöchentlich",
-      "distance": "Wien & Österreich",
+      "category": "trinken",
+      "source": "Wiener Biergärten",
+      "url": "https://example.at",
+      "expires": "Täglich",
+      "location": "7. Bezirk",
       "hot": false,
-      "isNew": true,
-      "priority": 2,
-      "votes": 50,
-      "pubDate": "2026-02-14T08:58:06.134Z"
+      "isNew": false,
+      "priority": 4,
+      "votes": 121,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
+    },
+    {
+      "id": "tgtg-0170",
+      "brand": "Müller",
+      "logo": "🥡",
+      "title": "Too Good To Go - €4.50 Bag",
+      "description": "Überraschungstüte mit geretteten Lebensmitteln!",
+      "price": "€4.50",
+      "originalPrice": "€10+",
+      "type": "rabatt",
+      "category": "essen",
+      "source": "Too Good To Go",
+      "url": "https://www.toogoodtogo.at",
+      "expires": "Täglich",
+      "location": "12. Bezirk",
+      "hot": true,
+      "isNew": false,
+      "priority": 7,
+      "votes": 383,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
       "id": "market-naschmarkt",
@@ -1117,7 +1391,27 @@
       "isNew": false,
       "priority": 2,
       "votes": 150,
-      "pubDate": "2026-02-14T08:58:06.171Z"
+      "pubDate": "2026-02-14T09:50:35.032Z"
+    },
+    {
+      "id": "museum-0394",
+      "brand": "Natural History Museum",
+      "logo": "🏛️",
+      "title": "GRATIS unter 19",
+      "description": "Freier Eintritt für Kinder und Jugendliche unter 19!",
+      "price": "Gratis",
+      "originalPrice": "€15-25",
+      "type": "gratis",
+      "category": "event",
+      "source": "Natural History Museum",
+      "url": "https://www.khm.at",
+      "expires": "Unbefristet",
+      "location": "Wien",
+      "hot": true,
+      "isNew": false,
+      "priority": 7,
+      "votes": 296,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
       "id": "food-extra-0920",
@@ -1195,7 +1489,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:06.134Z"
+      "pubDate": "2026-02-14T09:50:34.965Z"
     },
     {
       "id": "tgtg-0129",
@@ -1238,22 +1532,42 @@
       "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
-      "id": "pj-1771059485446-mkjdte",
-      "brand": "Preisjäger",
-      "logo": "🏷️",
-      "title": "1 Jahr Bundle Deal: Perplexity AI + Picsart PRO + Freepik Premium",
-      "description": "12,64€Sichere dir drei Premium-Tools im ALL-IN-ONE KI-Bundle – zum Top-Preis!Perplexity AI PRO – 1 Jahr1 Jahr PRO-Zugang (Voucher-Code)Premium KI-Rech",
+      "id": "happyhour-0862",
+      "brand": "Pratersauna",
+      "logo": "🍸",
+      "title": "Happy Hour -50%",
+      "description": "Günstige Getränke während der Happy Hour!",
+      "price": "-50%",
+      "originalPrice": "Vollpreis",
       "type": "rabatt",
+      "category": "trinken",
+      "source": "Wiener Nightlife",
+      "url": "https://example.at",
+      "expires": "Täglich 17-19h",
+      "location": "15. Bezirk",
+      "hot": false,
+      "isNew": false,
+      "priority": 9,
+      "votes": 116,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
+    },
+    {
+      "id": "pj-1771062634445-2f7fec",
+      "brand": "Preisjäger",
+      "logo": "🎁",
+      "title": "Media Markt: 10% on top auf Produkte im Sale mit MyMediaMarkt z.B. GAR",
+      "description": "MediaMarktHey PJMit dem kostenlosen Kundenprogramm von Media Markt, MyMediaMarkt, könnt ihr euch 10% on top  Sonderangebote, Restposten, Einzelstücke ",
+      "type": "gratis",
       "category": "technik",
       "source": "Preisjäger: Elektronik",
-      "url": "https://www.preisjaeger.at/deals/1-jahr-bundle-deal-perplexity-ai-picsart-pro-freepik-premium-360060",
+      "url": "https://www.preisjaeger.at/gutschein/media-markt-10-on-top-auf-produkte-im-sale-mit-mymediamarkt-zb-garmin-fenix-7-pro-solar-schwarzschiefergrau-43110eur-statt-48299eur-359888",
       "expires": "Siehe Link",
       "distance": "Österreich",
-      "hot": false,
+      "hot": true,
       "isNew": true,
-      "priority": 2,
+      "priority": 1,
       "votes": 100,
-      "pubDate": "Fri, 13 Feb 2026 09:18:18 +0100"
+      "pubDate": "Fri, 13 Feb 2026 16:46:21 +0100"
     },
     {
       "id": "shopping-0955",
@@ -1291,7 +1605,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:09.550Z"
+      "pubDate": "2026-02-14T09:50:36.706Z"
     },
     {
       "id": "chain-spar",
@@ -1309,7 +1623,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:06.134Z"
+      "pubDate": "2026-02-14T09:50:34.965Z"
     },
     {
       "id": "chain-saturn",
@@ -1327,7 +1641,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:06.134Z"
+      "pubDate": "2026-02-14T09:50:34.965Z"
     },
     {
       "id": "park-0561",
@@ -1350,14 +1664,34 @@
       "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
-      "id": "event-0718",
+      "id": "biergarten-0736",
+      "brand": "Schübel-Au",
+      "logo": "🍺",
+      "title": "Wiener Biergarten Deal",
+      "description": "Traditioneller Wiener Biergarten mit günstigen Getränken!",
+      "price": "ab €3",
+      "originalPrice": "€8",
+      "type": "rabatt",
+      "category": "trinken",
+      "source": "Wiener Biergärten",
+      "url": "https://example.at",
+      "expires": "Täglich",
+      "location": "11. Bezirk",
+      "hot": false,
+      "isNew": false,
+      "priority": 6,
+      "votes": 99,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
+    },
+    {
+      "id": "event-0713",
       "brand": "Silvester",
       "logo": "🎆",
-      "title": "Silvester Deal",
+      "title": "GRATIS Event",
       "description": "Kostenlose Events in Wien!",
-      "price": "€15",
-      "originalPrice": "€0",
-      "type": "rabatt",
+      "price": "Gratis",
+      "originalPrice": "€50+",
+      "type": "gratis",
       "category": "event",
       "source": "Vienna Events",
       "url": "https://example.at",
@@ -1365,28 +1699,48 @@
       "location": "Wien",
       "hot": false,
       "isNew": false,
-      "priority": 9,
-      "votes": 352,
+      "priority": 6,
+      "votes": 482,
       "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
-      "id": "supermarket-0495",
+      "id": "tgtg-0118",
       "brand": "Spar",
-      "logo": "🏪",
-      "title": "Spar Aktion -40%",
-      "description": "Wöchentliche Angebote bei Spar!",
-      "price": "-30% bis -60%",
-      "originalPrice": "Voller Preis",
+      "logo": "🥡",
+      "title": "Too Good To Go - €3.50 Bag",
+      "description": "Überraschungstüte mit geretteten Lebensmitteln!",
+      "price": "€3.50",
+      "originalPrice": "€10+",
       "type": "rabatt",
-      "category": "shopping",
-      "source": "Spar",
-      "url": "https://example.at",
-      "expires": "Wöchentlich",
-      "location": "4. Bezirk",
-      "hot": false,
+      "category": "essen",
+      "source": "Too Good To Go",
+      "url": "https://www.toogoodtogo.at",
+      "expires": "Täglich",
+      "location": "3. Bezirk",
+      "hot": true,
       "isNew": false,
       "priority": 6,
-      "votes": 219,
+      "votes": 382,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
+    },
+    {
+      "id": "tgtg-0140",
+      "brand": "Spar Express",
+      "logo": "🥡",
+      "title": "Too Good To Go - €4.50 Bag",
+      "description": "Überraschungstüte mit geretteten Lebensmitteln!",
+      "price": "€4.50",
+      "originalPrice": "€10+",
+      "type": "rabatt",
+      "category": "essen",
+      "source": "Too Good To Go",
+      "url": "https://www.toogoodtogo.at",
+      "expires": "Täglich",
+      "location": "9. Bezirk",
+      "hot": true,
+      "isNew": false,
+      "priority": 3,
+      "votes": 296,
       "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
@@ -1450,22 +1804,22 @@
       "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
-      "id": "fastfood-0474",
+      "id": "fastfood-0454",
       "brand": "Subway",
       "logo": "🥪",
-      "title": "Subway Deal €5",
+      "title": "Subway Deal €9",
       "description": "Subway Deal - Günstig und lecker!",
-      "price": "€5",
+      "price": "€9",
       "originalPrice": "€12",
       "type": "rabatt",
       "category": "essen",
       "source": "Subway",
       "url": "https://example.at",
       "expires": "Unbefristet",
-      "location": "12. Bezirk",
+      "location": "2. Bezirk",
       "hot": false,
       "isNew": false,
-      "priority": 8,
+      "priority": 6,
       "votes": 196,
       "pubDate": "2026-02-14T09:49:22.489222Z"
     },
@@ -1490,6 +1844,26 @@
       "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
+      "id": "museum-0371",
+      "brand": "Technisches Museum",
+      "logo": "🏛️",
+      "title": "GRATIS unter 19",
+      "description": "Freier Eintritt für Kinder und Jugendliche unter 19!",
+      "price": "Gratis",
+      "originalPrice": "€15-25",
+      "type": "gratis",
+      "category": "event",
+      "source": "Technisches Museum",
+      "url": "https://www.khm.at",
+      "expires": "Unbefristet",
+      "location": "1. Bezirk",
+      "hot": true,
+      "isNew": false,
+      "priority": 7,
+      "votes": 375,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
+    },
+    {
       "id": "tischlein-main",
       "brand": "Tischlein deck dich",
       "logo": "🍽️",
@@ -1505,7 +1879,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 150,
-      "pubDate": "2026-02-14T08:58:09.590Z"
+      "pubDate": "2026-02-14T09:50:36.774Z"
     },
     {
       "id": "tgtg-main",
@@ -1523,7 +1897,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 1000,
-      "pubDate": "2026-02-14T08:58:04.188Z"
+      "pubDate": "2026-02-14T09:50:33.905Z"
     },
     {
       "id": "park-0549",
@@ -1546,6 +1920,26 @@
       "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
+      "id": "happyhour-0863",
+      "brand": "U4",
+      "logo": "🍸",
+      "title": "Happy Hour -50%",
+      "description": "Günstige Getränke während der Happy Hour!",
+      "price": "-50%",
+      "originalPrice": "Vollpreis",
+      "type": "rabatt",
+      "category": "trinken",
+      "source": "Wiener Nightlife",
+      "url": "https://example.at",
+      "expires": "Täglich 17-19h",
+      "location": "6. Bezirk",
+      "hot": false,
+      "isNew": false,
+      "priority": 7,
+      "votes": 103,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
+    },
+    {
       "id": "chain-unimarkt",
       "brand": "UNIMARKT",
       "logo": "🛒",
@@ -1561,7 +1955,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:06.134Z"
+      "pubDate": "2026-02-14T09:50:34.965Z"
     },
     {
       "id": "uni-uni-mensen-wien",
@@ -1579,7 +1973,27 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-14T08:58:06.210Z"
+      "pubDate": "2026-02-14T09:50:35.100Z"
+    },
+    {
+      "id": "student-0296",
+      "brand": "Uni Wien Mensa",
+      "logo": "🎓",
+      "title": "Studentenmenü €2.0",
+      "description": "Günstiges Mittagessen für Studierende!",
+      "price": "€2.0",
+      "originalPrice": "€8",
+      "type": "rabatt",
+      "category": "essen",
+      "source": "ÖH",
+      "url": "https://www.stw.at",
+      "expires": "Werktags",
+      "location": "Wien",
+      "hot": false,
+      "isNew": false,
+      "priority": 8,
+      "votes": 178,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
       "id": "food-extra-0914",
@@ -1617,7 +2031,27 @@
       "isNew": false,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:09.550Z"
+      "pubDate": "2026-02-14T09:50:36.706Z"
+    },
+    {
+      "id": "student-0268",
+      "brand": "WU Wien Mensa",
+      "logo": "🎓",
+      "title": "Studentenmenü €2.2",
+      "description": "Günstiges Mittagessen für Studierende!",
+      "price": "€2.2",
+      "originalPrice": "€8",
+      "type": "rabatt",
+      "category": "essen",
+      "source": "ÖH",
+      "url": "https://www.stw.at",
+      "expires": "Werktags",
+      "location": "Wien",
+      "hot": false,
+      "isNew": false,
+      "priority": 6,
+      "votes": 198,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
       "id": "freebies-1005",
@@ -1735,7 +2169,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-14T08:58:04.109Z"
+      "pubDate": "2026-02-14T09:50:33.768Z"
     },
     {
       "id": "event-wiener-eistraum",
@@ -1753,7 +2187,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-14T08:58:04.109Z"
+      "pubDate": "2026-02-14T09:50:33.768Z"
     },
     {
       "id": "event-wiener-linien",
@@ -1771,7 +2205,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-14T08:58:04.109Z"
+      "pubDate": "2026-02-14T09:50:33.768Z"
     },
     {
       "id": "event-wiener-rathaus",
@@ -1789,7 +2223,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-14T08:58:04.109Z"
+      "pubDate": "2026-02-14T09:50:33.768Z"
     },
     {
       "id": "event-wiener-staatsoper",
@@ -1807,7 +2241,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-14T08:58:04.109Z"
+      "pubDate": "2026-02-14T09:50:33.768Z"
     },
     {
       "id": "wienertafel-0207",
@@ -1830,6 +2264,26 @@
       "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
+      "id": "happyhour-0832",
+      "brand": "Wuk",
+      "logo": "🍸",
+      "title": "Happy Hour -50%",
+      "description": "Günstige Getränke während der Happy Hour!",
+      "price": "-50%",
+      "originalPrice": "Vollpreis",
+      "type": "rabatt",
+      "category": "trinken",
+      "source": "Wiener Nightlife",
+      "url": "https://example.at",
+      "expires": "Täglich 17-19h",
+      "location": "1. Bezirk",
+      "hot": false,
+      "isNew": false,
+      "priority": 7,
+      "votes": 105,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
+    },
+    {
       "id": "chain-xxxlutz",
       "brand": "XXXLutz",
       "logo": "🛏️",
@@ -1845,7 +2299,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:06.134Z"
+      "pubDate": "2026-02-14T09:50:34.965Z"
     },
     {
       "id": "chain-zalando",
@@ -1863,7 +2317,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:06.134Z"
+      "pubDate": "2026-02-14T09:50:34.965Z"
     },
     {
       "id": "shopping-0967",
@@ -1886,6 +2340,26 @@
       "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
+      "id": "biergarten-0742",
+      "brand": "Zum schwarzen Schaf",
+      "logo": "🍺",
+      "title": "Wiener Biergarten Deal",
+      "description": "Traditioneller Wiener Biergarten mit günstigen Getränken!",
+      "price": "ab €3",
+      "originalPrice": "€8",
+      "type": "rabatt",
+      "category": "trinken",
+      "source": "Wiener Biergärten",
+      "url": "https://example.at",
+      "expires": "Täglich",
+      "location": "3. Bezirk",
+      "hot": false,
+      "isNew": false,
+      "priority": 7,
+      "votes": 134,
+      "pubDate": "2026-02-14T09:49:22.489222Z"
+    },
+    {
       "id": "chain-dm",
       "brand": "dm",
       "logo": "💄",
@@ -1901,7 +2375,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T08:58:06.134Z"
+      "pubDate": "2026-02-14T09:50:34.965Z"
     },
     {
       "id": "transport-0317",
