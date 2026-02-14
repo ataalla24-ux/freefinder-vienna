@@ -30,7 +30,20 @@ async function main() {
   console.log('🎯 FREEFINDER VIENNA - MASTER SCRAPER');
   console.log('=====================================\n');
   
-  const allDeals = [];
+  // Load hand-crafted quality deals (these persist across runs)
+  let handCraftedDeals = [];
+  const handCraftedFile = 'output/hand-crafted-deals.json';
+  if (fs.existsSync(handCraftedFile)) {
+    try {
+      const handData = JSON.parse(fs.readFileSync(handCraftedFile, 'utf8'));
+      handCraftedDeals = handData.deals || [];
+      console.log(`📚 Loaded ${handCraftedDeals.length} hand-crafted deals\n`);
+    } catch (e) {
+      console.log(`⚠️ Could not load hand-crafted deals: ${e.message}`);
+    }
+  }
+  
+  const allDeals = [...handCraftedDeals]; // Start with hand-crafted
   let successCount = 0;
   let failCount = 0;
   
@@ -85,6 +98,8 @@ async function main() {
   console.log('📊 FINAL RESULTS:');
   console.log(`   ✅ Successful: ${successCount}/${SCRAPERS.length}`);
   console.log(`   ❌ Failed: ${failCount}`);
+  console.log(`   📚 Hand-crafted Deals: ${handCraftedDeals.length}`);
+  console.log(`   🤖 Scraped Deals: ${allDeals.length - handCraftedDeals.length}`);
   console.log(`   📦 Total Deals: ${allDeals.length}`);
   console.log(`   🔥 Unique Deals: ${uniqueDeals.length}`);
   console.log(`   ❤️  Gratis Deals: ${uniqueDeals.filter(d => d.type === 'gratis').length}`);
