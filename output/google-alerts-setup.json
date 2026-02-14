@@ -1,0 +1,293 @@
+{
+  "anleitung": "Google Alerts einrichten",
+  "schritte": [
+    "1. Gehe auf google.com/alerts",
+    "2. Melde dich mit deinem Google-Konto an",
+    "3. Füge jeden Suchbegriff einzeln ein",
+    "4. Einstellungen: \"Alle\" nicht \"Nur die Besten\"",
+    "5. Häufigkeit: \"Sofort\" für beste Deals",
+    "6. Art: \"E-Mail\" oder \"RSS Feed\""
+  ],
+  "alerts": [
+    {
+      "query": "gratis wien",
+      "url": "https://www.google.com/alerts?search=gratis%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "kostenlos essen wien",
+      "url": "https://www.google.com/alerts?search=kostenlos%20essen%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "kostenlos trinken wien",
+      "url": "https://www.google.com/alerts?search=kostenlos%20trinken%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "gratis pizza wien",
+      "url": "https://www.google.com/alerts?search=gratis%20pizza%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "gratis kebab wien",
+      "url": "https://www.google.com/alerts?search=gratis%20kebab%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "gratis café wien",
+      "url": "https://www.google.com/alerts?search=gratis%20caf%C3%A9%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "gratis brunch wien",
+      "url": "https://www.google.com/alerts?search=gratis%20brunch%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "gratis essen restaurant wien",
+      "url": "https://www.google.com/alerts?search=gratis%20essen%20restaurant%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "1€ essen wien",
+      "url": "https://www.google.com/alerts?search=1%E2%82%AC%20essen%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "1€ kebab wien",
+      "url": "https://www.google.com/alerts?search=1%E2%82%AC%20kebab%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "1€ pizza wien",
+      "url": "https://www.google.com/alerts?search=1%E2%82%AC%20pizza%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "1€ döner wien",
+      "url": "https://www.google.com/alerts?search=1%E2%82%AC%20d%C3%B6ner%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "1,50€ kebab wien",
+      "url": "https://www.google.com/alerts?search=1%2C50%E2%82%AC%20kebab%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "1,90€ kebab wien",
+      "url": "https://www.google.com/alerts?search=1%2C90%E2%82%AC%20kebab%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "2€ essen wien",
+      "url": "https://www.google.com/alerts?search=2%E2%82%AC%20essen%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "2€ kebab wien",
+      "url": "https://www.google.com/alerts?search=2%E2%82%AC%20kebab%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "2€ pizza wien",
+      "url": "https://www.google.com/alerts?search=2%E2%82%AC%20pizza%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "3€ essen wien",
+      "url": "https://www.google.com/alerts?search=3%E2%82%AC%20essen%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "5€ essen wien",
+      "url": "https://www.google.com/alerts?search=5%E2%82%AC%20essen%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "günstig essen wien",
+      "url": "https://www.google.com/alerts?search=g%C3%BCnstig%20essen%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "billig essen wien",
+      "url": "https://www.google.com/alerts?search=billig%20essen%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "eröffnung gratis wien",
+      "url": "https://www.google.com/alerts?search=er%C3%B6ffnung%20gratis%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "eröffnung angebot wien",
+      "url": "https://www.google.com/alerts?search=er%C3%B6ffnung%20angebot%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "eröffnung rabatt wien",
+      "url": "https://www.google.com/alerts?search=er%C3%B6ffnung%20rabatt%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "neueröffnung restaurant wien",
+      "url": "https://www.google.com/alerts?search=neuer%C3%B6ffnung%20restaurant%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "opening deal wien",
+      "url": "https://www.google.com/alerts?search=opening%20deal%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "opening gratis wien",
+      "url": "https://www.google.com/alerts?search=opening%20gratis%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "tag der offenen tür wien",
+      "url": "https://www.google.com/alerts?search=tag%20der%20offenen%20t%C3%BCr%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "studentenrabatt wien",
+      "url": "https://www.google.com/alerts?search=studentenrabatt%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "studenten essen wien",
+      "url": "https://www.google.com/alerts?search=studenten%20essen%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "studenten günstig wien",
+      "url": "https://www.google.com/alerts?search=studenten%20g%C3%BCnstig%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "uni mensa wien preise",
+      "url": "https://www.google.com/alerts?search=uni%20mensa%20wien%20preise&hl=de&gl=AT"
+    },
+    {
+      "query": "ak wien services gratis",
+      "url": "https://www.google.com/alerts?search=ak%20wien%20services%20gratis&hl=de&gl=AT"
+    },
+    {
+      "query": "foodsharing wien",
+      "url": "https://www.google.com/alerts?search=foodsharing%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "too good to go wien",
+      "url": "https://www.google.com/alerts?search=too%20good%20to%20go%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "wiener tafel wien",
+      "url": "https://www.google.com/alerts?search=wiener%20tafel%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "brot retten wien",
+      "url": "https://www.google.com/alerts?search=brot%20retten%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "lebensmittel kostenlos wien",
+      "url": "https://www.google.com/alerts?search=lebensmittel%20kostenlos%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "tischlein deck dich wien",
+      "url": "https://www.google.com/alerts?search=tischlein%20deck%20dich%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "rescue food wien",
+      "url": "https://www.google.com/alerts?search=rescue%20food%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "gratis museum wien",
+      "url": "https://www.google.com/alerts?search=gratis%20museum%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "freier eintritt wien museen",
+      "url": "https://www.google.com/alerts?search=freier%20eintritt%20wien%20museen&hl=de&gl=AT"
+    },
+    {
+      "query": "museum freitag wien",
+      "url": "https://www.google.com/alerts?search=museum%20freitag%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "museum sonntag wien",
+      "url": "https://www.google.com/alerts?search=museum%20sonntag%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "bundesmuseen gratis unter 19",
+      "url": "https://www.google.com/alerts?search=bundesmuseen%20gratis%20unter%2019&hl=de&gl=AT"
+    },
+    {
+      "query": "wien card vergünstigung",
+      "url": "https://www.google.com/alerts?search=wien%20card%20verg%C3%BCnstigung&hl=de&gl=AT"
+    },
+    {
+      "query": "sale wien",
+      "url": "https://www.google.com/alerts?search=sale%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "rabatt wien",
+      "url": "https://www.google.com/alerts?search=rabatt%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "günstig einkaufen wien",
+      "url": "https://www.google.com/alerts?search=g%C3%BCnstig%20einkaufen%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "gratis produkte supermarkt wien",
+      "url": "https://www.google.com/alerts?search=gratis%20produkte%20supermarkt%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "gratis event wien",
+      "url": "https://www.google.com/alerts?search=gratis%20event%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "gratis konzert wien",
+      "url": "https://www.google.com/alerts?search=gratis%20konzert%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "gratis festival wien",
+      "url": "https://www.google.com/alerts?search=gratis%20festival%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "open air kino wien gratis",
+      "url": "https://www.google.com/alerts?search=open%20air%20kino%20wien%20gratis&hl=de&gl=AT"
+    },
+    {
+      "query": "donauinselfest gratis",
+      "url": "https://www.google.com/alerts?search=donauinselfest%20gratis&hl=de&gl=AT"
+    },
+    {
+      "query": "filmfestival rathausplatz gratis",
+      "url": "https://www.google.com/alerts?search=filmfestival%20rathausplatz%20gratis&hl=de&gl=AT"
+    },
+    {
+      "query": "1€ ticket wien",
+      "url": "https://www.google.com/alerts?search=1%E2%82%AC%20ticket%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "klima ticket wien",
+      "url": "https://www.google.com/alerts?search=klima%20ticket%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "sparpreis öbb wien",
+      "url": "https://www.google.com/alerts?search=sparpreis%20%C3%B6bb%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "citybike wien gratis",
+      "url": "https://www.google.com/alerts?search=citybike%20wien%20gratis&hl=de&gl=AT"
+    },
+    {
+      "query": "gratis probieren wien",
+      "url": "https://www.google.com/alerts?search=gratis%20probieren%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "1+1 gratis wien",
+      "url": "https://www.google.com/alerts?search=1%2B1%20gratis%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "giveaway wien",
+      "url": "https://www.google.com/alerts?search=giveaway%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "gratis produktprobe wien",
+      "url": "https://www.google.com/alerts?search=gratis%20produktprobe%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "OMV 1€ kaffee wien",
+      "url": "https://www.google.com/alerts?search=OMV%201%E2%82%AC%20kaffee%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "gratis wlan wien",
+      "url": "https://www.google.com/alerts?search=gratis%20wlan%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "gratis schwimmen wien",
+      "url": "https://www.google.com/alerts?search=gratis%20schwimmen%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "gratis sport wien",
+      "url": "https://www.google.com/alerts?search=gratis%20sport%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "gratis park wien",
+      "url": "https://www.google.com/alerts?search=gratis%20park%20wien&hl=de&gl=AT"
+    },
+    {
+      "query": "gratis aussicht wien",
+      "url": "https://www.google.com/alerts?search=gratis%20aussicht%20wien&hl=de&gl=AT"
+    }
+  ]
+}
