@@ -1,0 +1,34 @@
+name: 📝 Smart Zusammenfassung
+on:
+  schedule:
+    - cron: '0 5 * * *'  # Täglich um 5:00 UTC (6:00 Wien)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  smart-summary:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: 📝 Run Smart Summary
+        run: node scraper/smart-summary.js
+        continue-on-error: true
+      
+      - name: 📤 Commit & Push
+        run: |
+          git config user.email "bot@github.com"
+          git config user.name "Summary Bot"
+          git add docs/deals.json
+          git diff --staged --quiet || git commit -m "📝 Deals optimiert"
+          git pull --rebase origin main || true
+          git push || true

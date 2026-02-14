@@ -9,7 +9,7 @@
       "category": "gratis",
       "description": "Alle Gratis-Angebote in Wien",
       "status": "einrichten",
-      "createdAt": "2026-02-14T09:50:35.166Z"
+      "createdAt": "2026-02-14T10:23:33.434Z"
     },
     {
       "id": "uni-ak-wien",
@@ -27,7 +27,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-14T09:50:35.101Z"
+      "pubDate": "2026-02-14T10:23:33.368Z"
     },
     {
       "id": "chain-about-you",
@@ -45,7 +45,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:34.965Z"
+      "pubDate": "2026-02-14T10:23:33.222Z"
     },
     {
       "id": "museum-0368",
@@ -83,7 +83,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:34.964Z"
+      "pubDate": "2026-02-14T10:23:33.220Z"
     },
     {
       "id": "chain-bipa",
@@ -101,7 +101,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:34.965Z"
+      "pubDate": "2026-02-14T10:23:33.222Z"
     },
     {
       "id": "student-0254",
@@ -219,7 +219,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 150,
-      "pubDate": "2026-02-14T09:50:35.033Z"
+      "pubDate": "2026-02-14T10:23:33.296Z"
     },
     {
       "id": "event-bundesmuseen",
@@ -237,7 +237,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-14T09:50:33.768Z"
+      "pubDate": "2026-02-14T10:23:31.890Z"
     },
     {
       "id": "fastfood-0417",
@@ -315,7 +315,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-14T09:50:33.768Z"
+      "pubDate": "2026-02-14T10:23:31.890Z"
     },
     {
       "id": "shopping-0938",
@@ -353,7 +353,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:36.706Z"
+      "pubDate": "2026-02-14T10:23:34.943Z"
     },
     {
       "id": "cafe-0754",
@@ -451,7 +451,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:34.965Z"
+      "pubDate": "2026-02-14T10:23:33.222Z"
     },
     {
       "id": "chain-cyberport",
@@ -469,7 +469,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:34.965Z"
+      "pubDate": "2026-02-14T10:23:33.222Z"
     },
     {
       "id": "fitness-0811",
@@ -547,7 +547,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:34.965Z"
+      "pubDate": "2026-02-14T10:23:33.222Z"
     },
     {
       "id": "event-donauinselfest",
@@ -565,7 +565,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-14T09:50:33.766Z"
+      "pubDate": "2026-02-14T10:23:31.889Z"
     },
     {
       "id": "event-film-festival",
@@ -583,7 +583,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-14T09:50:33.768Z"
+      "pubDate": "2026-02-14T10:23:31.890Z"
     },
     {
       "id": "fitness-0830",
@@ -641,7 +641,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:36.706Z"
+      "pubDate": "2026-02-14T10:23:34.943Z"
     },
     {
       "id": "happyhour-0838",
@@ -679,7 +679,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 80,
-      "pubDate": "2026-02-14T09:50:36.774Z"
+      "pubDate": "2026-02-14T10:23:35.018Z"
     },
     {
       "id": "market-foodsharing-fairteiler",
@@ -697,7 +697,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 150,
-      "pubDate": "2026-02-14T09:50:35.033Z"
+      "pubDate": "2026-02-14T10:23:33.296Z"
     },
     {
       "id": "foodshare-foodsharing-wien",
@@ -715,7 +715,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 200,
-      "pubDate": "2026-02-14T09:50:33.835Z"
+      "pubDate": "2026-02-14T10:23:31.959Z"
     },
     {
       "id": "foodsharing-at-main",
@@ -733,7 +733,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 250,
-      "pubDate": "2026-02-14T09:50:36.774Z"
+      "pubDate": "2026-02-14T10:23:35.018Z"
     },
     {
       "id": "biergarten-0748",
@@ -791,7 +791,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:34.965Z"
+      "pubDate": "2026-02-14T10:23:33.222Z"
     },
     {
       "id": "tgtg-0111",
@@ -829,7 +829,7 @@
       "isNew": true,
       "priority": 1,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:34.965Z"
+      "pubDate": "2026-02-14T10:23:33.222Z"
     },
     {
       "id": "chain-interspar",
@@ -847,7 +847,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:34.965Z"
+      "pubDate": "2026-02-14T10:23:33.222Z"
     },
     {
       "id": "fitness-0813",
@@ -985,7 +985,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 150,
-      "pubDate": "2026-02-14T09:50:35.033Z"
+      "pubDate": "2026-02-14T10:23:33.296Z"
     },
     {
       "id": "fitness-0816",
@@ -1043,7 +1043,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:34.965Z"
+      "pubDate": "2026-02-14T10:23:33.222Z"
     },
     {
       "id": "event-lange-nacht-der-museen",
@@ -1061,7 +1061,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-14T09:50:33.768Z"
+      "pubDate": "2026-02-14T10:23:31.890Z"
     },
     {
       "id": "food-extra-0901",
@@ -1279,7 +1279,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:34.965Z"
+      "pubDate": "2026-02-14T10:23:33.222Z"
     },
     {
       "id": "uni-mensa-göttweig",
@@ -1297,7 +1297,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-14T09:50:35.101Z"
+      "pubDate": "2026-02-14T10:23:33.368Z"
     },
     {
       "id": "uni-mensa斜",
@@ -1315,7 +1315,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-14T09:50:35.101Z"
+      "pubDate": "2026-02-14T10:23:33.368Z"
     },
     {
       "id": "chain-möbelix",
@@ -1333,7 +1333,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:34.965Z"
+      "pubDate": "2026-02-14T10:23:33.222Z"
     },
     {
       "id": "biergarten-0739",
@@ -1391,7 +1391,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 150,
-      "pubDate": "2026-02-14T09:50:35.032Z"
+      "pubDate": "2026-02-14T10:23:33.296Z"
     },
     {
       "id": "museum-0394",
@@ -1489,7 +1489,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:34.965Z"
+      "pubDate": "2026-02-14T10:23:33.222Z"
     },
     {
       "id": "tgtg-0129",
@@ -1552,7 +1552,7 @@
       "pubDate": "2026-02-14T09:49:22.489222Z"
     },
     {
-      "id": "pj-1771062634445-2f7fec",
+      "id": "pj-1771064612689-ws5u7z",
       "brand": "Preisjäger",
       "logo": "🎁",
       "title": "Media Markt: 10% on top auf Produkte im Sale mit MyMediaMarkt z.B. GAR",
@@ -1605,7 +1605,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:36.706Z"
+      "pubDate": "2026-02-14T10:23:34.943Z"
     },
     {
       "id": "chain-spar",
@@ -1623,7 +1623,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:34.965Z"
+      "pubDate": "2026-02-14T10:23:33.222Z"
     },
     {
       "id": "chain-saturn",
@@ -1641,7 +1641,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:34.965Z"
+      "pubDate": "2026-02-14T10:23:33.222Z"
     },
     {
       "id": "park-0561",
@@ -1879,7 +1879,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 150,
-      "pubDate": "2026-02-14T09:50:36.774Z"
+      "pubDate": "2026-02-14T10:23:35.018Z"
     },
     {
       "id": "tgtg-main",
@@ -1897,7 +1897,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 1000,
-      "pubDate": "2026-02-14T09:50:33.905Z"
+      "pubDate": "2026-02-14T10:23:32.029Z"
     },
     {
       "id": "park-0549",
@@ -1955,7 +1955,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:34.965Z"
+      "pubDate": "2026-02-14T10:23:33.222Z"
     },
     {
       "id": "uni-uni-mensen-wien",
@@ -1973,7 +1973,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 300,
-      "pubDate": "2026-02-14T09:50:35.100Z"
+      "pubDate": "2026-02-14T10:23:33.367Z"
     },
     {
       "id": "student-0296",
@@ -2031,7 +2031,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:36.706Z"
+      "pubDate": "2026-02-14T10:23:34.943Z"
     },
     {
       "id": "student-0268",
@@ -2169,7 +2169,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-14T09:50:33.768Z"
+      "pubDate": "2026-02-14T10:23:31.890Z"
     },
     {
       "id": "event-wiener-eistraum",
@@ -2187,7 +2187,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-14T09:50:33.768Z"
+      "pubDate": "2026-02-14T10:23:31.890Z"
     },
     {
       "id": "event-wiener-linien",
@@ -2205,7 +2205,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-14T09:50:33.768Z"
+      "pubDate": "2026-02-14T10:23:31.890Z"
     },
     {
       "id": "event-wiener-rathaus",
@@ -2223,7 +2223,7 @@
       "isNew": false,
       "priority": 2,
       "votes": 200,
-      "pubDate": "2026-02-14T09:50:33.768Z"
+      "pubDate": "2026-02-14T10:23:31.890Z"
     },
     {
       "id": "event-wiener-staatsoper",
@@ -2241,7 +2241,7 @@
       "isNew": false,
       "priority": 1,
       "votes": 500,
-      "pubDate": "2026-02-14T09:50:33.768Z"
+      "pubDate": "2026-02-14T10:23:31.890Z"
     },
     {
       "id": "wienertafel-0207",
@@ -2299,7 +2299,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:34.965Z"
+      "pubDate": "2026-02-14T10:23:33.222Z"
     },
     {
       "id": "chain-zalando",
@@ -2317,7 +2317,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:34.965Z"
+      "pubDate": "2026-02-14T10:23:33.222Z"
     },
     {
       "id": "shopping-0967",
@@ -2375,7 +2375,7 @@
       "isNew": true,
       "priority": 2,
       "votes": 50,
-      "pubDate": "2026-02-14T09:50:34.965Z"
+      "pubDate": "2026-02-14T10:23:33.222Z"
     },
     {
       "id": "transport-0317",
