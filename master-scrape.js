@@ -75,12 +75,13 @@ async function main() {
     }
   }
   
-  // Deduplicate
+  // Deduplicate - use ID if available, otherwise title
   const uniqueDeals = [];
   const seen = new Set();
   
   for (const deal of allDeals) {
-    const key = deal.title.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, 30);
+    // Prefer ID, fallback to title
+    const key = deal.id || deal.title.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, 30);
     if (!seen.has(key)) {
       seen.add(key);
       uniqueDeals.push(deal);
